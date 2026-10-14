@@ -1,0 +1,20 @@
+test_decimal_dimensions_and_explicit_set_quantity (test_scraper.ScraperTests.test_decimal_dimensions_and_explicit_set_quantity) ... ok
+test_display_stock_is_not_sale_set (test_scraper.ScraperTests.test_display_stock_is_not_sale_set) ... ok
+test_duplicates_prevent_export (test_scraper.ScraperTests.test_duplicates_prevent_export) ... ok
+test_explicit_override_still_checks_allowlist (test_scraper.ScraperTests.test_explicit_override_still_checks_allowlist) ... ok
+test_no_category_outside_template (test_scraper.ScraperTests.test_no_category_outside_template) ... ok
+test_pagination_failure_prevents_partial_export (test_scraper.ScraperTests.test_pagination_failure_prevents_partial_export) ... ok
+test_price_currency_and_shipping_facts (test_scraper.ScraperTests.test_price_currency_and_shipping_facts) ... ok
+test_reject_similar_wrong_products (test_scraper.ScraperTests.test_reject_similar_wrong_products) ... ok
+test_repeated_required_property_needs_one_value (test_scraper.ScraperTests.test_repeated_required_property_needs_one_value) ... ok
+test_shipping_defaults_do_not_become_product_dimensions (test_scraper.ScraperTests.test_shipping_defaults_do_not_become_product_dimensions) ... ok
+test_stock_filter_end_to_end (test_scraper.ScraperTests.test_stock_filter_end_to_end) ... ok
+test_supported_specific_categories (test_scraper.ScraperTests.test_supported_specific_categories) ... ok
+test_unknown_currency_is_not_silently_converted (test_scraper.ScraperTests.test_unknown_currency_is_not_silently_converted) ... ok
+test_vision_sends_actual_images_and_caches (test_scraper.ScraperTests.test_vision_sends_actual_images_and_caches) ... ok
+test_writer_preserves_metadata_validations_and_reserved_rows (test_scraper.ScraperTests.test_writer_preserves_metadata_validations_and_reserved_rows) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 10.685s
+
+OK

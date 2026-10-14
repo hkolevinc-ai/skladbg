@@ -1,0 +1,17 @@
+{
+  "site_url": "https://skladbg.net",
+  "workers": 4,
+  "listing_quantity": 1,
+  "shipping_template": "Lazur",
+  "handling_time": "2 Days",
+  "manufacturer": null,
+  "eu_responsible_person": null,
+  "country_of_origin": null,
+  "market_after_2024_12_13": null,
+  "individually_packed": null,
+  "default_package_weight_g": null,
+  "default_package_cm": null,
+  "vision_model": "gpt-4.1-mini",
+  "vision_limit": 20,
+  "max_rows_per_file": 4996
+}

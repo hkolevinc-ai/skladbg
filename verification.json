@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "source_catalog_records": 7612,
+  "in_stock_records": 5078,
+  "exported_records": 1335,
+  "temu_categories_exported": 109,
+  "template_allowlist": 359,
+  "tests_passed": 15,
+  "metadata_preserved": "All ZIP members except xl/worksheets/sheet10.xml are byte-identical to the original template. Reserved rows 1-4 and validation rules verified.",
+  "description_sources": {
+    "source_fields": 1321,
+    "reviewed_images": 14
+  },
+  "vision_api_test": "Mocked HTTP response verifies actual input_image requests and cache reuse. No paid live OpenAI call was made.",
+  "public_source_api_test": "Live HttpClient request returned product ID 4610 and X-WP-Total 7612. Full real catalog downloaded with pagination and unique-ID verification.",
+  "upload_ready": false,
+  "template_sha256": "3b0e4b30699c808d63e99896381ef33cfd1aa66b1d6f4506175dd194040eba40"
+}
