@@ -1,0 +1,64 @@
+name: SkladBG to Temu
+on:
+  workflow_dispatch:
+    inputs:
+      vision:
+        description: 'Analyze product photographs (requires OPENAI_API_KEY secret)'
+        type: boolean
+        default: false
+      vision_limit:
+        description: 'Maximum image-analysis calls (0 = all matching products)'
+        type: string
+        default: '20'
+      limit:
+        description: 'Maximum matching products to export (0 = all)'
+        type: string
+        default: '0'
+permissions:
+  contents: read
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore image-description cache
+        uses: actions/cache@v4
+        with:
+          path: vision_cache
+          key: vision-${{ github.run_id }}
+          restore-keys: vision-
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Scan and fill the template
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          USE_VISION: ${{ inputs.vision }}
+          VISION_LIMIT: ${{ inputs.vision_limit }}
+          PRODUCT_LIMIT: ${{ inputs.limit }}
+        run: |
+          python - <<'PY'
+          import os,subprocess,sys
+          cmd=[sys.executable,'scraper.py','--output','output','--limit',str(int(os.environ.get('PRODUCT_LIMIT') or '0'))]
+          if os.environ.get('USE_VISION')=='true':
+              cmd+=['--vision','--vision-limit',str(int(os.environ.get('VISION_LIMIT') or '20'))]
+          subprocess.run(cmd,check=True)
+          PY
+      - name: Upload populated files and reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: skladbg-temu-results
+          path: |
+            output/*.xlsx
+            output/*.csv
+            output/summary.json
+            output/product_audit.json
+            output/descriptions.json
+            output/skipped.json
+            output/template_schema.json
+          if-no-files-found: warn
+          retention-days: 30
