@@ -8,7 +8,7 @@ def clean_title(value):
  s=text(value)
  s=re.sub(r'\s*\d+\s*бр(?:оя|ой|\.)?\s*(?:в\s+)?(?:стек|кашон).*$', '',s,flags=re.I)
  s=re.sub(r'\s+\d+\s*бр\.\s*стек.*$','',s,flags=re.I)
- return s.strip(' ,;')[:250]
+ return (s.strip(' ,;') or text(value))[:250]
 def image_urls(product):return list(dict.fromkeys(x['src'] for x in product.get('images',[]) if x.get('src','').startswith(('https://','http://'))))
 
 PURPOSES={

@@ -3,9 +3,9 @@ from decimal import Decimal
 from category_rules import normalize
 from descriptions import clean_title,image_urls,text
 
-MATERIALS=[(r'неръждаем|инокс|inox',['Stainless Steel']), (r'меламин',['Melamine']), (r'порцелан',['Porcelain','Ceramic','Ceramics']), (r'керами',['Ceramic','Ceramics']), (r'боросиликат',['Borosilicate Glass']), (r'стъкл',['Glass']), (r'бамбук',['Bamboo']), (r'дървен|дърво',['Wood']), (r'алумини',['Aluminum']), (r'алпака',['Nickel Silver','Metal']), (r'въглеродна стомана',['Steel','Metal']), (r'стомана',['Steel','Metal']), (r'метал',['Metal','Iron']), (r'силикон',['Silicone']), (r'пвц|\bpvc\b',['PVC','Polyvinyl Chloride','Plastic']), (r'пластмас',['Plastic']), (r'гума|гумен',['Rubber']), (r'поли[еэ]стер',['Polyester']), (r'памук|памуч',['Cotton']), (r'полипропилен',['Polypropylene(PP)','Polypropylene']), (r'\bабс\b|\babs\b',['Abs (acrylonitrile Butadiene Styrene)']), (r'емайл',['Enamel','enamel']), (r'харти|картон',['Paper']), (r'кожа|кожен',['Leather'])]
+MATERIALS=[(r'неръждаем|инокс|inox',['Stainless Steel']), (r'меламин',['Melamine']), (r'порцелан',['Porcelain','Ceramic','Ceramics']), (r'керами',['Ceramic','Ceramics']), (r'боросиликат',['Borosilicate Glass']), (r'стъкл',['Glass']), (r'бамбук',['Bamboo']), (r'дървен|дърво',['Wood']), (r'чугун',['Cast Iron']), (r'алумини',['Aluminum']), (r'алпака',['Nickel Silver','Metal']), (r'въглеродна стомана',['Steel','Metal']), (r'стомана',['Steel','Metal']), (r'метал',['Metal','Iron']), (r'силикон',['Silicone']), (r'пвц|\bpvc\b',['PVC','Polyvinyl Chloride','Plastic']), (r'пластмас',['Plastic']), (r'гума|гумен',['Rubber']), (r'поли[еэ]стер',['Polyester']), (r'памук|памуч',['Cotton']), (r'полипропилен',['Polypropylene(PP)','Polypropylene']), (r'\bабс\b|\babs\b',['Abs (acrylonitrile Butadiene Styrene)']), (r'емайл',['Enamel','enamel']), (r'харти|картон',['Paper']), (r'кожа|кожен',['Leather'])]
 COLORS=[(r'черен|черна|черни','Black'),(r'бял|бяла|бели','White'),(r'червен|червена','Red'),(r'син(?: |я|и|$)','Blue'),(r'зелен','Green'),(r'жълт','Yellow'),(r'розов','Pink'),(r'сив','Grey'),(r'кафяв','Brown'),(r'лилав','Purple'),(r'оранж','Orange'),(r'бежов','Beige'),(r'злат','Gold'),(r'среб','Silver'),(r'прозрач','Transparent')]
-DIMENSIONS=re.compile(r'(?<![\d.])(\d+(?:[.,]\d+)?)\s*[xх×]\s*(\d+(?:[.,]\d+)?)(?:\s*[xх×]\s*(\d+(?:[.,]\d+)?))?\s*(cm|cм|см|mm|мм|метра|метър|m|м)(?![a-zа-я])',re.I)
+DIMENSIONS=re.compile(r'(?<![\d.])(\d+(?:[.,]\d+)?)\s*[xх×*]\s*(\d+(?:[.,]\d+)?)(?:\s*[xх×*]\s*(\d+(?:[.,]\d+)?))?\s*(cm|cм|см|mm|мм|метра|метър|m|м)(?![a-zа-я])',re.I)
 def extract_facts(product):
  name=text(product['name']);body=text(product.get('description','')+' '+product.get('short_description',''));source=name+' '+body;s=normalize(source)
  mats=[];names=[]
@@ -25,10 +25,10 @@ def extract_facts(product):
  if m:capacity=m[1]+' '+m[2]
  count=1
  # "12 in a display/carton" is wholesale ordering, not proof of the sellable set.
- m=re.search(r'комплект\s*(?:от\s*)?(\d+)\s*(?:броя|бр\.?|части|чифта)|(?:\b(\d+)\s*(?:броя|бр\.?|части))\s*(?:в\s*)?комплект',s)
+ m=re.search(r'(?:комплект|комлект|сет)\s*(?:от\s*)?(\d+)\s*(?:броя|бр\.?|части|чифта)|(?:\b(\d+)\s*(?:броя|бр\.?|части))\s*(?:в\s*)?(?:комплект|к-кт|к-т)',s)
  if m:count=int(m[1] or m[2])
  else:
-  m=re.search(r'комплект\s+от\s+(\d+)\b',s)
+  m=re.search(r'(?:комплект|комлект|сет)\s+от\s+(\d+)\b',s)
   if m:count=int(m[1])
  colors=list(dict.fromkeys(color for pattern,color in COLORS if re.search(pattern,s)))
  return {'materials':mats,'material_names':names,'dimensions':dims,'weight_g':weight,'capacity':capacity,'set_quantity':count,'colors':colors}
@@ -40,10 +40,36 @@ def choose(options,candidates):
 def property_group(key):
  # Repeated material cells and material-percentage columns are alternative inputs.
  return re.sub(r'(Property:\d+):.*$',r'\1',key)
+EXEMPT_REQUIRED={'Manufacturer','EU Responsible person'}
 def required_missing(template,cat,values):
  groups=collections.defaultdict(list)
- for col in template.required.get(cat,set()):groups[property_group(template.keys[col])].append(col)
+ for col in template.required.get(cat,set())|template.active_conditional(cat,values):
+  if template.headers[col] not in EXEMPT_REQUIRED:groups[property_group(template.keys[col])].append(col)
  return [template.headers[cols[0]].split(':')[0] for cols in groups.values() if not any(values.get(c) not in (None,'') for c in cols)]
+def validate_record(template,cat,values):
+ errors=['missing_required:'+name for name in required_missing(template,cat,values)]
+ percent_groups=collections.defaultdict(list)
+ for col,value in values.items():
+  if col not in template.allowed(cat):errors.append('disabled_column:'+str(col))
+  if template.pick(cat,col,value) is None:errors.append('invalid_final_dropdown:'+template.headers[col])
+  if re.match(r'\d+ - [^:]+:',template.headers[col]):percent_groups[property_group(template.keys[col])].append(col)
+ for group,cols in percent_groups.items():
+  try:
+   nums=[float(values[c]) for c in cols]
+   if any(n<0 or n>100 for n in nums) or abs(sum(nums)-100)>0.01:errors.append('invalid_percentage_total:'+group)
+  except (ValueError,TypeError):errors.append('invalid_percentage:'+group)
+ theme=values.get(template.column('Variation Theme'),'')
+ for axis in theme.split(' × '):
+  cols=[c for c in template.columns(axis) if c in template.allowed(cat)]
+  if axis and (not cols or not any(values.get(c) not in (None,'') for c in cols)):errors.append('missing_variation_axis:'+axis)
+ family=values.get(template.column('Size Family'));sub=values.get(template.column('Sub-Size Family'))
+ if family:
+  subs=template.dropdowns.get(f't_4_{cat}_{family}_Sub-Size Family',[])
+  if subs and sub not in subs:errors.append('invalid_size_subfamily')
+ for name in ['Base Price - EUR','List Price - EUR','Weight - g','Length - cm','Width - cm','Height - cm']:
+  value=values.get(template.column(name))
+  if value is not None and float(value)<=0:errors.append('nonpositive:'+name)
+ return list(dict.fromkeys(errors))
 
 def build_row(product,parent,cat,description,template,config,override=None):
  override=override or {};facts=extract_facts(product);values={};issues=[];estimates=[];allowed=template.allowed(cat)
@@ -75,7 +101,10 @@ def build_row(product,parent,cat,description,template,config,override=None):
  if qty<1:raise ValueError('Listing quantity must be positive')
  put('Product Identification',override.get('product_identification') or sku)
  pack_count=int(override.get('set_quantity',facts['set_quantity']));put('SKU type','Multi-piece set' if pack_count>1 else 'Single set');put('Individually packed',override.get('individually_packed',config.get('individually_packed')));put('Total packaging quantity',pack_count);put('Packaging unit','piece');put('Total item quantity',pack_count);put('Item unit','piece')
- for name,setting in [('Manufacturer','manufacturer'),('EU Responsible person','eu_responsible_person'),('Country/Region of Origin','country_of_origin'),('Have any products under this goods ID been placed on the EU (or Northern Ireland) market after December 13, 2024?','market_after_2024_12_13')]:put(name,override.get(setting,config.get(setting)))
+ for name,setting in [('Manufacturer','manufacturer'),('EU Responsible person','eu_responsible_person'),('Country/Region of Origin','country_of_origin'),('Have any products under this goods ID been placed on the EU (or Northern Ireland) market after December 13, 2024?','market_after_2024_12_13')]:
+  value=override.get(setting,config.get(setting))
+  if name=='Country/Region of Origin' and value=='China':value='Mainland China'
+  put(name,value)
  shipping=override.get('shipping_template',config.get('shipping_template'))
  if not shipping:
   options=template.choices(cat,template.column('Shipping Template'))
@@ -101,7 +130,7 @@ def build_row(product,parent,cat,description,template,config,override=None):
    material=header.split(':',1)[1];patterns={'Cotton':r'памук|памуч','Polyester':r'полиестер','Wool':r'вълна|вълнен','Linen':r'лен','Elastane':r'еластан'}
    if material in patterns:
     m=re.search(r'(\d+(?:[.,]\d+)?)\s*%\s*(?:'+patterns[material]+r')|(?:'+patterns[material]+r')\s*(\d+(?:[.,]\d+)?)\s*%',source)
-    if m:values[col]=float((m[1] or m[2]).replace(',','.'))
+    if m and not any(property_group(template.keys[c])==property_group(template.keys[col]) and template.headers[c]==header for c in values):values[col]=float((m[1] or m[2]).replace(',','.'))
  for name,value in [('Color',(description.get('color') or (facts['colors'][0] if len(facts['colors'])==1 else None))),('26 - Pattern',None),('Shape',description.get('shape'))]:
   if value:
    for col in template.columns(name):
@@ -167,6 +196,11 @@ def build_row(product,parent,cat,description,template,config,override=None):
    if picked is None:issues.append('invalid_override:'+str(name))
    else:values[col]=picked
   else:put(name,value)
- issues.extend('missing_required:'+name for name in required_missing(template,cat,values))
- conditional=[template.headers[col] for col in sorted(template.conditional.get(cat,set())) if col not in values]
+ if config.get('estimate_missing_attributes'):
+  from field_estimates import complete_required
+  complete_required(product,cat,description,template,config,facts,values,estimates,override)
+ # Re-check final state: a recovered variation theme must not retain an old error.
+ if values.get(template.column('Variation Theme')):issues=[x for x in issues if x!='no_supported_variation_theme']
+ issues.extend(validate_record(template,cat,values))
+ conditional=required_missing(template,cat,values)
  return values,{'id':product['id'],'sku':sku,'url':product['permalink'],'name':product['name'],'category_id':cat,'category':template.categories[cat],'description_source':description['source'],'issues':list(dict.fromkeys(issues)),'estimates':estimates,'conditional_fields_to_review':list(dict.fromkeys(conditional)),'facts':facts}

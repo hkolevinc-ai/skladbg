@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """SkladBG -> supplied Temu template. Python 3.11+, standard library only."""
 import argparse,collections,concurrent.futures,csv,datetime,json,logging,os,pathlib,sys
-from category_rules import classify
+from category_expansion import classify
 from descriptions import analyze_images,from_source,image_urls,reviewed_description
 from http_client import HttpClient
 from product_fields import build_row,extract_facts
@@ -18,9 +18,15 @@ def write_csv(path,records,fields):
    record={k:(json.dumps(v,ensure_ascii=False) if isinstance(v,(list,dict)) else v) for k,v in record.items()}
    record={k:("'"+v if isinstance(v,str) and v.startswith(('=','+','-','@')) else v) for k,v in record.items()};w.writerow(record)
 def run(args):
+ if args.limit<0 or (args.vision_limit is not None and args.vision_limit<0):raise ValueError('Product/vision limits must be 0 or positive')
  config=json.loads(pathlib.Path(args.config).read_text());overrides=json.loads(pathlib.Path(args.overrides).read_text())
  reviewed_path=ROOT/'reviewed_descriptions.json';reviewed=json.loads(reviewed_path.read_text()) if reviewed_path.exists() else {}
  out=pathlib.Path(args.output);out.mkdir(parents=True,exist_ok=True)
+ # Remove only this scraper's previous generated workbooks. A failed rerun must
+ # not leave a stale successful workbook looking like the current result.
+ for stale in out.glob('TEMU_SKLADBG*.xlsx'):
+  if stale.resolve()!=pathlib.Path(args.template).resolve():stale.unlink()
+ if (out/'validation_errors.csv').exists():(out/'validation_errors.csv').unlink()
  template=TemuTemplate(args.template);write_json(out/'template_schema.json',template.schema_report())
  for key,name in [('manufacturer','manufacturer_choices'),('eu_responsible_person','eu_responsible_choices')]:
   if config.get(key) and config[key] not in template.schema_report()[name]:raise ValueError(key+' is not present in this template dropdown')
@@ -52,7 +58,7 @@ def run(args):
  if args.limit:selected=selected[:args.limit]
  LOG.info('Selected %s rows (%s before --limit) from %s available products',len(selected),full_selected_count,stock_count)
  vision_limit=args.vision_limit if args.vision_limit is not None else int(config.get('vision_limit',20))
- records=[];audit=[];descriptions=[];vision_attempts=0;vision_errors=[]
+ records=[];audit=[];descriptions=[];vision_attempts=0;vision_errors=[];build_failures=[]
  for n,(product,parent,cat) in enumerate(selected,1):
   facts=extract_facts(product);description=reviewed_description(product,reviewed) or from_source(product,cat,facts)
   if args.vision and description['source']!='reviewed_images' and (vision_limit==0 or vision_attempts<vision_limit):
@@ -63,7 +69,8 @@ def run(args):
   descriptions.append({'id':product['id'],'name':product['name'],'url':product['permalink'],**description})
   try:record,report=build_row(product,parent,cat,description,template,config,overrides.get(str(product['id'])))
   except Exception as exc:
-   skipped.append({'id':product['id'],'name':product['name'],'url':product['permalink'],'reason':'row_build_failed:'+str(exc)});continue
+   failure={'id':product['id'],'name':product['name'],'url':product['permalink'],'reason':'row_build_failed:'+str(exc)}
+   skipped.append(failure);build_failures.append(failure);continue
   if not image_urls(product) and not image_urls(parent or {}):
    skipped.append({'id':product['id'],'name':product['name'],'url':product['permalink'],'reason':'no_product_images'});continue
   records.append(record);audit.append(report)
@@ -72,18 +79,32 @@ def run(args):
  maxrows=min(template.capacity,int(config.get('max_rows_per_file',4996)))
  if maxrows<1:raise ValueError('max_rows_per_file must be positive')
  files=[]
- # All selected listings are retained. Rows needing mandatory information are
- # explicitly marked in the report; the entire workbook is named DRAFT.
+ # Never publish a partial/invalid workbook. Write diagnostic reports before
+ # failing, so newly introduced mandatory properties cannot silently stay blank.
  issues_count=sum(bool(r['issues']) for r in audit)
- prefix='TEMU_SKLADBG_DRAFT' if issues_count else 'TEMU_SKLADBG'
+ write_json(out/'product_audit.json',audit);write_json(out/'skipped.json',skipped)
+ if issues_count or build_failures:
+  write_csv(out/'validation_errors.csv',[r for r in audit if r['issues']],['id','name','url','category_id','issues'])
+  write_json(out/'summary.json',{'exported_rows':0,'matched_before_limit':full_selected_count,'validation_failed_rows':issues_count,'build_failures':build_failures,'mandatory_fields_complete':False,'allowed_blank_fields':['Manufacturer','EU Responsible person']})
+  raise ValueError(f'Mandatory validation failed: {issues_count} invalid rows, {len(build_failures)} build failures. No workbook exported; see validation_errors.csv/product_audit.json.')
+ prefix='TEMU_SKLADBG'
  for i in range(0,len(records),maxrows):files.append(str(template.write(out/f'{prefix}_{i//maxrows+1:03d}.xlsx',records[i:i+maxrows]).name))
  for i,report in enumerate(audit):report['output_file']=files[i//maxrows];report['excel_row']=i%maxrows+5
  write_json(out/'product_audit.json',audit);write_json(out/'descriptions.json',descriptions);write_json(out/'skipped.json',skipped)
  write_csv(out/'review_required.csv',[r for r in audit if r['issues'] or r['estimates'] or r['conditional_fields_to_review']],['id','sku','name','url','category_id','category','output_file','excel_row','description_source','issues','estimates','conditional_fields_to_review'])
  write_csv(out/'skipped.csv',skipped,['id','name','url','reason'])
  write_csv(out/'descriptions.csv',descriptions,['id','name','url','source','description','bullets','visible_features','color','shape'])
+ estimate_rows=[]
+ for report in audit:
+  for estimate in report['estimates']:
+   data=estimate if isinstance(estimate,dict) else {'field':estimate,'basis':'configured packaging estimate','status':'estimate'}
+   estimate_rows.append({**{k:report[k] for k in ['id','sku','name','url','category_id','output_file','excel_row']},**data})
+ write_csv(out/'estimated_fields.csv',estimate_rows,['id','sku','name','url','category_id','output_file','excel_row','column','field','value','basis','status'])
+ category_counts=collections.Counter(r['category_id'] for r in audit)
+ write_csv(out/'product_types.csv',[{'category_id':c,'product_type':template.categories[c].split(' / ')[-1],'category':template.categories[c],'available_listings':n} for c,n in category_counts.most_common()],['category_id','product_type','category','available_listings'])
  summary={**counts,'completed_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'template_categories':len(template.categories),'in_stock_purchasable_products':stock_count,'matched_before_limit':full_selected_count,'exported_rows':len(records),'rows_with_missing_required_or_invalid_fields':issues_count,'rows_with_estimates':sum(bool(r['estimates']) for r in audit),'description_sources':dict(collections.Counter(r['description_source'] for r in audit)),'vision_attempts':vision_attempts,'vision_errors':vision_errors,'categories_exported':dict(collections.Counter(r['category'] for r in audit)),'skipped_reasons':dict(collections.Counter(r['reason'].split(':')[0] for r in skipped)),'output_files':files,'listing_quantity_is_configured_not_real_stock':config.get('listing_quantity',1),'upload_ready':issues_count==0,'conditional_requirements_need_review':True}
- write_json(out/'summary.json',summary);LOG.info('Done: %s rows, %s workbooks, %s rows require additional data',len(records),len(files),issues_count)
+ summary.update({'mandatory_fields_complete':True,'allowed_blank_fields':['Manufacturer','EU Responsible person'],'active_conditional_requirements_checked':True,'conditional_requirements_need_review':False,'estimated_cells':sum(r.get('status')=='estimate' for r in estimate_rows),'supplier_information_missing_cells':sum(r.get('status')=='supplier_information_missing' for r in estimate_rows),'reported_cells_total':len(estimate_rows),'province_without_source':config.get('province_of_origin'),'upload_ready':False,'upload_ready_note':'Field completeness validated with the two user-authorized exceptions; estimates and manufacturer/EU responsible person need supplier/platform confirmation.'})
+ write_json(out/'summary.json',summary);LOG.info('Done: %s rows, %s workbooks; required-field validation passed',len(records),len(files))
  print(json.dumps(summary,ensure_ascii=False,indent=2))
  return summary
 def parse_args():

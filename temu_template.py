@@ -54,6 +54,7 @@ class TemuTemplate:
    if not m:continue
    target={'require':self.required,'disabled':self.disabled,'condition_require':self.conditional}[m[2]]
    target[int(m[1])]={k for k,v in r.items() if k!=1 and v}
+  self.condition_rules={r[1]:[r[i] for i in sorted(r) if i>=3] for _,r in rows(self.z.read(self.sheets['Conditions List']),self.strings) if 1 in r}
   self.style={};self.category_formula=None
   first5=re.search(r'<row\b[^>]*\br="5"[^>]*>.*?</row>',self.template_xml,re.S)
   if first5:
@@ -69,6 +70,30 @@ class TemuTemplate:
   return cols[0] if cols else None
  def columns(self,name):return self.by_name.get(name,[])
  def allowed(self,cat):return set(self.headers)-self.disabled.get(int(cat),set())
+ def active_conditional(self,cat,values):
+  active=set()
+  for col in self.conditional.get(cat,set()):
+   key=self.keys[col];triggers=self.condition_rules.get(key,[])
+   if '|' in key:
+    parent=key.split('|',1)[1].split(':')[-1]
+    parents=[c for c,k in self.keys.items() if k.split('|')[0].startswith('t_3_Property:'+parent) and re.match(r'^t_3_Property:'+re.escape(parent)+r'(?:$|:)',k.split('|')[0])]
+   elif key.startswith('t_3_Property:') and ':' in key.split('Property:',1)[1]:
+    parents=[c for c,h in self.headers.items() if h=='6958 - Material Type']
+   elif key=='t_8_Province of Origin':parents=self.columns('Country/Region of Origin')
+   else:parents=[]
+   if not triggers:
+    # Some textile children have a parent ID but no trigger list in the supplied
+    # file. Fill applicable fabric details conservatively, without introducing
+    # silk/feather claims for a polyester/cotton product.
+    selected=[self.headers[c].split(':',1)[-1] for c in parents if values.get(c) not in (None,'',0,'0')]
+    header=self.headers[col]
+    if 'Silk Ingredient' in header or 'Fabric Count' in header:selected=[v for v in selected if v=='Silk']
+    elif 'Feather Type' in header:selected=[v for v in selected if re.search(r'Feather|Down',v,re.I)]
+    elif header.endswith(' - Count'):selected=[v for v in selected if v=='Cotton']
+    if selected and re.search(r'Square Weight|Count|Silk Ingredient|Feather Type',header):active.add(col)
+    continue
+   if any(str(values.get(c,'')) in triggers for c in parents):active.add(col)
+  return active
  def choices(self,cat,col):
   name=self.headers.get(col,'');key=self.keys.get(col,'');stage=key.split('_')[1] if '_' in key else ''
   for lookup in [f't_{stage}_{cat}_{name}',f't_{stage}_{name}']:

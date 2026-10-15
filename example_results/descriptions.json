@@ -26,6 +26,19 @@
     "source": "source_fields"
   },
   {
+    "id": 4918,
+    "name": "ЧЕТКА ЗА МИВКА ТРИЪГЪЛНА",
+    "url": "https://skladbg.net/produkt/product-010607/",
+    "description": "Четка за домашно почистване. Модел: ЧЕТКА ЗА МИВКА ТРИЪГЪЛНА.",
+    "bullets": [
+      "ЧЕТКА ЗА МИВКА ТРИЪГЪЛНА"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 4973,
     "name": "ВЪЗГЛАВНИЦА ЗА ПЛАЖ ПЛЮШЕНА 41*26",
     "url": "https://skladbg.net/produkt/product-070227/",
@@ -86,9 +99,9 @@
     "id": 5185,
     "name": "НОЖЧЕТА ЗА ПЛОДОВЕ МАЛКИ (12бр.к-кт)",
     "url": "https://skladbg.net/produkt/product-060127/",
-    "description": "НОЖЧЕТА ЗА ПЛОДОВЕ МАЛКИ (12бр.к-кт).",
+    "description": "НОЖЧЕТА ЗА ПЛОДОВЕ МАЛКИ (12бр.к-кт). Комплект: 12 броя.",
     "bullets": [
-      "НОЖЧЕТА ЗА ПЛОДОВЕ МАЛКИ (12бр.к-кт)"
+      "Комплект: 12 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -205,19 +218,6 @@
     "source": "source_fields"
   },
   {
-    "id": 5475,
-    "name": "ЛЪЖИЦА МЕЛАМИН ЗА ЧЕРПАЦИ к-У 99/ 8169",
-    "url": "https://skladbg.net/produkt/product-010792/",
-    "description": "ЛЪЖИЦА МЕЛАМИН ЗА ЧЕРПАЦИ к-У 99/ 8169. Посочен материал: Melamine.",
-    "bullets": [
-      "Посочен материал: Melamine."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 5496,
     "name": "ЧЕТКА ЗА ШИШЕ",
     "url": "https://skladbg.net/produkt/product-032503/",
@@ -234,9 +234,9 @@
     "id": 5507,
     "name": "КЪРПА МИКРОФИБЪР 3-ка 25*25 см.",
     "url": "https://skladbg.net/produkt/product-032029/",
-    "description": "Кърпа за ежедневна употреба. Модел: КЪРПА МИКРОФИБЪР 3-ка 25*25 см..",
+    "description": "Кърпа за домашно почистване. Модел: КЪРПА МИКРОФИБЪР 3-ка 25*25 см.. Размери според сайта: 25 × 25 см.",
     "bullets": [
-      "КЪРПА МИКРОФИБЪР 3-ка 25*25 см."
+      "Размери според сайта: 25 × 25 см."
     ],
     "visible_features": [],
     "color": null,
@@ -250,6 +250,19 @@
     "description": "КУТИЯ АЛПАКА С КАПАК. Посочен материал: Nickel Silver.",
     "bullets": [
       "Посочен материал: Nickel Silver."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 5698,
+    "name": "ГЪБА ЗА ПОЧИСТВАНЕ НА ХРОМИРАНИ ПОВЪРХ. 10*7",
+    "url": "https://skladbg.net/produkt/product-070326/",
+    "description": "ГЪБА ЗА ПОЧИСТВАНЕ НА ХРОМИРАНИ ПОВЪРХ. 10*7.",
+    "bullets": [
+      "ГЪБА ЗА ПОЧИСТВАНЕ НА ХРОМИРАНИ ПОВЪРХ. 10*7"
     ],
     "visible_features": [],
     "color": null,
@@ -342,19 +355,6 @@
     "source": "source_fields"
   },
   {
-    "id": 6359,
-    "name": "КЪРПИЧКИ ЦВЕТОУЛАВЯЩИ 12-ка",
-    "url": "https://skladbg.net/produkt/product-031237/",
-    "description": "Кърпа за ежедневна употреба. Модел: КЪРПИЧКИ ЦВЕТОУЛАВЯЩИ 12-ка.",
-    "bullets": [
-      "КЪРПИЧКИ ЦВЕТОУЛАВЯЩИ 12-ка"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 6392,
     "name": "Ключ глух комплект 8-17мм 6части.",
     "url": "https://skladbg.net/produkt/product-070397/",
@@ -426,20 +426,6 @@
     "description": "Изкуствени цветя за декоративно аранжиране. Модел: Изкуствени цветя, букет рози 5-ца, 40 х 19 см. Размери според сайта: 40 × 19 см.",
     "bullets": [
       "Размери според сайта: 40 × 19 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 6673,
-    "name": "Клечки за уши дървени в правоъгълна кутия.6 броя в комплект",
-    "url": "https://skladbg.net/produkt/product-060157/",
-    "description": "Клечки за уши дървени в правоъгълна кутия.6 броя в комплект. Посочен материал: Wood. Комплект: 6 броя.",
-    "bullets": [
-      "Посочен материал: Wood.",
-      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -657,6 +643,20 @@
     "source": "source_fields"
   },
   {
+    "id": 7744,
+    "name": "Комплект от 6 броя турски/ориенталски метални лъжички с декоративни дръжки и цветни камъчета",
+    "url": "https://skladbg.net/produkt/product-120287/",
+    "description": "Комплект от 6 броя турски/ориенталски метални лъжички с декоративни дръжки и цветни камъчета. Посочен материал: Metal. Комплект: 6 броя.",
+    "bullets": [
+      "Посочен материал: Metal.",
+      "Комплект: 6 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 7827,
     "name": "Комплект от 3 коша за отпадъци с педал, Planet",
     "url": "https://skladbg.net/produkt/product-120404/",
@@ -705,13 +705,12 @@
     "source": "source_fields"
   },
   {
-    "id": 7987,
-    "name": "Лъжица-бъркалка за коктейли от инокс, 27.5 x 3 см",
-    "url": "https://skladbg.net/produkt/product-120604/",
-    "description": "Лъжица-бъркалка за коктейли от инокс, 27.5 x 3 см. Размери според сайта: 27.5 × 3 см. Посочен материал: Stainless Steel.",
+    "id": 8048,
+    "name": "ГЪБА ЗА БАНЯ С ЖИВОТИНКА",
+    "url": "https://skladbg.net/produkt/product-120651/",
+    "description": "ГЪБА ЗА БАНЯ С ЖИВОТИНКА.",
     "bullets": [
-      "Размери според сайта: 27.5 × 3 см.",
-      "Посочен материал: Stainless Steel."
+      "ГЪБА ЗА БАНЯ С ЖИВОТИНКА"
     ],
     "visible_features": [],
     "color": null,
@@ -719,12 +718,12 @@
     "source": "source_fields"
   },
   {
-    "id": 8048,
-    "name": "ГЪБА ЗА БАНЯ С ЖИВОТИНКА",
-    "url": "https://skladbg.net/produkt/product-120651/",
-    "description": "ГЪБА ЗА БАНЯ С ЖИВОТИНКА.",
+    "id": 8134,
+    "name": "ЛЪЖИЧКИ ТУРСКИ ДЪРВЕНИ 6-ца ГОЛЕМИ",
+    "url": "https://skladbg.net/produkt/product-120733/",
+    "description": "ЛЪЖИЧКИ ТУРСКИ ДЪРВЕНИ 6-ца ГОЛЕМИ. Посочен материал: Wood.",
     "bullets": [
-      "ГЪБА ЗА БАНЯ С ЖИВОТИНКА"
+      "Посочен материал: Wood."
     ],
     "visible_features": [],
     "color": null,
@@ -752,6 +751,19 @@
     "bullets": [
       "Размери според сайта: 68 × 50 × 23 см.",
       "Посочен материал: Bamboo."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 8359,
+    "name": "НОЖ ЗА БАЛАТУМ НА БЛИСТЕР ОБИКНОВЕН(12бр.к-кт) У 102/8149",
+    "url": "https://skladbg.net/produkt/product-120967/",
+    "description": "НОЖ ЗА БАЛАТУМ НА БЛИСТЕР ОБИКНОВЕН(12бр.к-кт) У 102/8149. Комплект: 12 броя.",
+    "bullets": [
+      "Комплект: 12 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -846,19 +858,6 @@
     "source": "source_fields"
   },
   {
-    "id": 8814,
-    "name": "КУТИЯ МУЗИКАЛНА КУФАРЧЕ",
-    "url": "https://skladbg.net/produkt/product-121435/",
-    "description": "КУТИЯ МУЗИКАЛНА КУФАРЧЕ.",
-    "bullets": [
-      "КУТИЯ МУЗИКАЛНА КУФАРЧЕ"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 8905,
     "name": "Бамбукова дъска елипса за презентация 28x19cm",
     "url": "https://skladbg.net/produkt/product-121529/",
@@ -881,12 +880,12 @@
     "source": "reviewed_images"
   },
   {
-    "id": 9009,
-    "name": "КУТИЯ ЗА МАСЛО СТЪКЛО",
-    "url": "https://skladbg.net/produkt/product-121616/",
-    "description": "КУТИЯ ЗА МАСЛО СТЪКЛО. Посочен материал: Glass.",
+    "id": 8973,
+    "name": "ФРУКТИЕРА МЕТАЛНА ЗЛАТНА",
+    "url": "https://skladbg.net/produkt/product-121581/",
+    "description": "Купа за сервиране на храна на масата. Модел: ФРУКТИЕРА МЕТАЛНА ЗЛАТНА. Посочен материал: Metal.",
     "bullets": [
-      "Посочен материал: Glass."
+      "Посочен материал: Metal."
     ],
     "visible_features": [],
     "color": null,
@@ -897,9 +896,10 @@
     "id": 9038,
     "name": "ЧАША ПОРЦЕЛАН КАФЕ (12бр.к-кт)",
     "url": "https://skladbg.net/produkt/product-121641/",
-    "description": "Чаша за сервиране на кафе. Модел: ЧАША ПОРЦЕЛАН КАФЕ (12бр.к-кт). Посочен материал: Porcelain.",
+    "description": "Чаша за сервиране на кафе. Модел: ЧАША ПОРЦЕЛАН КАФЕ (12бр.к-кт). Посочен материал: Porcelain. Комплект: 12 броя.",
     "bullets": [
-      "Посочен материал: Porcelain."
+      "Посочен материал: Porcelain.",
+      "Комплект: 12 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -1183,9 +1183,10 @@
     "id": 11383,
     "name": "КУТИЯ ТУРСКА ПВЦ (6бр.к-кт)",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b0-%d0%bf%d0%b2%d1%86-6%d0%b1%d1%80-%d0%ba-%d0%ba%d1%82/",
-    "description": "КУТИЯ ТУРСКА ПВЦ (6бр.к-кт). Посочен материал: PVC.",
+    "description": "КУТИЯ ТУРСКА ПВЦ (6бр.к-кт). Посочен материал: PVC. Комплект: 6 броя.",
     "bullets": [
-      "Посочен материал: PVC."
+      "Посочен материал: PVC.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -1495,19 +1496,6 @@
     "source": "source_fields"
   },
   {
-    "id": 11847,
-    "name": "КОМПЛЕКТ ЗА ГРИВНИ КВАДРАТНА КУТИЯ У 103/8925",
-    "url": "https://skladbg.net/produkt/product-040335/",
-    "description": "КОМПЛЕКТ ЗА ГРИВНИ КВАДРАТНА КУТИЯ У 103/8925.",
-    "bullets": [
-      "КОМПЛЕКТ ЗА ГРИВНИ КВАДРАТНА КУТИЯ У 103/8925"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 11925,
     "name": "Катинар Верига, за колело мотор и др",
     "url": "https://skladbg.net/produkt/product-011501/",
@@ -1540,6 +1528,32 @@
     "description": "Дъска за подготовка и рязане на хранителни продукти. Модел: МАРКЕР ЗА БЯЛА ДЪСКА 4-ка НА КАРТОН. Посочен материал: Paper.",
     "bullets": [
       "Посочен материал: Paper."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 13365,
+    "name": "Комплект лопатка с четка",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0/",
+    "description": "Комплект лопатка с четка. Посочен материал: Plastic.",
+    "bullets": [
+      "Посочен материал: Plastic."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 13372,
+    "name": "Комплект лопатка с четка",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0-2/",
+    "description": "Комплект лопатка с четка. Посочен материал: Plastic.",
+    "bullets": [
+      "Посочен материал: Plastic."
     ],
     "visible_features": [],
     "color": null,
@@ -1676,6 +1690,34 @@
     "source": "source_fields"
   },
   {
+    "id": 14334,
+    "name": "Контейнер ПВЦ 1.7 л",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-1-7-%d0%bb/",
+    "description": "Контейнер ПВЦ 1.7 л. Посочен материал: PVC. Посочен капацитет: 1.7 л.",
+    "bullets": [
+      "Посочен материал: PVC.",
+      "Посочен капацитет: 1.7 л."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 14339,
+    "name": "Контейнер ПВЦ 1.2 л",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-1-2-%d0%bb/",
+    "description": "Контейнер ПВЦ 1.2 л. Посочен материал: PVC. Посочен капацитет: 1.2 л.",
+    "bullets": [
+      "Посочен материал: PVC.",
+      "Посочен капацитет: 1.2 л."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 14346,
     "name": "WC четка за тоалетна с поставка MY DEN",
     "url": "https://skladbg.net/produkt/wc-%d1%87%d0%b5%d1%82%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%82%d0%be%d0%b0%d0%bb%d0%b5%d1%82%d0%bd%d0%b0-%d1%81-%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%ba%d0%b0-my-den/",
@@ -1692,35 +1734,10 @@
     "id": 14353,
     "name": "Сет от 4 Кутии за съхранение, 300 мл,700 мл, 1100 мл, 1750 мл",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b5%d1%82-%d0%be%d1%82-4-%d0%ba%d1%83%d1%82%d0%b8%d0%b8-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-300-%d0%bc%d0%bb700-%d0%bc%d0%bb-1100-%d0%bc%d0%bb-1750/",
-    "description": "Сет от 4 Кутии за съхранение, 300 мл,700 мл, 1100 мл, 1750 мл. Посочен капацитет: 300 мл.",
+    "description": "Сет от 4 Кутии за съхранение, 300 мл,700 мл, 1100 мл, 1750 мл. Посочен капацитет: 300 мл. Комплект: 4 броя.",
     "bullets": [
-      "Посочен капацитет: 300 мл."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 14498,
-    "name": "Конци различни цветове в кръгла кутия",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%86%d0%b8-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d0%be%d0%b2%d0%b5-%d0%b2-%d0%ba%d1%80%d1%8a%d0%b3%d0%bb%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "description": "Конци различни цветове в кръгла кутия.",
-    "bullets": [
-      "Конци различни цветове в кръгла кутия"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 14503,
-    "name": "Конци различни цветове в квадратна кутия",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%86%d0%b8-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d0%be%d0%b2%d0%b5-%d0%b2-%d0%ba%d0%b2%d0%b0%d0%b4%d1%80%d0%b0%d1%82%d0%bd%d0%b0-%d0%ba%d1%83/",
-    "description": "Конци различни цветове в квадратна кутия.",
-    "bullets": [
-      "Конци различни цветове в квадратна кутия"
+      "Посочен капацитет: 300 мл.",
+      "Комплект: 4 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -1731,7 +1748,7 @@
     "id": 14512,
     "name": "Дървена лъжица 27см",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-27%d1%81%d0%bc/",
-    "description": "Дървена лъжица 27см. Посочен материал: Wood.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Дървена лъжица 27см. Посочен материал: Wood.",
     "bullets": [
       "Посочен материал: Wood."
     ],
@@ -1805,10 +1822,11 @@
     "id": 14647,
     "name": "Сет от 3 кутии ПВЦ, 1000 мл, 1750 мл, 3500 мл",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b5%d1%82-%d0%be%d1%82-3-%d0%ba%d1%83%d1%82%d0%b8%d0%b8-%d0%bf%d0%b2%d1%86-1000-%d0%bc%d0%bb-1750-%d0%bc%d0%bb-3500-%d0%bc%d0%bb/",
-    "description": "Сет от 3 кутии ПВЦ, 1000 мл, 1750 мл, 3500 мл. Посочен материал: PVC. Посочен капацитет: 1000 мл.",
+    "description": "Сет от 3 кутии ПВЦ, 1000 мл, 1750 мл, 3500 мл. Посочен материал: PVC. Посочен капацитет: 1000 мл. Комплект: 3 броя.",
     "bullets": [
       "Посочен материал: PVC.",
-      "Посочен капацитет: 1000 мл."
+      "Посочен капацитет: 1000 мл.",
+      "Комплект: 3 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -2037,6 +2055,19 @@
     "source": "source_fields"
   },
   {
+    "id": 14975,
+    "name": "Коледна украса Елхички, 4 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b8%d1%87%d0%ba%d0%b8-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba/",
+    "description": "Коледна украса Елхички, 4 броя в комплект. Комплект: 4 броя.",
+    "bullets": [
+      "Комплект: 4 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 14982,
     "name": "Коледна украса топки в къщичка, 9 броя в кутия, розови, сребро и златни",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-%d0%b2-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-9-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2/",
@@ -2056,6 +2087,19 @@
     "description": "Топка за коледна декорация. Модел: Коледна украса топки , 6 броя в кутия, червени, сребро и златни.",
     "bullets": [
       "Коледна украса топки , 6 броя в кутия, червени, сребро и златни"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 14994,
+    "name": "Музикален Дядо Коледа с камбанки и фенерче, 30 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-%d1%81-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b8-%d0%b8-%d1%84%d0%b5%d0%bd/",
+    "description": "Музикален Дядо Коледа с камбанки и фенерче, 30 х 15 см. Размери според сайта: 30 × 15 см.",
+    "bullets": [
+      "Размери според сайта: 30 × 15 см."
     ],
     "visible_features": [],
     "color": null,
@@ -2102,12 +2146,77 @@
     "source": "source_fields"
   },
   {
+    "id": 15029,
+    "name": "Коледни стикери, 12 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d1%82%d0%b8%d0%ba%d0%b5%d1%80%d0%b8-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-2/",
+    "description": "Коледни стикери, 12 броя в комплект. Комплект: 12 броя.",
+    "bullets": [
+      "Комплект: 12 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15035,
+    "name": "Коледни стикери, 12 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d1%82%d0%b8%d0%ba%d0%b5%d1%80%d0%b8-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-3/",
+    "description": "Коледни стикери, 12 броя в комплект. Комплект: 12 броя.",
+    "bullets": [
+      "Комплект: 12 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15044,
+    "name": "Светещ коледен надпис 41 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%bd%d0%b0%d0%b4%d0%bf%d0%b8%d1%81-41-%d1%81%d0%bc/",
+    "description": "Светещ коледен надпис 41 см.",
+    "bullets": [
+      "Светещ коледен надпис 41 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 15047,
     "name": "Коледна украса топки , 4 броя в кутия, 8 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-8-%d1%81%d0%bc/",
     "description": "Топка за коледна декорация. Модел: Коледна украса топки , 4 броя в кутия, 8 см.",
     "bullets": [
       "Коледна украса топки , 4 броя в кутия, 8 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15052,
+    "name": "Коледна украса Бастун, 2 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b1%d0%b0%d1%81%d1%82%d1%83%d0%bd-2-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
+    "description": "Коледна украса Бастун, 2 броя в комплект. Комплект: 2 броя.",
+    "bullets": [
+      "Комплект: 2 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15062,
+    "name": "Коледна украса Къщички 7.5 см, 3 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b8-7-5-%d1%81%d0%bc-3-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
+    "description": "Коледна украса Къщички 7.5 см, 3 броя в кутия.",
+    "bullets": [
+      "Коледна украса Къщички 7.5 см, 3 броя в кутия"
     ],
     "visible_features": [],
     "color": null,
@@ -2141,12 +2250,25 @@
     "source": "source_fields"
   },
   {
-    "id": 15097,
-    "name": "Коледна украса топки 3 см , 12 броя в кутия, червени, сребро, златни и розово",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-3-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "description": "Топка за коледна декорация. Модел: Коледна украса топки 3 см , 12 броя в кутия, червени, сребро, златни и розово.",
+    "id": 15104,
+    "name": "Коледна украса Бастун 13 см, 4 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b1%d0%b0%d1%81%d1%82%d1%83%d0%bd-13-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb/",
+    "description": "Коледна украса Бастун 13 см, 4 броя в комплект. Комплект: 4 броя.",
     "bullets": [
-      "Коледна украса топки 3 см , 12 броя в кутия, червени, сребро, златни и розово"
+      "Комплект: 4 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15116,
+    "name": "Коледна украса Снежко",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be/",
+    "description": "Коледна украса Снежко.",
+    "bullets": [
+      "Коледна украса Снежко"
     ],
     "visible_features": [],
     "color": null,
@@ -2160,6 +2282,19 @@
     "description": "Топка за коледна декорация. Модел: Коледна украса мини топки 3 см.",
     "bullets": [
       "Коледна украса мини топки 3 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15174,
+    "name": "Коледна украса Подаръче 6 см , 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8a%d1%87%d0%b5-6-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82/",
+    "description": "Коледна украса Подаръче 6 см , 4 броя в кутия.",
+    "bullets": [
+      "Коледна украса Подаръче 6 см , 4 броя в кутия"
     ],
     "visible_features": [],
     "color": null,
@@ -2284,6 +2419,19 @@
     "source": "source_fields"
   },
   {
+    "id": 15229,
+    "name": "Коледна украса Снежко, 45 x 15 cm",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be-45-x-15-cm/",
+    "description": "Коледна украса Снежко, 45 x 15 cm. Размери според сайта: 45 × 15 см.",
+    "bullets": [
+      "Размери според сайта: 45 × 15 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 15232,
     "name": "Коледна украса Дядо Коледа, 30 x 15 cm",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-30-x-15-cm/",
@@ -2297,12 +2445,39 @@
     "source": "source_fields"
   },
   {
+    "id": 15289,
+    "name": "Декоративен коледен керамичен снежко, 13 х 8 см, 2 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba/",
+    "description": "Декоративен коледен керамичен снежко, 13 х 8 см, 2 броя в кутия. Размери според сайта: 13 × 8 см. Посочен материал: Ceramic.",
+    "bullets": [
+      "Размери според сайта: 13 × 8 см.",
+      "Посочен материал: Ceramic."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 15293,
     "name": "Коледна украса светеща ПВЦ чаша, 10 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%bf%d0%b2%d1%86-%d1%87%d0%b0%d1%88%d0%b0-10-%d1%81%d0%bc/",
     "description": "Чаша за сервиране на напитки. Модел: Коледна украса светеща ПВЦ чаша, 10 см. Посочен материал: PVC.",
     "bullets": [
       "Посочен материал: PVC."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15314,
+    "name": "Светеща Коледна украса камбанки, 35 х 25 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b8-35-%d1%85-25-%d1%81%d0%bc/",
+    "description": "Светеща Коледна украса камбанки, 35 х 25 см. Размери според сайта: 35 × 25 см.",
+    "bullets": [
+      "Размери според сайта: 35 × 25 см."
     ],
     "visible_features": [],
     "color": null,
@@ -2329,6 +2504,177 @@
     "description": "Топка за коледна декорация. Модел: Коледна украса топки 8 см, 3 броя в кутия, 4 различни шарки.",
     "bullets": [
       "Коледна украса топки 8 см, 3 броя в кутия, 4 различни шарки"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15332,
+    "name": "Коледна украса камбанка, 12 х 8 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b0-12-%d1%85-8-%d1%81%d0%bc/",
+    "description": "Коледна украса камбанка, 12 х 8 см. Размери според сайта: 12 × 8 см.",
+    "bullets": [
+      "Размери според сайта: 12 × 8 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15339,
+    "name": "Дървена коледна украса със звънче 12 см, 12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d1%8a%d1%81-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-12-%d1%81%d0%bc-12/",
+    "description": "Дървена коледна украса със звънче 12 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15343,
+    "name": "Дървена коледна украса 8 см, 6 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-8-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
+    "description": "Дървена коледна украса 8 см, 6 броя в кутия. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15346,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15352,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-3/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15355,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-4/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15358,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-5/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15361,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-6/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15364,
+    "name": "Дървена коледна украса 10 см,12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-7/",
+    "description": "Дървена коледна украса 10 см. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15367,
+    "name": "Дървена коледна украса 6 см,12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-6-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
+    "description": "Дървена коледна украса 6 см,12 броя в кутия. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15370,
+    "name": "Дървена коледна украса 6 см,12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-6-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8-2/",
+    "description": "Дървена коледна украса 6 см,12 броя в кутия. Посочен материал: Wood.",
+    "bullets": [
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15388,
+    "name": "Коледна украса метално звънче, 6.5 х 6 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%be-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-6-5-%d1%85-6-%d1%81%d0%bc/",
+    "description": "Коледна украса метално звънче, 6.5 х 6 см. Размери според сайта: 6.5 × 6 см. Посочен материал: Metal.",
+    "bullets": [
+      "Размери според сайта: 6.5 × 6 см.",
+      "Посочен материал: Metal."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15397,
+    "name": "Дървена коледна украса Къщичка 5.5 х 3.5 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-5-5-%d1%85-3-5-%d1%81%d0%bc/",
+    "description": "Дървена коледна украса Къщичка 5.5 х 3.5 см. Размери според сайта: 5.5 × 3.5 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 5.5 × 3.5 см.",
+      "Посочен материал: Wood."
     ],
     "visible_features": [],
     "color": null,
@@ -2394,6 +2740,45 @@
     "description": "Топка за коледна декорация. Модел: Коледна украса топки с клонки 8 см, 6 броя в кутия.",
     "bullets": [
       "Коледна украса топки с клонки 8 см, 6 броя в кутия"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15471,
+    "name": "Коледен ботуш от плат, 25 х 18 см, 10 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-25-%d1%85-18-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
+    "description": "Коледен ботуш от плат, 25 х 18 см. Размери според сайта: 25 × 18 см.",
+    "bullets": [
+      "Размери според сайта: 25 × 18 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15479,
+    "name": "Коледен ботуш от плат, 35 х 25 см, 10 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-25-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
+    "description": "Коледен ботуш от плат, 35 х 25 см. Размери според сайта: 35 × 25 см.",
+    "bullets": [
+      "Размери според сайта: 35 × 25 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15481,
+    "name": "Коледен ботуш от плат, 42 х 30 см, 10 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-42-%d1%85-30-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
+    "description": "Коледен ботуш от плат, 42 х 30 см. Размери според сайта: 42 × 30 см.",
+    "bullets": [
+      "Размери според сайта: 42 × 30 см."
     ],
     "visible_features": [],
     "color": null,
@@ -2536,6 +2921,62 @@
     "source": "source_fields"
   },
   {
+    "id": 15618,
+    "name": "Светеща Дървена коледна украса снежко, 17 х 12 х 6 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba/",
+    "description": "Светеща Дървена коледна украса снежко, 17 х 12 х 6 см. Размери според сайта: 17 × 12 × 6 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 17 × 12 × 6 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15627,
+    "name": "Дървена коледна украса шейна,13 х 6 х 3 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%88%d0%b5%d0%b9%d0%bd%d0%b013-%d1%85-6-%d1%85-3-%d1%81%d0%bc/",
+    "description": "Дървена коледна украса шейна,13 х 6 х 3 см. Размери според сайта: 13 × 6 × 3 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 13 × 6 × 3 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15635,
+    "name": "Дървена коледна украса елха с пухче  26 х 13 см, 6 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d1%81-%d0%bf%d1%83%d1%85%d1%87%d0%b5-26-%d1%85-13/",
+    "description": "Дървена коледна украса елха с пухче 26 х 13 см. Размери според сайта: 26 × 13 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 26 × 13 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15638,
+    "name": "Дървена коледна украса елха с пухче  40 х 20 см, 6 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d1%81-%d0%bf%d1%83%d1%85%d1%87%d0%b5-40-%d1%85-20/",
+    "description": "Дървена коледна украса елха с пухче 40 х 20 см. Размери според сайта: 40 × 20 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 40 × 20 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 15641,
     "name": "Дървена коледна украса Еленче с пухче, 25 х 13 см, 10 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d0%b5%d0%bd%d1%87%d0%b5-25-%d1%85-13-%d1%81%d0%bc-10-%d0%b1/",
@@ -2564,6 +3005,207 @@
     "source": "source_fields"
   },
   {
+    "id": 15648,
+    "name": "Дървена коледна украса Елха на звезди, 30 х 14 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bd%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b8-3/",
+    "description": "Дървена коледна украса Елха на звезди, 30 х 14 см. Размери според сайта: 30 × 14 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 30 × 14 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15652,
+    "name": "Дървена коледна украса светваща Елха, 15 х 17 х 5 см, 6 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%b2%d0%b5%d1%82%d0%b2%d0%b0%d1%89%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-15/",
+    "description": "Дървена коледна украса светваща Елха, 15 х 17 х 5 см, 6 броя в комплект. Размери според сайта: 15 × 17 × 5 см. Посочен материал: Wood. Комплект: 6 броя.",
+    "bullets": [
+      "Размери според сайта: 15 × 17 × 5 см.",
+      "Посочен материал: Wood.",
+      "Комплект: 6 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15656,
+    "name": "Дървена коледна украса светеща Елха, 32 х 23 х 5 см, 6 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%b2%d0%b5%d1%82%d0%b2%d0%b0%d1%89%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-32/",
+    "description": "Дървена коледна украса светеща Елха, 32 х 23 х 5 см, 6 броя в комплект. Размери според сайта: 32 × 23 × 5 см. Посочен материал: Wood. Комплект: 6 броя.",
+    "bullets": [
+      "Размери според сайта: 32 × 23 × 5 см.",
+      "Посочен материал: Wood.",
+      "Комплект: 6 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15691,
+    "name": "Светеща Дървена коледна украса, 10 х 10 х 2.5 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%85-10-%d1%85-2-5-%d1%81/",
+    "description": "Светеща Дървена коледна украса, 10 х 10 х 2.5 см. Размери според сайта: 10 × 10 × 2.5 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 10 × 10 × 2.5 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15712,
+    "name": "Изкуствена коледна елха лукс, 60 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-60-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс, 60 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс, 60 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15719,
+    "name": "Изкуствена коледна елха лукс, 90 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-90-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс, 90 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс, 90 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15721,
+    "name": "Изкуствена коледна елха лукс, 120 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-120-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс, 120 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс, 120 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15724,
+    "name": "Изкуствена коледна елха лукс,150 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81150-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс,150 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс,150 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15726,
+    "name": "Изкуствена коледна елха лукс със снежни върхове, 120 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове, 120 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове, 120 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15730,
+    "name": "Изкуствена коледна елха лукс със снежни върхове,60 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-3/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове,60 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове,60 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15733,
+    "name": "Изкуствена коледна елха лукс със снежни върхове,90 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-4/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове,90 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове,90 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15737,
+    "name": "Изкуствена коледна бяла елха, 60 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-60-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна бяла елха, 60 см.",
+    "bullets": [
+      "Изкуствена коледна бяла елха, 60 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15741,
+    "name": "Изкуствена коледна бяла елха, 90 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-90-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна бяла елха, 90 см.",
+    "bullets": [
+      "Изкуствена коледна бяла елха, 90 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15743,
+    "name": "Изкуствена коледна бяла елха, 120 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-120-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна бяла елха, 120 см.",
+    "bullets": [
+      "Изкуствена коледна бяла елха, 120 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 15749,
+    "name": "Изкуствена коледна елха, 90 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-90-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха, 90 см.",
+    "bullets": [
+      "Изкуствена коледна елха, 90 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 15756,
     "name": "Дървен венец с дядо коледа и снежко, 20 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd-%d0%b2%d0%b5%d0%bd%d0%b5%d1%86-%d1%81-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-%d0%b8-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be-20-%d1%81%d0%bc/",
@@ -2583,46 +3225,6 @@
     "description": "Коледен Ангел в плик, 14 х 12 см. Размери според сайта: 14 × 12 см.",
     "bullets": [
       "Размери според сайта: 14 × 12 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 15778,
-    "name": "Ароматни коледни свещи в метална кутия 6 х 4 см , 24 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8/",
-    "description": "Ароматни коледни свещи в метална кутия 6 х 4 см , 24 броя в кутия. Размери според сайта: 6 × 4 см. Посочен материал: Metal.",
-    "bullets": [
-      "Размери според сайта: 6 × 4 см.",
-      "Посочен материал: Metal."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 15784,
-    "name": "Ароматни свещи в метална кутия, 24 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-2/",
-    "description": "Ароматни свещи в метална кутия. Посочен материал: Metal.",
-    "bullets": [
-      "Посочен материал: Metal."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 15789,
-    "name": "Ароматни свещи в метална кутия, 24 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-3/",
-    "description": "Ароматни свещи в метална кутия. Посочен материал: Metal.",
-    "bullets": [
-      "Посочен материал: Metal."
     ],
     "visible_features": [],
     "color": null,
@@ -2832,6 +3434,35 @@
     "description": "Коледен венец, 30 см.",
     "bullets": [
       "Коледен венец, 30 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 16076,
+    "name": "Дървена Елха коледна украса, 17 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-17-%d1%85-15-%d1%81%d0%bc/",
+    "description": "Дървена Елха коледна украса, 17 х 15 см. Размери според сайта: 17 × 15 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 17 × 15 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 16080,
+    "name": "Дървена коледна украса, 8 х 7 см, 12  броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-8-%d1%85-7-%d1%81%d0%bc/",
+    "description": "Дървена коледна украса, 8 х 7 см, 12 броя в комплект. Размери според сайта: 8 × 7 см. Посочен материал: Wood. Комплект: 12 броя.",
+    "bullets": [
+      "Размери според сайта: 8 × 7 см.",
+      "Посочен материал: Wood.",
+      "Комплект: 12 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3137,9 +3768,74 @@
     "id": 17000,
     "name": "Универсална кърпа микрофибър 90 х 30 см, 12 броя в пакет",
     "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%8a%d1%80%d0%bf%d0%b0-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%84%d0%b8%d0%b1%d1%8a%d1%80-90-%d1%85-30-%d1%81%d0%bc-12-%d0%b1/",
-    "description": "Кърпа за ежедневна употреба. Модел: Универсална кърпа микрофибър 90 х 30 см, 12 броя в пакет. Размери според сайта: 90 × 30 см.",
+    "description": "Кърпа за домашно почистване. Модел: Универсална кърпа микрофибър 90 х 30 см, 12 броя в пакет. Размери според сайта: 90 × 30 см.",
     "bullets": [
       "Размери според сайта: 90 × 30 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17131,
+    "name": "Koш за отпадъци с капак, Planet, 15 литра",
+    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-15-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
+    "description": "Koш за отпадъци с капак, Planet, 15 литра. Посочен капацитет: 15 литра.",
+    "bullets": [
+      "Посочен капацитет: 15 литра."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17137,
+    "name": "Koш за отпадъци с капак, Planet, 25 литра",
+    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-25-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
+    "description": "Koш за отпадъци с капак, Planet, 25 литра. Посочен капацитет: 25 литра.",
+    "bullets": [
+      "Посочен капацитет: 25 литра."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17140,
+    "name": "Koш за отпадъци с капак, Planet, 35 литра",
+    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-35-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
+    "description": "Koш за отпадъци с капак, Planet, 35 литра. Посочен капацитет: 35 литра.",
+    "bullets": [
+      "Посочен капацитет: 35 литра."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17142,
+    "name": "Koш за отпадъци с капак, Planet, 50 литра",
+    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-50-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
+    "description": "Koш за отпадъци с капак, Planet, 50 литра. Посочен капацитет: 50 литра.",
+    "bullets": [
+      "Посочен капацитет: 50 литра."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17145,
+    "name": "Koш за отпадъци с капак, Planet, 70 литра",
+    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-70-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
+    "description": "Koш за отпадъци с капак, Planet, 70 литра. Посочен капацитет: 70 литра.",
+    "bullets": [
+      "Посочен капацитет: 70 литра."
     ],
     "visible_features": [],
     "color": null,
@@ -3181,6 +3877,90 @@
     "description": "Комплект емайлирани тенджери, 5 Части, Черен на бели точки, 16 /18 / 20 / 22 / 24 см. Посочен материал: Enamel.",
     "bullets": [
       "Посочен материал: Enamel."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17432,
+    "name": "Декоративна  саксия, лице с очила и изкуствено зелено растение, зелено 15 х 8 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-%d1%81%d0%b0%d0%ba%d1%81%d0%b8%d1%8f-%d0%bb%d0%b8%d1%86%d0%b5-%d1%81-%d0%be%d1%87%d0%b8%d0%bb%d0%b0-%d0%b8-%d0%b8%d0%b7%d0%ba%d1%83/",
+    "description": "Изкуствено растение за декорация. Модел: Декоративна саксия, лице с очила и изкуствено зелено растение, зелено 15 х 8 см. Размери според сайта: 15 × 8 см.",
+    "bullets": [
+      "Размери според сайта: 15 × 8 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17555,
+    "name": "Дървена къщичка за ключове  Sweet Home,  24 х 6 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-sweet-home-24-%d1%85-6-%d1%81%d0%bc/",
+    "description": "Дървена къщичка за ключове Sweet Home, 24 х 6 см. Размери според сайта: 24 × 6 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 24 × 6 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17560,
+    "name": "Дървена къщичка за ключове Home,  28 х 20 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-home-28-%d1%85-20-%d1%81%d0%bc/",
+    "description": "Дървена къщичка за ключове Home, 28 х 20 см. Размери според сайта: 28 × 20 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 28 × 20 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17564,
+    "name": "Дървена къщичка за ключове Home,  25 х 17 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-home-25-%d1%85-17-%d1%81%d0%bc/",
+    "description": "Дървена къщичка за ключове Home, 25 х 17 см. Размери според сайта: 25 × 17 см. Посочен материал: Wood.",
+    "bullets": [
+      "Размери според сайта: 25 × 17 см.",
+      "Посочен материал: Wood."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17570,
+    "name": "Бамбукова бижутерка 6 х 6 х 9, см  12 броя в комплект",
+    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b8%d0%b6%d1%83%d1%82%d0%b5%d1%80%d0%ba%d0%b0-6-%d1%85-6-%d1%85-9-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb/",
+    "description": "Бамбукова бижутерка 6 х 6 х 9, см 12 броя в комплект. Посочен материал: Bamboo. Комплект: 12 броя.",
+    "bullets": [
+      "Посочен материал: Bamboo.",
+      "Комплект: 12 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 17578,
+    "name": "Комплект от 4 части, Бамбукова бижутерка ,  1- 12 х 7 х 15 см  2- 13 х 10 х 7 см  3-10 х 6 х 8 см  4- 8 х 6 х 6 см ",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-4-%d1%87%d0%b0%d1%81%d1%82%d0%b8-%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b8%d0%b6%d1%83%d1%82%d0%b5%d1%80%d0%ba/",
+    "description": "Комплект от 4 части, Бамбукова бижутерка , 1- 12 х 7 х 15 см 2- 13 х 10 х 7 см 3-10 х 6 х 8 см 4- 8 х 6 х 6 см. Размери според сайта: 12 × 7 × 15 см. Посочен материал: Bamboo. Комплект: 4 броя.",
+    "bullets": [
+      "Размери според сайта: 12 × 7 × 15 см.",
+      "Посочен материал: Bamboo.",
+      "Комплект: 4 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3240,6 +4020,20 @@
     "source": "source_fields"
   },
   {
+    "id": 18014,
+    "name": "Силиконова подложка за месене, точене, 40 х 50 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bc%d0%b5%d1%81%d0%b5%d0%bd%d0%b5-%d1%82%d0%be%d1%87%d0%b5%d0%bd%d0%b5-4/",
+    "description": "Дъска за подготовка и рязане на хранителни продукти. Модел: Силиконова подложка за месене, точене, 40 х 50 см. Размери според сайта: 40 × 50 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 40 × 50 см.",
+      "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 18096,
     "name": "Гирлянда, Честити Рожден Ден",
     "url": "https://skladbg.net/produkt/%d0%b3%d0%b8%d1%80%d0%bb%d1%8f%d0%bd%d0%b4%d0%b0-%d1%87%d0%b5%d1%81%d1%82%d0%b8%d1%82%d0%b8-%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd-%d0%b4%d0%b5%d0%bd-3/",
@@ -3269,7 +4063,7 @@
     "id": 18321,
     "name": "Лъжица за спагети тефлоново покритие, 30 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bf%d0%b0%d0%b3%d0%b5%d1%82%d0%b8-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b5-30/",
-    "description": "Лъжица за спагети тефлоново покритие, 30 х 6 см. Размери според сайта: 30 × 6 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Лъжица за спагети тефлоново покритие, 30 х 6 см. Размери според сайта: 30 × 6 см.",
     "bullets": [
       "Размери според сайта: 30 × 6 см."
     ],
@@ -3282,7 +4076,7 @@
     "id": 18328,
     "name": "Решетъчна Лъжица с тефлоново покритие, 30 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d1%88%d0%b5%d1%82%d1%8a%d1%87%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d1%81-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8/",
-    "description": "Решетъчна Лъжица с тефлоново покритие, 30 х 7 см. Размери според сайта: 30 × 7 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Решетъчна Лъжица с тефлоново покритие, 30 х 7 см. Размери според сайта: 30 × 7 см.",
     "bullets": [
       "Размери според сайта: 30 × 7 см."
     ],
@@ -3322,7 +4116,7 @@
     "id": 18355,
     "name": "Лъжица тефлоново покритие, 30 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b5-30-%d1%85-6-%d1%81%d0%bc/",
-    "description": "Лъжица тефлоново покритие, 30 х 6 см. Размери според сайта: 30 × 6 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Лъжица тефлоново покритие, 30 х 6 см. Размери според сайта: 30 × 6 см.",
     "bullets": [
       "Размери според сайта: 30 × 6 см."
     ],
@@ -3357,7 +4151,7 @@
     "id": 18398,
     "name": "Решетъчна Лъжица, 39 х 12 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d1%88%d0%b5%d1%82%d1%8a%d1%87%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-39-%d1%85-12-%d1%81%d0%bc/",
-    "description": "Решетъчна Лъжица, 39 х 12 см. Размери според сайта: 39 × 12 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Решетъчна Лъжица, 39 х 12 см. Размери според сайта: 39 × 12 см.",
     "bullets": [
       "Размери според сайта: 39 × 12 см."
     ],
@@ -3385,7 +4179,7 @@
     "id": 18477,
     "name": "Лъжица за спагети тефлоново покритие, 33 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bf%d0%b0%d0%b3%d0%b5%d1%82%d0%b8-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b5-33/",
-    "description": "Лъжица за спагети тефлоново покритие, 33 х 6 см. Размери според сайта: 33 × 6 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Лъжица за спагети тефлоново покритие, 33 х 6 см. Размери според сайта: 33 × 6 см.",
     "bullets": [
       "Размери според сайта: 33 × 6 см."
     ],
@@ -3398,7 +4192,7 @@
     "id": 18482,
     "name": "Лъжица тефлоново покритие, 33 х 7 см",
     "url": "https://skladbg.net/produkt/%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b5-33-%d1%85-7-%d1%81%d0%bc/",
-    "description": "Лъжица тефлоново покритие, 33 х 7 см. Размери според сайта: 33 × 7 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Лъжица тефлоново покритие, 33 х 7 см. Размери според сайта: 33 × 7 см.",
     "bullets": [
       "Размери според сайта: 33 × 7 см."
     ],
@@ -3411,7 +4205,7 @@
     "id": 18514,
     "name": "Решетъчна Лъжица с тефлоново покритие, 32 х 11 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d1%88%d0%b5%d1%82%d1%8a%d1%87%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d1%81-%d1%82%d0%b5%d1%84%d0%bb%d0%be%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8-3/",
-    "description": "Решетъчна Лъжица с тефлоново покритие, 32 х 11 см. Размери според сайта: 32 × 11 см.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Решетъчна Лъжица с тефлоново покритие, 32 х 11 см. Размери според сайта: 32 × 11 см.",
     "bullets": [
       "Размери според сайта: 32 × 11 см."
     ],
@@ -3485,6 +4279,34 @@
     "source": "source_fields"
   },
   {
+    "id": 18594,
+    "name": "Силиконова щипка за сладкиши, 25 х 5 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-25-%d1%85-5-%d1%81%d0%bc/",
+    "description": "Щипки за захващане и сервиране на храна. Модел: Силиконова щипка за сладкиши, 25 х 5 см. Размери според сайта: 25 × 5 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 25 × 5 см.",
+      "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 18632,
+    "name": "Силиконова ръкавица за горещо с 5 пръста, 2 броя,  33 х 15 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%be-%d1%81-5-%d0%bf%d1%80%d1%8a%d1%81%d1%82/",
+    "description": "Силиконова ръкавица за горещо с 5 пръста, 2 броя, 33 х 15 см. Размери според сайта: 33 × 15 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 33 × 15 см.",
+      "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 18769,
     "name": "Метална отварачка за консерви, 22 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%be%d1%82%d0%b2%d0%b0%d1%80%d0%b0%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%be%d0%bd%d1%81%d0%b5%d1%80%d0%b2%d0%b8-22-%d1%85-5-%d1%81%d0%bc/",
@@ -3515,9 +4337,10 @@
     "id": 18832,
     "name": "Комлект 6 броя десертна лъжица, 16 х 2 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b4%d0%b5%d1%81%d0%b5%d1%80%d1%82%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-16-%d1%85-2-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя десертна лъжица, 16 х 2 см. Размери според сайта: 16 × 2 см.",
+    "description": "Комлект 6 броя десертна лъжица, 16 х 2 см. Размери според сайта: 16 × 2 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 16 × 2 см."
+      "Размери според сайта: 16 × 2 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3528,9 +4351,10 @@
     "id": 18837,
     "name": "Комлект 6 броя нож за хранене, 19 х 2 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%bd%d0%be%d0%b6-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b5-19-%d1%85-2-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя нож за хранене, 19 х 2 см. Размери според сайта: 19 × 2 см.",
+    "description": "Комлект 6 броя нож за хранене, 19 х 2 см. Размери според сайта: 19 × 2 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 19 × 2 см."
+      "Размери според сайта: 19 × 2 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3554,9 +4378,10 @@
     "id": 18849,
     "name": "Комлект 6 броя нож за плодове, 16 х 1.5 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%bd%d0%be%d0%b6-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-16-%d1%85-1-5-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя нож за плодове, 16 х 1.5 см. Размери според сайта: 16 × 1.5 см.",
+    "description": "Комлект 6 броя нож за плодове, 16 х 1.5 см. Размери според сайта: 16 × 1.5 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 16 × 1.5 см."
+      "Размери според сайта: 16 × 1.5 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3594,9 +4419,10 @@
     "id": 18872,
     "name": "Комлект 6 броя нож за хранене, 23 х 2 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%bd%d0%be%d0%b6-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b5-23-%d1%85-2-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя нож за хранене, 23 х 2 см. Размери според сайта: 23 × 2 см.",
+    "description": "Комлект 6 броя нож за хранене, 23 х 2 см. Размери според сайта: 23 × 2 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 23 × 2 см."
+      "Размери според сайта: 23 × 2 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3607,9 +4433,10 @@
     "id": 18901,
     "name": "Комлект 6 броя лъжица за хранене, 19 х 3 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b5-19-%d1%85-3-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя лъжица за хранене, 19 х 3 см. Размери според сайта: 19 × 3 см.",
+    "description": "Комлект 6 броя лъжица за хранене, 19 х 3 см. Размери според сайта: 19 × 3 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 19 × 3 см."
+      "Размери според сайта: 19 × 3 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3620,9 +4447,10 @@
     "id": 18912,
     "name": "Комлект 6 броя нож за хранене, 23 х 2 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%bd%d0%be%d0%b6-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b5-23-%d1%85-2-%d1%81%d0%bc-2/",
-    "description": "Комлект 6 броя нож за хранене, 23 х 2 см. Размери според сайта: 23 × 2 см.",
+    "description": "Комлект 6 броя нож за хранене, 23 х 2 см. Размери според сайта: 23 × 2 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 23 × 2 см."
+      "Размери според сайта: 23 × 2 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3646,9 +4474,10 @@
     "id": 18937,
     "name": "Комлект 6 броя чаени лъжици, 12 х 2.5 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d1%87%d0%b0%d0%b5%d0%bd%d0%b8-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b8-12-%d1%85-2-5-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя чаени лъжици, 12 х 2.5 см. Размери според сайта: 12 × 2.5 см.",
+    "description": "Комлект 6 броя чаени лъжици, 12 х 2.5 см. Размери според сайта: 12 × 2.5 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 12 × 2.5 см."
+      "Размери според сайта: 12 × 2.5 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3659,9 +4488,10 @@
     "id": 18977,
     "name": "Комлект 6 броя чаени лъжици Zarif, 15 х 3 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bb%d0%b5%d0%ba%d1%82-6-%d0%b1%d1%80%d0%be%d1%8f-%d1%87%d0%b0%d0%b5%d0%bd%d0%b8-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b8-zarif-15-%d1%85-3-%d1%81%d0%bc/",
-    "description": "Комлект 6 броя чаени лъжици Zarif, 15 х 3 см. Размери според сайта: 15 × 3 см.",
+    "description": "Комлект 6 броя чаени лъжици Zarif, 15 х 3 см. Размери според сайта: 15 × 3 см. Комплект: 6 броя.",
     "bullets": [
-      "Размери според сайта: 15 × 3 см."
+      "Размери според сайта: 15 × 3 см.",
+      "Комплект: 6 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -3675,6 +4505,19 @@
     "description": "Силиконова метла за сухо и мокро почистване, 30 см ширина на четката, Достига 89 см височина общо с телескопа.. Посочен материал: Silicone.",
     "bullets": [
       "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 19076,
+    "name": "Дамска барета( ангора)",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%b1%d0%b0%d1%80%d0%b5%d1%82%d0%b0-%d0%b0%d0%bd%d0%b3%d0%be%d1%80%d0%b0/",
+    "description": "Дамска барета( ангора).",
+    "bullets": [
+      "Дамска барета( ангора)"
     ],
     "visible_features": [],
     "color": null,
@@ -3815,6 +4658,32 @@
     "source": "source_fields"
   },
   {
+    "id": 21196,
+    "name": "12 броя, сгъваем нож различни цвята, 10 х 1 см отворен",
+    "url": "https://skladbg.net/produkt/12-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bd%d0%be%d0%b6-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b4%d1%8a%d1%80%d0%b6%d0%b0%d1%82%d0%b5%d0%bb-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8/",
+    "description": "12 броя, сгъваем нож различни цвята, 10 х 1 см отворен. Размери според сайта: 10 × 1 см.",
+    "bullets": [
+      "Размери според сайта: 10 × 1 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 21294,
+    "name": "Сгъваем нож, 20 х 1.5 см отворен",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bd%d0%be%d0%b6-20-%d1%85-1-5-%d1%81%d0%bc-%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd-2/",
+    "description": "Сгъваем нож, 20 х 1.5 см отворен. Размери според сайта: 20 × 1.5 см.",
+    "bullets": [
+      "Размери според сайта: 20 × 1.5 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 21391,
     "name": "ZQS1440 Преносим Caixa De Som Bluetooth високоговорител Мултифункционален вентилатор Звукова кутия Външен субуфер RGB Цветна светлина Безжично аудио",
     "url": "https://skladbg.net/produkt/zqs1440-%d0%bf%d1%80%d0%b5%d0%bd%d0%be%d1%81%d0%b8%d0%bc-caixa-de-som-bluetooth-%d0%b2%d0%b8%d1%81%d0%be%d0%ba%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b8%d1%82%d0%b5%d0%bb-%d0%bc%d1%83%d0%bb%d1%82/",
@@ -3874,6 +4743,20 @@
     "bullets": [
       "Размери според сайта: 50 × 35 × 22 см.",
       "Комплект: 3 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 21849,
+    "name": "Сушилник за прибори алпака на Дървена поставка, 31 х 9 х 13 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%b0%d0%bb%d0%bf%d0%b0%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0/",
+    "description": "Сушилник за прибори алпака на Дървена поставка, 31 х 9 х 13 см. Размери според сайта: 31 × 9 × 13 см. Посочен материал: Wood, Nickel Silver.",
+    "bullets": [
+      "Размери според сайта: 31 × 9 × 13 см.",
+      "Посочен материал: Wood, Nickel Silver."
     ],
     "visible_features": [],
     "color": null,
@@ -4164,32 +5047,6 @@
     "source": "source_fields"
   },
   {
-    "id": 24475,
-    "name": "Бамбуков органайзер, 32 х 25 х 4",
-    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-32-%d1%85-25-%d1%85-4/",
-    "description": "Бамбуков органайзер, 32 х 25 х 4. Посочен материал: Bamboo.",
-    "bullets": [
-      "Посочен материал: Bamboo."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 24479,
-    "name": "Бамбуков органайзер, 33 х 25 х 5",
-    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-33-%d1%85-25-%d1%85-5/",
-    "description": "Бамбуков органайзер, 33 х 25 х 5. Посочен материал: Bamboo.",
-    "bullets": [
-      "Посочен материал: Bamboo."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 24627,
     "name": "Комплект от 4 стъклени кутии за съхранение с бамбуков капак, 1-13 х 11 х 6 см, 2-15 х 12 х 7 см, 3- 17 х 11 х 7 см, 4-20 х 16 х 8 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-4-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b8-%d0%ba%d1%83%d1%82%d0%b8%d0%b8-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd-2/",
@@ -4382,12 +5239,27 @@
     "source": "source_fields"
   },
   {
-    "id": 26392,
-    "name": "Домакинска лъжица ( канче) за вода, 28 х 17 х 9 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-28-%d1%85-17-%d1%85-9-%d1%81/",
-    "description": "Домакинска лъжица ( канче) за вода, 28 х 17 х 9 см. Размери според сайта: 28 × 17 × 9 см.",
+    "id": 26382,
+    "name": "Силиконова щипка за сладкиши, 21 х 4 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-21-%d1%85-4-%d1%81%d0%bc/",
+    "description": "Щипки за захващане и сервиране на храна. Модел: Силиконова щипка за сладкиши, 21 х 4 см. Размери според сайта: 21 × 4 см. Посочен материал: Silicone.",
     "bullets": [
-      "Размери според сайта: 28 × 17 × 9 см."
+      "Размери според сайта: 21 × 4 см.",
+      "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 26387,
+    "name": "Силиконова щипка за сладкиши, 28 х 4 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-28-%d1%85-4-%d1%81%d0%bc/",
+    "description": "Щипки за захващане и сервиране на храна. Модел: Силиконова щипка за сладкиши, 28 х 4 см. Размери според сайта: 28 × 4 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 28 × 4 см.",
+      "Посочен материал: Silicone."
     ],
     "visible_features": [],
     "color": null,
@@ -4678,7 +5550,7 @@
     "id": 29465,
     "name": "Дървена лъжица, 24 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-24-%d1%81%d0%bc/",
-    "description": "Дървена лъжица, 24 см. Посочен материал: Wood.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Дървена лъжица, 24 см. Посочен материал: Wood.",
     "bullets": [
       "Посочен материал: Wood."
     ],
@@ -4691,7 +5563,7 @@
     "id": 29469,
     "name": "Дървена лъжица, 30 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-30-%d1%81%d0%bc/",
-    "description": "Дървена лъжица, 30 см. Посочен материал: Wood.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Дървена лъжица, 30 см. Посочен материал: Wood.",
     "bullets": [
       "Посочен материал: Wood."
     ],
@@ -4876,9 +5748,10 @@
     "id": 29697,
     "name": "Сет от 3 Кутии за съхранение, 300 мл,100 мл, 1750 мл,",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b5%d1%82-%d0%be%d1%82-3-%d0%ba%d1%83%d1%82%d0%b8%d0%b8-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-300-%d0%bc%d0%bb100-%d0%bc%d0%bb-1750-%d0%bc%d0%bb/",
-    "description": "Сет от 3 Кутии за съхранение, 300 мл,100 мл, 1750 мл. Посочен капацитет: 300 мл.",
+    "description": "Сет от 3 Кутии за съхранение, 300 мл,100 мл, 1750 мл. Посочен капацитет: 300 мл. Комплект: 3 броя.",
     "bullets": [
-      "Посочен капацитет: 300 мл."
+      "Посочен капацитет: 300 мл.",
+      "Комплект: 3 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -4889,9 +5762,10 @@
     "id": 29712,
     "name": "Сет от 4 Кутии за съхранение, 300 мл,600 мл, 1200 мл, 2200 мл",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b5%d1%82-%d0%be%d1%82-4-%d0%ba%d1%83%d1%82%d0%b8%d0%b8-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-300-%d0%bc%d0%bb600-%d0%bc%d0%bb-1200-%d0%bc%d0%bb-2200/",
-    "description": "Сет от 4 Кутии за съхранение, 300 мл,600 мл, 1200 мл, 2200 мл. Посочен капацитет: 300 мл.",
+    "description": "Сет от 4 Кутии за съхранение, 300 мл,600 мл, 1200 мл, 2200 мл. Посочен капацитет: 300 мл. Комплект: 4 броя.",
     "bullets": [
-      "Посочен капацитет: 300 мл."
+      "Посочен капацитет: 300 мл.",
+      "Комплект: 4 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -5029,19 +5903,6 @@
     "source": "source_fields"
   },
   {
-    "id": 30146,
-    "name": "Дамска Капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-4/",
-    "description": "Дамска Капела.",
-    "bullets": [
-      "Дамска Капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 30156,
     "name": "Камуфлажна риболовна мъжка шапка",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%bc%d1%83%d1%84%d0%bb%d0%b0%d0%b6%d0%bd%d0%b0-%d1%80%d0%b8%d0%b1%d0%be%d0%bb%d0%be%d0%b2%d0%bd%d0%b0-%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0/",
@@ -5061,71 +5922,6 @@
     "description": "Каубойска шапка с въже.",
     "bullets": [
       "Каубойска шапка с въже"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 30162,
-    "name": "Дамска шапка тип идиотка",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d1%82%d0%b8%d0%bf-%d0%b8%d0%b4%d0%b8%d0%be%d1%82%d0%ba%d0%b0-2/",
-    "description": "Дамска шапка тип идиотка.",
-    "bullets": [
-      "Дамска шапка тип идиотка"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 30178,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-5/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 30184,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-7/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 30190,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-9/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 30193,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-10/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
     ],
     "visible_features": [],
     "color": null,
@@ -5262,6 +6058,45 @@
     "description": "Тирбушон – отварачка никел, 10 см.",
     "bullets": [
       "Тирбушон – отварачка никел, 10 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 31763,
+    "name": "Вакуумен плик за съхранение на дрехи, 80 х 60 см",
+    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-80/",
+    "description": "Калъф за прибиране и съхранение на дрехи. Модел: Вакуумен плик за съхранение на дрехи, 80 х 60 см. Размери според сайта: 80 × 60 см.",
+    "bullets": [
+      "Размери според сайта: 80 × 60 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 31767,
+    "name": "Вакуумен плик за съхранение на дрехи, 130 х 80 см",
+    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-110/",
+    "description": "Калъф за прибиране и съхранение на дрехи. Модел: Вакуумен плик за съхранение на дрехи, 130 х 80 см. Размери според сайта: 130 × 80 см.",
+    "bullets": [
+      "Размери според сайта: 130 × 80 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 31787,
+    "name": "Джобен нож, 16 х 2 см, 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-18-%d1%85-3-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
+    "description": "Джобен нож, 16 х 2 см, 4 броя в кутия. Размери според сайта: 16 × 2 см.",
+    "bullets": [
+      "Размери според сайта: 16 × 2 см."
     ],
     "visible_features": [],
     "color": null,
@@ -5796,20 +6631,6 @@
     "source": "source_fields"
   },
   {
-    "id": 34004,
-    "name": "Ароматни коледни свещи в метална кутия 7 х 5 см , 24 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-4/",
-    "description": "Ароматни коледни свещи в метална кутия 7 х 5 см , 24 броя в кутия. Размери според сайта: 7 × 5 см. Посочен материал: Metal.",
-    "bullets": [
-      "Размери според сайта: 7 × 5 см.",
-      "Посочен материал: Metal."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 34045,
     "name": "Порцеланово плато, 31 х 15 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%be-%d0%bf%d0%bb%d0%b0%d1%82%d0%be-31-%d1%85-15-%d1%85-5-%d1%81%d0%bc/",
@@ -5935,6 +6756,19 @@
     "source": "source_fields"
   },
   {
+    "id": 34191,
+    "name": "Коледна украса снежко 9 х 5 см, 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be-9-%d1%85-5-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
+    "description": "Коледна украса снежко 9 х 5 см, 4 броя в кутия. Размери според сайта: 9 × 5 см.",
+    "bullets": [
+      "Размери според сайта: 9 × 5 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 34201,
     "name": "Коледна украса топки 4 см, 6 броя в кутия",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-4-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
@@ -5974,6 +6808,19 @@
     "source": "source_fields"
   },
   {
+    "id": 34220,
+    "name": "Коледна украса звънче 7 х 9 х 5 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-7-%d1%85-9-%d1%85-5-%d1%81%d0%bc/",
+    "description": "Коледна украса звънче 7 х 9 х 5 см. Размери според сайта: 7 × 9 × 5 см.",
+    "bullets": [
+      "Размери според сайта: 7 × 9 × 5 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 34246,
     "name": "Коледна украса, връх за елха звезда, 20 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b2%d1%80%d1%8a%d1%85-%d0%b7%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b0-20-%d1%81%d0%bc/",
@@ -5987,13 +6834,12 @@
     "source": "source_fields"
   },
   {
-    "id": 34751,
-    "name": "Декоративен коледен керамичен магнит Дядо коледа, 6 х 4 см,12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-2/",
-    "description": "Декоративен коледен керамичен магнит Дядо коледа, 6 х 4 см,12 броя в кутия. Размери според сайта: 6 × 4 см. Посочен материал: Ceramic.",
+    "id": 34691,
+    "name": "Изкуствена коледна елха лукс, 180 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-180-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс, 180 см.",
     "bullets": [
-      "Размери според сайта: 6 × 4 см.",
-      "Посочен материал: Ceramic."
+      "Изкуствена коледна елха лукс, 180 см"
     ],
     "visible_features": [],
     "color": null,
@@ -6001,13 +6847,12 @@
     "source": "source_fields"
   },
   {
-    "id": 34763,
-    "name": "Декоративен коледен керамичен магнит Дядо коледа, 8 х 6 см,12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-5/",
-    "description": "Декоративен коледен керамичен магнит Дядо коледа, 8 х 6 см,12 броя в кутия. Размери според сайта: 8 × 6 см. Посочен материал: Ceramic.",
+    "id": 34695,
+    "name": "Изкуствена коледна елха лукс, 210 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-210-%d1%81%d0%bc/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс, 210 см.",
     "bullets": [
-      "Размери според сайта: 8 × 6 см.",
-      "Посочен материал: Ceramic."
+      "Изкуствена коледна елха лукс, 210 см"
     ],
     "visible_features": [],
     "color": null,
@@ -6015,13 +6860,51 @@
     "source": "source_fields"
   },
   {
-    "id": 34767,
-    "name": "Декоративен коледен керамичен магнит Дядо коледа, 10 х 6 см,12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-6/",
-    "description": "Декоративен коледен керамичен магнит Дядо коледа, 10 х 6 см,12 броя в кутия. Размери според сайта: 10 × 6 см. Посочен материал: Ceramic.",
+    "id": 34699,
+    "name": "Изкуствена коледна елха лукс със снежни върхове, 180 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-5/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове, 180 см.",
     "bullets": [
-      "Размери според сайта: 10 × 6 см.",
-      "Посочен материал: Ceramic."
+      "Изкуствена коледна елха лукс със снежни върхове, 180 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34704,
+    "name": "Изкуствена коледна елха лукс със снежни върхове, 210 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-6/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове, 210 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове, 210 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34706,
+    "name": "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (560 клонки )150 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-7/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (560 клонки )150 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (560 клонки )150 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34713,
+    "name": "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (950 клонки )180 см",
+    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-8/",
+    "description": "Изкуствена елха за празнична украса. Модел: Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (950 клонки )180 см.",
+    "bullets": [
+      "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (950 клонки )180 см"
     ],
     "visible_features": [],
     "color": null,
@@ -6081,6 +6964,33 @@
     "source": "source_fields"
   },
   {
+    "id": 34800,
+    "name": "Порцеланова бонбониера, 14 х 14 х 10",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-14-%d1%85-14-%d1%85-10/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 14 х 14 х 10. Посочен материал: Porcelain.",
+    "bullets": [
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34808,
+    "name": "Порцеланова бонбониера, 14 х 13 х 10 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-14-%d1%85-13-%d1%85-10-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 14 х 13 х 10 см. Размери според сайта: 14 × 13 × 10 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 14 × 13 × 10 см.",
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 34814,
     "name": "Светещ керамичен коледен сувенир, дядо коледа в кола 12 х 11 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80-%d0%b4%d1%8f%d0%b4/",
@@ -6088,6 +6998,48 @@
     "bullets": [
       "Размери според сайта: 12 × 11 × 7 см.",
       "Посочен материал: Ceramic."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34831,
+    "name": "Порцеланова бонбониера, 24 х 17 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-24-%d1%85-17-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 24 х 17 см. Размери според сайта: 24 × 17 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 24 × 17 см.",
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34838,
+    "name": "Порцеланова бонбониера, 15 х 11 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-15-%d1%85-11-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 15 х 11 см. Размери според сайта: 15 × 11 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 15 × 11 см.",
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34845,
+    "name": "Порцеланова бонбониера, 24 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-24-%d1%85-15-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 24 х 15 см. Размери според сайта: 24 × 15 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 24 × 15 см.",
+      "Посочен материал: Porcelain."
     ],
     "visible_features": [],
     "color": null,
@@ -6123,12 +7075,38 @@
     "source": "source_fields"
   },
   {
-    "id": 34944,
-    "name": "Мини LED прожектор с коледни фигури, 14 х 9 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b8%d0%bd%d0%b8-led-%d0%bf%d1%80%d0%be%d0%b6%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%b8-14-%d1%85-9-%d1%81%d0%bc/",
-    "description": "Мини LED прожектор с коледни фигури, 14 х 9 см. Размери според сайта: 14 × 9 см.",
+    "id": 34879,
+    "name": "Музикален Дядо Коледа, 37 х 12 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-37-%d1%85-12-%d1%81%d0%bc/",
+    "description": "Музикален Дядо Коледа, 37 х 12 см. Размери според сайта: 37 × 12 см.",
     "bullets": [
-      "Размери според сайта: 14 × 9 см."
+      "Размери според сайта: 37 × 12 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34884,
+    "name": "Музикален Дядо Коледа, 36 х 12 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-36-%d1%85-12-%d1%81%d0%bc/",
+    "description": "Музикален Дядо Коледа, 36 х 12 см. Размери според сайта: 36 × 12 см.",
+    "bullets": [
+      "Размери според сайта: 36 × 12 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 34890,
+    "name": "Музикален Дядо Коледа, 23 х 10 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-23-%d1%85-10-%d1%81%d0%bc/",
+    "description": "Музикален Дядо Коледа, 23 х 10 см. Размери според сайта: 23 × 10 см.",
+    "bullets": [
+      "Размери според сайта: 23 × 10 см."
     ],
     "visible_features": [],
     "color": null,
@@ -6469,6 +7447,20 @@
     "source": "source_fields"
   },
   {
+    "id": 35707,
+    "name": "Силиконова ръкавица за горещо с 5 пръста, 2 броя, 26 х 17 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%be-%d1%81-5-%d0%bf%d1%80%d1%8a%d1%81-2/",
+    "description": "Силиконова ръкавица за горещо с 5 пръста, 2 броя, 26 х 17 см. Размери според сайта: 26 × 17 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 26 × 17 см.",
+      "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 35764,
     "name": "Катинар с 4-цифрен шифър, 8 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d1%82%d0%b8%d0%bd%d0%b0%d1%80-%d1%81-4-%d1%86%d0%b8%d1%84%d1%80%d0%b5%d0%bd-%d1%88%d0%b8%d1%84%d1%8a%d1%80-8-%d1%85-5-%d1%81%d0%bc/",
@@ -6561,20 +7553,6 @@
     "description": "Комплект емайлирани тенджери, 5 Части, 16 /18 / 20 / 22 / 24 см. Посочен материал: Enamel.",
     "bullets": [
       "Посочен материал: Enamel."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 36069,
-    "name": "Органайзер за козметика, пвц, 14 х 13 см",
-    "url": "https://skladbg.net/produkt/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-%d0%b7%d0%b0-%d0%ba%d0%be%d0%b7%d0%bc%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d0%bf%d0%b2%d1%86-14-%d1%85-13-%d1%81%d0%bc/",
-    "description": "Органайзер за козметика, пвц, 14 х 13 см. Размери според сайта: 14 × 13 см. Посочен материал: PVC.",
-    "bullets": [
-      "Размери според сайта: 14 × 13 см.",
-      "Посочен материал: PVC."
     ],
     "visible_features": [],
     "color": null,
@@ -6885,6 +7863,45 @@
     "bullets": [
       "Размери според сайта: 39 × 11 × 3 см.",
       "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 37348,
+    "name": "Универсална бърсалка за под, 180 гр",
+    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-180-%d0%b3%d1%80/",
+    "description": "Универсална бърсалка за под, 180 гр.",
+    "bullets": [
+      "Универсална бърсалка за под, 180 гр"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 37354,
+    "name": "Универсална бърсалка за под, 220 гр",
+    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-220-%d0%b3%d1%80/",
+    "description": "Универсална бърсалка за под, 220 гр.",
+    "bullets": [
+      "Универсална бърсалка за под, 220 гр"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 37358,
+    "name": "Универсална бърсалка за под, 250 гр",
+    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-250-%d0%b3%d1%80/",
+    "description": "Универсална бърсалка за под, 250 гр.",
+    "bullets": [
+      "Универсална бърсалка за под, 250 гр"
     ],
     "visible_features": [],
     "color": null,
@@ -7404,32 +8421,6 @@
     "source": "source_fields"
   },
   {
-    "id": 38808,
-    "name": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 20 х 5 х 3 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%87%d0%b5%d1%82%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%b7-2/",
-    "description": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 20 х 5 х 3 см. Размери според сайта: 20 × 5 × 3 см.",
-    "bullets": [
-      "Размери според сайта: 20 × 5 × 3 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 38812,
-    "name": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 21 х 3 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%87%d0%b5%d1%82%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%b7-3/",
-    "description": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 21 х 3 см. Размери според сайта: 21 × 3 см.",
-    "bullets": [
-      "Размери според сайта: 21 × 3 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 38839,
     "name": "Кутия за съхранение, Violet 2 л, 30 х 16 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-violet-2-%d0%bb-30-%d1%85-16-%d1%85-6-%d1%81%d0%bc/",
@@ -7594,6 +8585,19 @@
     "bullets": [
       "Размери според сайта: 48 × 32 × 26 см.",
       "Посочен капацитет: 30 л."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 38936,
+    "name": "Комплект лопатка с четка, 100 х 29 х 20 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0-100-%d1%85-29-%d1%85-20-%d1%81%d0%bc/",
+    "description": "Комплект лопатка с четка, 100 х 29 х 20 см. Размери според сайта: 100 × 29 × 20 см.",
+    "bullets": [
+      "Размери според сайта: 100 × 29 × 20 см."
     ],
     "visible_features": [],
     "color": null,
@@ -7898,6 +8902,45 @@
     "source": "source_fields"
   },
   {
+    "id": 40119,
+    "name": "Вакуумен плик за съхранение на дрехи, 100 х 70 см",
+    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-100/",
+    "description": "Калъф за прибиране и съхранение на дрехи. Модел: Вакуумен плик за съхранение на дрехи, 100 х 70 см. Размери според сайта: 100 × 70 см.",
+    "bullets": [
+      "Размери според сайта: 100 × 70 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 40123,
+    "name": "Вакуумен плик за съхранение на дрехи, 60 х 50 см",
+    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-60/",
+    "description": "Калъф за прибиране и съхранение на дрехи. Модел: Вакуумен плик за съхранение на дрехи, 60 х 50 см. Размери според сайта: 60 × 50 см.",
+    "bullets": [
+      "Размери според сайта: 60 × 50 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 40189,
+    "name": "Светеща изкуствена роза, 23 х 7 см, 6 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d1%80%d0%be%d0%b7%d0%b0-23-%d1%85-7-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba/",
+    "description": "Изкуствени цветя за декоративно аранжиране. Модел: Светеща изкуствена роза, 23 х 7 см, 6 броя в кутия. Размери според сайта: 23 × 7 см.",
+    "bullets": [
+      "Размери според сайта: 23 × 7 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 40339,
     "name": "Сгъваем пикник стол, камуфлажен, 74 х 45 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bf%d0%b8%d0%ba%d0%bd%d0%b8%d0%ba-%d1%81%d1%82%d0%be%d0%bb-%d0%ba%d0%b0%d0%bc%d1%83%d1%84%d0%bb%d0%b0%d0%b6%d0%b5%d0%bd-74-%d1%85-45-%d1%81%d0%bc/",
@@ -8061,19 +9104,6 @@
     "description": "Изкуствени цветя за декоративно аранжиране. Модел: Изкуствено цвете букет Кала, 34 х 10 см. Размери според сайта: 34 × 10 см.",
     "bullets": [
       "Размери според сайта: 34 × 10 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 40936,
-    "name": "Букет от изкуствени цветя Момина сълза, 40 х 12 см, 12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b1%d1%83%d0%ba%d0%b5%d1%82-%d0%be%d1%82-%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d1%8f-%d0%bc%d0%be%d0%bc%d0%b8%d0%bd%d0%b0-%d1%81%d1%8a%d0%bb%d0%b7-2/",
-    "description": "Изкуствени цветя за декоративно аранжиране. Модел: Букет от изкуствени цветя Момина сълза, 40 х 12 см. Размери според сайта: 40 × 12 см.",
-    "bullets": [
-      "Размери според сайта: 40 × 12 см."
     ],
     "visible_features": [],
     "color": null,
@@ -8467,6 +9497,20 @@
     "source": "source_fields"
   },
   {
+    "id": 42874,
+    "name": "Контейнер Пвц за съхранение 17 х 17 х 8 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-17-%d1%85-17-%d1%85-8-%d1%81%d0%bc/",
+    "description": "Контейнер Пвц за съхранение 17 х 17 х 8 см. Размери според сайта: 17 × 17 × 8 см. Посочен материал: PVC.",
+    "bullets": [
+      "Размери според сайта: 17 × 17 × 8 см.",
+      "Посочен материал: PVC."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 42884,
     "name": "Канцеларска ножица, 13 см, 12 броя в кутия",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%bd%d1%86%d0%b5%d0%bb%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d0%bd%d0%be%d0%b6%d0%b8%d1%86%d0%b0-13-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
@@ -8486,6 +9530,19 @@
     "description": "Канцеларска ножица, 17 х 9 см. Размери според сайта: 17 × 9 см.",
     "bullets": [
       "Размери според сайта: 17 × 9 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 42910,
+    "name": "Сушилник за прибори, с опция за самозаслепяване, 20 х 15 х 10 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d1%81-%d0%be%d0%bf%d1%86%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%81%d0%b0%d0%bc%d0%be%d0%b7%d0%b0%d1%81/",
+    "description": "Сушилник за прибори, с опция за самозаслепяване, 20 х 15 х 10 см. Размери според сайта: 20 × 15 × 10 см.",
+    "bullets": [
+      "Размери според сайта: 20 × 15 × 10 см."
     ],
     "visible_features": [],
     "color": null,
@@ -8526,6 +9583,45 @@
     "bullets": [
       "Размери според сайта: 60 × 40 × 20 см.",
       "Комплект: 3 броя."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 43094,
+    "name": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-25-%d1%85-90-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-54-%d1%81/",
+    "description": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см. Размери според сайта: 26 × 25 × 90 см.",
+    "bullets": [
+      "Размери според сайта: 26 × 25 × 90 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 43099,
+    "name": "Комплект лопатка 26 х 28 х 86 см с четка,100 х 26 х 12 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-28-%d1%85-86-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-12-%d1%81/",
+    "description": "Комплект лопатка 26 х 28 х 86 см с четка,100 х 26 х 12 см. Размери според сайта: 26 × 28 × 86 см.",
+    "bullets": [
+      "Размери според сайта: 26 × 28 × 86 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 43105,
+    "name": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-25-%d1%85-90-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-15-%d1%81/",
+    "description": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см. Размери според сайта: 26 × 25 × 90 см.",
+    "bullets": [
+      "Размери според сайта: 26 × 25 × 90 см."
     ],
     "visible_features": [],
     "color": null,
@@ -8715,19 +9811,6 @@
     "source": "source_fields"
   },
   {
-    "id": 43837,
-    "name": "Чанта ( раница ) за пренасяне на домашни любимци, 36 х 31 х 24 см",
-    "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%80%d0%b0%d0%bd%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%bd%d0%b0%d1%81%d1%8f%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%be%d0%bc%d0%b0%d1%88%d0%bd%d0%b8/",
-    "description": "Раница за пренасяне на лични вещи. Модел: Чанта ( раница ) за пренасяне на домашни любимци, 36 х 31 х 24 см. Размери според сайта: 36 × 31 × 24 см.",
-    "bullets": [
-      "Размери според сайта: 36 × 31 × 24 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 43951,
     "name": "Сгъваем стол за тераса, пикник, море, градина и др, 75 х 54 х 65 см,",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d1%81%d1%82%d0%be%d0%bb-%d0%b7%d0%b0-%d1%82%d0%b5%d1%80%d0%b0%d1%81%d0%b0-%d0%bf%d0%b8%d0%ba%d0%bd%d0%b8%d0%ba-%d0%bc%d0%be%d1%80%d0%b5-%d0%b3%d1%80-2/",
@@ -8808,12 +9891,12 @@
     "source": "source_fields"
   },
   {
-    "id": 44139,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0/",
-    "description": "Дамска капела.",
+    "id": 43984,
+    "name": "Джобен нож, 16 х 2 см, 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-16-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
+    "description": "Джобен нож, 16 х 2 см, 4 броя в кутия. Размери според сайта: 16 × 2 см.",
     "bullets": [
-      "Дамска капела"
+      "Размери според сайта: 16 × 2 см."
     ],
     "visible_features": [],
     "color": null,
@@ -8821,12 +9904,12 @@
     "source": "source_fields"
   },
   {
-    "id": 44150,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-8/",
-    "description": "Дамска капела.",
+    "id": 43989,
+    "name": "Автоматичен Джобен нож, 20 х 2 см, 12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-20-%d1%85-2-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83/",
+    "description": "Автоматичен Джобен нож, 20 х 2 см, 12 броя в кутия. Размери според сайта: 20 × 2 см.",
     "bullets": [
-      "Дамска капела"
+      "Размери според сайта: 20 × 2 см."
     ],
     "visible_features": [],
     "color": null,
@@ -8834,116 +9917,12 @@
     "source": "source_fields"
   },
   {
-    "id": 44178,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-14/",
-    "description": "Дамска капела.",
+    "id": 44055,
+    "name": "Джобен нож, 20 х 2 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-20-%d1%85-2-%d1%81%d0%bc/",
+    "description": "Джобен нож, 20 х 2 см. Размери според сайта: 20 × 2 см.",
     "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44182,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-13/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44206,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-17/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44217,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-18/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44227,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-19/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44238,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-20/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44274,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-23/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44294,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-25/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 44307,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-26/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
+      "Размери според сайта: 20 × 2 см."
     ],
     "visible_features": [],
     "color": null,
@@ -9428,19 +10407,6 @@
     "source": "source_fields"
   },
   {
-    "id": 46295,
-    "name": "Домакинска лъжица ( канче) за вода, 20 х 10 х 7 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-20-%d1%85-10-%d1%85-7-%d1%81/",
-    "description": "Домакинска лъжица ( канче) за вода, 20 х 10 х 7 см. Размери според сайта: 20 × 10 × 7 см.",
-    "bullets": [
-      "Размери според сайта: 20 × 10 × 7 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 46346,
     "name": "Волейболна топка №5",
     "url": "https://skladbg.net/produkt/%d0%b2%d0%be%d0%bb%d0%b5%d0%b9%d0%b1%d0%be%d0%bb%d0%bd%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b0-%e2%84%965/",
@@ -9515,20 +10481,6 @@
     "description": "Възглавница за дома. Модел: Възглавница за плаж, Интекс (Intex) 43 х 28 х 9 см. Размери според сайта: 43 × 28 × 9 см.",
     "bullets": [
       "Размери според сайта: 43 × 28 × 9 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 47300,
-    "name": "Шапка за плуване силикон, 19 х 21 см",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd-19-%d1%85-21-%d1%81%d0%bc/",
-    "description": "Шапка за плуване силикон, 19 х 21 см. Размери според сайта: 19 × 21 см. Посочен материал: Silicone.",
-    "bullets": [
-      "Размери според сайта: 19 × 21 см.",
-      "Посочен материал: Silicone."
     ],
     "visible_features": [],
     "color": null,
@@ -10216,45 +11168,6 @@
     "source": "source_fields"
   },
   {
-    "id": 48143,
-    "name": "Комплект, детска Капела с чантичка, Капела 22 х 11, чантичка 15 х 16 см, 6 различни цвята",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf-4/",
-    "description": "Комплект, детска Капела с чантичка, Капела 22 х 11, чантичка 15 х 16 см, 6 различни цвята. Размери според сайта: 15 × 16 см.",
-    "bullets": [
-      "Размери според сайта: 15 × 16 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48184,
-    "name": "Комплект, детска Козирка с чантичка, Капела 18 х 12, чантичка 14 х 13 см, 6 различни цвята",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%be%d0%b7%d0%b8%d1%80%d0%ba%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0/",
-    "description": "Комплект, детска Козирка с чантичка, Капела 18 х 12, чантичка 14 х 13 см, 6 различни цвята. Размери според сайта: 14 × 13 см.",
-    "bullets": [
-      "Размери според сайта: 14 × 13 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48200,
-    "name": "Детска  Капела 30 х 10 см  6 различни цвята",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-30-%d1%85-10-%d1%81%d0%bc-6-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
-    "description": "Детска Капела 30 х 10 см 6 различни цвята. Размери според сайта: 30 × 10 см.",
-    "bullets": [
-      "Размери според сайта: 30 × 10 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 48243,
     "name": "Тиган, Керамика, 20 см",
     "url": "https://skladbg.net/produkt/%d1%82%d0%b8%d0%b3%d0%b0%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d0%ba%d0%b0-20-%d1%81%d0%bc/",
@@ -10352,162 +11265,6 @@
     "description": "Мъжки колан, 140 х 4 см. Размери според сайта: 140 × 4 см.",
     "bullets": [
       "Размери според сайта: 140 × 4 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48547,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48553,
-    "name": "Детска, Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5/",
-    "description": "Детска, Шапка Бомбе.",
-    "bullets": [
-      "Детска, Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48560,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-2/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48564,
-    "name": "Детска, Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-2/",
-    "description": "Детска, Шапка Бомбе.",
-    "bullets": [
-      "Детска, Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48568,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-3/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48573,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-4/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48578,
-    "name": "Детска, Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-3/",
-    "description": "Детска, Шапка Бомбе.",
-    "bullets": [
-      "Детска, Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48582,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-5/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48587,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-6/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48596,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-7/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48601,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-8/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 48606,
-    "name": "Шапка Бомбе",
-    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-9/",
-    "description": "Шапка Бомбе.",
-    "bullets": [
-      "Шапка Бомбе"
     ],
     "visible_features": [],
     "color": null,
@@ -10918,19 +11675,6 @@
     "description": "Чаша за сервиране на напитки. Модел: Пластмасова чаша (буркан) за съхранение, 15 гр.. Посочен материал: Plastic.",
     "bullets": [
       "Посочен материал: Plastic."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 49585,
-    "name": "Гъби за баня, 10 х 6 см, 12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b3%d1%8a%d0%b1%d0%b8-%d0%b7%d0%b0-%d0%b1%d0%b0%d0%bd%d1%8f-13-%d1%85-11-%d1%81%d0%bc/",
-    "description": "Гъби за баня, 10 х 6 см. Размери според сайта: 10 × 6 см.",
-    "bullets": [
-      "Размери според сайта: 10 × 6 см."
     ],
     "visible_features": [],
     "color": null,
@@ -11626,6 +12370,20 @@
     "description": "Четка за домашно почистване. Модел: Четка за прах, Danny Home, 53 см.",
     "bullets": [
       "Четка за прах, Danny Home, 53 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 50242,
+    "name": "Стъклена бонбониера, Danny Home, 12.5 х 21.1 х 13 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-12-5-%d1%85-21-1-%d1%85-13-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера, Danny Home, 12.5 х 21.1 х 13 см. Размери според сайта: 12.5 × 21.1 × 13 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 12.5 × 21.1 × 13 см.",
+      "Посочен материал: Glass."
     ],
     "visible_features": [],
     "color": null,
@@ -12618,6 +13376,19 @@
     "source": "source_fields"
   },
   {
+    "id": 51270,
+    "name": "Сушилник за съдове, Danny Home, 46 х 20 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-46-%d1%85-20-%d1%81%d0%bc/",
+    "description": "Сушилник за съдове, Danny Home, 46 х 20 см. Размери според сайта: 46 × 20 см.",
+    "bullets": [
+      "Размери според сайта: 46 × 20 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 51278,
     "name": "Четка за почистване Danny Home, 26 х 2 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b5%d1%82%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d1%87%d0%b8%d1%81%d1%82%d0%b2%d0%b0%d0%bd%d0%b5-danny-home-26-%d1%85-2-%d1%81%d0%bc/",
@@ -12828,19 +13599,6 @@
     "source": "source_fields"
   },
   {
-    "id": 51408,
-    "name": "Комплект от 4 мерителни лъжици, Danny Home",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-4-%d0%bc%d0%b5%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%b8-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b8-danny-home/",
-    "description": "Комплект от 4 мерителни лъжици, Danny Home. Комплект: 4 броя.",
-    "bullets": [
-      "Комплект: 4 броя."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 51429,
     "name": "Отварачка за консерви от неръждаема стомана Danny Home, 18 см",
     "url": "https://skladbg.net/produkt/%d0%be%d1%82%d0%b2%d0%b0%d1%80%d0%b0%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%be%d0%bd%d1%81%d0%b5%d1%80%d0%b2%d0%b8-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4%d0%b0%d0%b5%d0%bc%d0%b0-%d1%81/",
@@ -12900,6 +13658,19 @@
     "description": "Щипки за захващане и сервиране на храна. Модел: Силиконова щипка за грил и сервиране, 27 см. Посочен материал: Silicone.",
     "bullets": [
       "Посочен материал: Silicone."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 51459,
+    "name": "2 броя Готварска ръкавица Danny Home 19 х 14 см",
+    "url": "https://skladbg.net/produkt/%d0%b3%d0%be%d1%82%d0%b2%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-danny-home-19-%d1%85-14-%d1%81%d0%bc/",
+    "description": "2 броя Готварска ръкавица Danny Home 19 х 14 см. Размери според сайта: 19 × 14 см.",
+    "bullets": [
+      "Размери според сайта: 19 × 14 см."
     ],
     "visible_features": [],
     "color": null,
@@ -13040,12 +13811,13 @@
     "source": "source_fields"
   },
   {
-    "id": 51683,
-    "name": "Цвете коледна звезда, букет 5-ка 10 броя в стек",
-    "url": "https://skladbg.net/produkt/%d1%86%d0%b2%d0%b5%d1%82%d0%b5-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b0-%d0%b1%d1%83%d0%ba%d0%b5%d1%82-5-%d0%ba%d0%b0-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81/",
-    "description": "Изкуствени цветя за декоративно аранжиране. Модел: Цвете коледна звезда, букет 5-ка.",
+    "id": 51574,
+    "name": "Порцеланова бонбониера с форма на ботуш, 24 х 16 х 10 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d1%81-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%be%d1%82/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера с форма на ботуш, 24 х 16 х 10 см. Размери според сайта: 24 × 16 × 10 см. Посочен материал: Porcelain.",
     "bullets": [
-      "Цвете коледна звезда, букет 5-ка"
+      "Размери според сайта: 24 × 16 × 10 см.",
+      "Посочен материал: Porcelain."
     ],
     "visible_features": [],
     "color": null,
@@ -13053,12 +13825,54 @@
     "source": "source_fields"
   },
   {
-    "id": 51874,
-    "name": "Домакинска лъжица ( канче) за вода, 14 х 14 х 12 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-14-%d1%85-14-%d1%85-12-%d1%81/",
-    "description": "Домакинска лъжица ( канче) за вода, 14 х 14 х 12 см. Размери според сайта: 14 × 14 × 12 см.",
+    "id": 51580,
+    "name": "Светещ керамичен коледен сувенир, къща  18 х 10 х 8 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80-%d0%ba%d1%8a%d1%89-2/",
+    "description": "Светещ керамичен коледен сувенир, къща 18 х 10 х 8 см. Размери според сайта: 18 × 10 × 8 см. Посочен материал: Ceramic.",
     "bullets": [
-      "Размери според сайта: 14 × 14 × 12 см."
+      "Размери според сайта: 18 × 10 × 8 см.",
+      "Посочен материал: Ceramic."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 51587,
+    "name": "Порцеланова бонбониера, 12 х 10 х 8 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-12-%d1%85-10-%d1%85-8-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 12 х 10 х 8 см. Размери според сайта: 12 × 10 × 8 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 12 × 10 × 8 см.",
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 51593,
+    "name": "Порцеланова бонбониера, 23  х 11 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-23-%d1%85-11-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Порцеланова бонбониера, 23 х 11 см. Размери според сайта: 23 × 11 см. Посочен материал: Porcelain.",
+    "bullets": [
+      "Размери според сайта: 23 × 11 см.",
+      "Посочен материал: Porcelain."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 51683,
+    "name": "Цвете коледна звезда, букет 5-ка 10 броя в стек",
+    "url": "https://skladbg.net/produkt/%d1%86%d0%b2%d0%b5%d1%82%d0%b5-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b0-%d0%b1%d1%83%d0%ba%d0%b5%d1%82-5-%d0%ba%d0%b0-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81/",
+    "description": "Изкуствени цветя за декоративно аранжиране. Модел: Цвете коледна звезда, букет 5-ка.",
+    "bullets": [
+      "Цвете коледна звезда, букет 5-ка"
     ],
     "visible_features": [],
     "color": null,
@@ -13184,20 +13998,6 @@
       "Размери според сайта: 9 × 9 × 8 см.",
       "Посочен материал: Porcelain.",
       "Посочен капацитет: 350 мл."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 52996,
-    "name": "Порцеланова кутия за масло Danny Home, 16 х 14 х 8 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-16-%d1%85-14-%d1%85-8-%d1%81%d0%bc/",
-    "description": "Порцеланова кутия за масло Danny Home, 16 х 14 х 8 см. Размери според сайта: 16 × 14 × 8 см. Посочен материал: Porcelain.",
-    "bullets": [
-      "Размери според сайта: 16 × 14 × 8 см.",
-      "Посочен материал: Porcelain."
     ],
     "visible_features": [],
     "color": null,
@@ -13713,6 +14513,34 @@
     "source": "source_fields"
   },
   {
+    "id": 53345,
+    "name": "Метален сушилник за съдове, Danny Home, 39 х 28 х 12.5 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-39-%d1%85-28-%d1%85-12-5-%d1%81%d0%bc/",
+    "description": "Метален сушилник за съдове, Danny Home, 39 х 28 х 12.5 см. Размери според сайта: 39 × 28 × 12.5 см. Посочен материал: Metal.",
+    "bullets": [
+      "Размери според сайта: 39 × 28 × 12.5 см.",
+      "Посочен материал: Metal."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 53348,
+    "name": "Метален сушилник за съдове, Danny Home, 42.7 х 31 х 14 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-42-7-%d1%85-31-%d1%85-14-%d1%81%d0%bc/",
+    "description": "Метален сушилник за съдове, Danny Home, 42.7 х 31 х 14 см. Размери според сайта: 42.7 × 31 × 14 см. Посочен материал: Metal.",
+    "bullets": [
+      "Размери според сайта: 42.7 × 31 × 14 см.",
+      "Посочен материал: Metal."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 53353,
     "name": "Луксозна кутия за хляб Danny Home, 35 х 22 х 20 см",
     "url": "https://skladbg.net/produkt/%d0%bb%d1%83%d0%ba%d1%81%d0%be%d0%b7%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%85%d0%bb%d1%8f%d0%b1-danny-home-35-%d1%85-22-%d1%85-20-%d1%81%d0%bc/",
@@ -13865,7 +14693,7 @@
     "id": 53527,
     "name": "2 броя в стек Стъклена чаша Danny Home, 8 х 8.3 см",
     "url": "https://skladbg.net/produkt/2-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%87%d0%b0%d1%88%d0%b0-danny-home-8-%d1%85-8-3-%d1%81%d0%bc/",
-    "description": "Чаша за сервиране на напитки. Модел: . Размери според сайта: 8 × 8.3 см. Посочен материал: Glass.",
+    "description": "Чаша за сервиране на напитки. Модел: 2 броя в стек Стъклена чаша Danny Home, 8 х 8.3 см. Размери според сайта: 8 × 8.3 см. Посочен материал: Glass.",
     "bullets": [
       "Размери според сайта: 8 × 8.3 см.",
       "Посочен материал: Glass."
@@ -14084,19 +14912,6 @@
     "description": "Чаша за сервиране на напитки. Модел: Поставка за чаши за плажен чадър, 12 х 15 см. Размери според сайта: 12 × 15 см.",
     "bullets": [
       "Размери според сайта: 12 × 15 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 54997,
-    "name": "Дамска капела",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-27/",
-    "description": "Дамска капела.",
-    "bullets": [
-      "Дамска капела"
     ],
     "visible_features": [],
     "color": null,
@@ -14354,6 +15169,20 @@
       "Размери според сайта: 8 × 6 см.",
       "Посочен материал: Glass.",
       "Посочен капацитет: 200 мл."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 55343,
+    "name": "Силиконова подложка за месене, точене Danny Home 70 х 50 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bc%d0%b5%d1%81%d0%b5%d0%bd%d0%b5-%d1%82%d0%be%d1%87%d0%b5%d0%bd%d0%b5-da/",
+    "description": "Дъска за подготовка и рязане на хранителни продукти. Модел: Силиконова подложка за месене, точене Danny Home 70 х 50 см. Размери според сайта: 70 × 50 см. Посочен материал: Silicone.",
+    "bullets": [
+      "Размери според сайта: 70 × 50 см.",
+      "Посочен материал: Silicone."
     ],
     "visible_features": [],
     "color": null,
@@ -15027,33 +15856,6 @@
     "source": "source_fields"
   },
   {
-    "id": 56209,
-    "name": "Меко одеяло Danny Home, 150 х 200 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d0%ba%d0%be-%d0%be%d0%b4%d0%b5%d1%8f%d0%bb%d0%be-danny-home-150-%d1%85-200-%d1%81%d0%bc-2/",
-    "description": "Одеяло за употреба в дома. Модел: Меко одеяло Danny Home, 150 х 200 см. Размери според сайта: 150 × 200 см.",
-    "bullets": [
-      "Размери според сайта: 150 × 200 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 56212,
-    "name": "Порцеланова кутия за масло, Danny Home, 16.5 х 13 х 7.8 cm 677g",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-16-5-%d1%85-13-%d1%85-7-8-cm-677g/",
-    "description": "Порцеланова кутия за масло, Danny Home, 16.5 х 13 х 7.8 cm 677g. Размери според сайта: 16.5 × 13 × 7.8 см. Посочен материал: Porcelain.",
-    "bullets": [
-      "Размери според сайта: 16.5 × 13 × 7.8 см.",
-      "Посочен материал: Porcelain."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 56218,
     "name": "Стъклена чаша за шампанско Danny Home, 2 броя в стек, 4.9 х 26.1 х 6.8cm",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%87%d0%b0%d1%88%d0%b0-%d0%b7%d0%b0-%d1%88%d0%b0%d0%bc%d0%bf%d0%b0%d0%bd%d1%81%d0%ba%d0%be-danny-home-2-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81-2/",
@@ -15084,7 +15886,7 @@
     "id": 56236,
     "name": "Дървена лъжица за спагети, Danny Home, 30.5 cm",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bf%d0%b0%d0%b3%d0%b5%d1%82%d0%b8-danny-home-30-5-cm/",
-    "description": "Дървена лъжица за спагети, Danny Home, 30.5 cm. Посочен материал: Wood.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Дървена лъжица за спагети, Danny Home, 30.5 cm. Посочен материал: Wood.",
     "bullets": [
       "Посочен материал: Wood."
     ],
@@ -15097,7 +15899,7 @@
     "id": 56240,
     "name": "Дървена лъжица за салата, Danny Home, 30.5 cm",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%81%d0%b0%d0%bb%d0%b0%d1%82%d0%b0-danny-home-30-5-cm/",
-    "description": "Дървена лъжица за салата, Danny Home, 30.5 cm. Посочен материал: Wood.",
+    "description": "Кухненска лъжица за разбъркване и сервиране. Модел: Дървена лъжица за салата, Danny Home, 30.5 cm. Посочен материал: Wood.",
     "bullets": [
       "Посочен материал: Wood."
     ],
@@ -15185,19 +15987,6 @@
     "source": "source_fields"
   },
   {
-    "id": 56277,
-    "name": "Oрганайзер за кухненска мивка с вграден дозатор за сапун, 18 х 11 х 18.8 cm 420g",
-    "url": "https://skladbg.net/produkt/o%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-%d0%b7%d0%b0-%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b0-%d0%bc%d0%b8%d0%b2%d0%ba%d0%b0-%d1%81-%d0%b2%d0%b3%d1%80%d0%b0%d0%b4%d0%b5/",
-    "description": "Oрганайзер за кухненска мивка с вграден дозатор за сапун, 18 х 11 х 18.8 cm 420g. Размери според сайта: 18 × 11 × 18.8 см.",
-    "bullets": [
-      "Размери според сайта: 18 × 11 × 18.8 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
     "id": 56301,
     "name": "Комплект прибори за хранене от неръждаема стомана Danny Home",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b5-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4/",
@@ -15241,10 +16030,10 @@
     "id": 56313,
     "name": "Чугунен тиган за сервиране с бамбукова подложка Danny Home, 18 х 5 см",
     "url": "https://skladbg.net/produkt/%d1%87%d1%83%d0%b3%d1%83%d0%bd%d0%b5%d0%bd-%d1%82%d0%b8%d0%b3%d0%b0%d0%bd-%d0%b7%d0%b0-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d1%81-%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2-2/",
-    "description": "Чугунен тиган за сервиране с бамбукова подложка Danny Home, 18 х 5 см. Размери според сайта: 18 × 5 см. Посочен материал: Bamboo.",
+    "description": "Чугунен тиган за сервиране с бамбукова подложка Danny Home, 18 х 5 см. Размери според сайта: 18 × 5 см. Посочен материал: Bamboo, Cast Iron.",
     "bullets": [
       "Размери според сайта: 18 × 5 см.",
-      "Посочен материал: Bamboo."
+      "Посочен материал: Bamboo, Cast Iron."
     ],
     "visible_features": [],
     "color": null,
@@ -15294,9 +16083,22 @@
     "id": 56399,
     "name": "Многофункционална почистваща кърпа от микрофибър, 50 х 50 см, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%b0-%d0%bf%d0%be%d1%87%d0%b8%d1%81%d1%82%d0%b2%d0%b0%d1%89%d0%b0-%d0%ba%d1%8a%d1%80%d0%bf%d0%b0/",
-    "description": "Кърпа за ежедневна употреба. Модел: Многофункционална почистваща кърпа от микрофибър, 50 х 50 см. Размери според сайта: 50 × 50 см.",
+    "description": "Кърпа за домашно почистване. Модел: Многофункционална почистваща кърпа от микрофибър, 50 х 50 см. Размери според сайта: 50 × 50 см.",
     "bullets": [
       "Размери според сайта: 50 × 50 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 56424,
+    "name": "Малък джобен нож, 13 х 2 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b0%d0%bb%d1%8a%d0%ba-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-13-%d1%85-2-%d1%81%d0%bc/",
+    "description": "Малък джобен нож, 13 х 2 см. Размери според сайта: 13 × 2 см.",
+    "bullets": [
+      "Размери според сайта: 13 × 2 см."
     ],
     "visible_features": [],
     "color": null,
@@ -15310,6 +16112,19 @@
     "description": "Гъби за баня, 10 см.",
     "bullets": [
       "Гъби за баня, 10 см"
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 56534,
+    "name": "Mетална фруктиера, Danny Home",
+    "url": "https://skladbg.net/produkt/m%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-danny-home/",
+    "description": "Купа за сервиране на храна на масата. Модел: Mетална фруктиера, Danny Home. Посочен материал: Metal.",
+    "bullets": [
+      "Посочен материал: Metal."
     ],
     "visible_features": [],
     "color": null,
@@ -15410,6 +16225,45 @@
     "source": "source_fields"
   },
   {
+    "id": 56903,
+    "name": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-15-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83/",
+    "description": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия. Размери според сайта: 15 × 2 см.",
+    "bullets": [
+      "Размери според сайта: 15 × 2 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 56908,
+    "name": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-15-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83-2/",
+    "description": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия. Размери според сайта: 15 × 2 см.",
+    "bullets": [
+      "Размери според сайта: 15 × 2 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 56912,
+    "name": "Автоматичен Джобен нож, 24 х 3 см",
+    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-24-%d1%85-3-%d1%81%d0%bc/",
+    "description": "Автоматичен Джобен нож, 24 х 3 см. Размери според сайта: 24 × 3 см.",
+    "bullets": [
+      "Размери според сайта: 24 × 3 см."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 56928,
     "name": "Прозрачна пвц дъска с щипка 31 х 22 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d0%bf%d0%b2%d1%86-%d0%b4%d1%8a%d1%81%d0%ba%d0%b0-%d1%81-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-31-%d1%85-22-%d1%81%d0%bc/",
@@ -15417,33 +16271,6 @@
     "bullets": [
       "Размери според сайта: 31 × 22 см.",
       "Посочен материал: PVC."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 56933,
-    "name": "Мъжка чанта от кожа, която може да се носи на колан или през рамо, 20 х 13 х 5 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%be%d1%82-%d0%ba%d0%be%d0%b6%d0%b0-%d0%ba%d0%be%d1%8f%d1%82%d0%be-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%bd%d0%be/",
-    "description": "Мъжка чанта от кожа, която може да се носи на колан или през рамо, 20 х 13 х 5 см. Размери според сайта: 20 × 13 × 5 см. Посочен материал: Leather.",
-    "bullets": [
-      "Размери според сайта: 20 × 13 × 5 см.",
-      "Посочен материал: Leather."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 56937,
-    "name": "Мъжка чанта, която може да се носи на колан или през рамо, 20 х 13 х 5 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%ba%d0%be%d1%8f%d1%82%d0%be-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%bd%d0%be%d1%81%d0%b8-%d0%bd%d0%b0-%d0%ba%d0%be/",
-    "description": "Мъжка чанта, която може да се носи на колан или през рамо, 20 х 13 х 5 см. Размери според сайта: 20 × 13 × 5 см.",
-    "bullets": [
-      "Размери според сайта: 20 × 13 × 5 см."
     ],
     "visible_features": [],
     "color": null,
@@ -15804,6 +16631,49 @@
       "Размери според сайта: 7 × 22 × 7.5 см.",
       "Посочен материал: Glass.",
       "Посочен капацитет: 600 ml."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 57487,
+    "name": "Стъклена бонбониера, Danny Home, 9 х 9 х 14 см, 425мл",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-9-%d1%85-9-%d1%85-14-%d1%81%d0%bc-425%d0%bc%d0%bb/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера, Danny Home, 9 х 9 х 14 см, 425мл. Размери според сайта: 9 × 9 × 14 см. Посочен материал: Glass. Посочен капацитет: 425 мл.",
+    "bullets": [
+      "Размери според сайта: 9 × 9 × 14 см.",
+      "Посочен материал: Glass.",
+      "Посочен капацитет: 425 мл."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 57490,
+    "name": "Стъклена бонбониера, Danny Home, 13 х 13 х 18 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-13-%d1%85-13-%d1%85-18-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера, Danny Home, 13 х 13 х 18 см. Размери според сайта: 13 × 13 × 18 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 13 × 13 × 18 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 57493,
+    "name": "Стъклена бонбониера, Danny Home, 12 х 12 х 23 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-12-%d1%85-12-%d1%85-23-%d1%81%d0%bc/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера, Danny Home, 12 х 12 х 23 см. Размери според сайта: 12 × 12 × 23 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 12 × 12 × 23 см.",
+      "Посочен материал: Glass."
     ],
     "visible_features": [],
     "color": null,
@@ -16180,6 +17050,20 @@
     "source": "source_fields"
   },
   {
+    "id": 57689,
+    "name": "Стъклена бонбониера, Danny Home, 9.1 х 9.1 х 24 cm",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-9-1-%d1%85-9-1-%d1%85-24-cm/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера, Danny Home, 9.1 х 9.1 х 24 cm. Размери според сайта: 9.1 × 9.1 × 24 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 9.1 × 9.1 × 24 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 57698,
     "name": "Порцеланова чаша Danny Home, 9.5 х 9.5 х 8.5 см 350мл, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d1%87%d0%b0%d1%88%d0%b0-danny-home-9-5-%d1%85-9-5-%d1%85-8-5-%d1%81%d0%bc-350%d0%bc%d0%bb-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2/",
@@ -16300,19 +17184,6 @@
     "description": "Шапка тип идиотка, различни шарки и цветове, 30 х 18 см. Размери според сайта: 30 × 18 см.",
     "bullets": [
       "Размери според сайта: 30 × 18 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 57754,
-    "name": "Детска шапка тип идиотка, различни шарки и цветове, 18 х 13 см, 12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d1%82%d0%b8%d0%bf-%d0%b8%d0%b4%d0%b8%d0%be%d1%82%d0%ba%d0%b0-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%88%d0%b0%d1%80/",
-    "description": "Детска шапка тип идиотка, различни шарки и цветове, 18 х 13 см. Размери според сайта: 18 × 13 см.",
-    "bullets": [
-      "Размери според сайта: 18 × 13 см."
     ],
     "visible_features": [],
     "color": null,
@@ -16465,6 +17336,48 @@
     "source": "source_fields"
   },
   {
+    "id": 59381,
+    "name": "Стъклена фруктиера за плодове на столче, Danny Home 25 х 8 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена фруктиера за плодове на столче, Danny Home 25 х 8 см. Размери според сайта: 25 × 8 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 25 × 8 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 59384,
+    "name": "Стъклена фруктиера за плодове на столче, Danny Home 26 х 11 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb-2/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена фруктиера за плодове на столче, Danny Home 26 х 11 см. Размери според сайта: 26 × 11 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 26 × 11 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 59387,
+    "name": "Стъклена фруктиера за плодове на столче, Danny Home 26 х 14 см",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb-3/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена фруктиера за плодове на столче, Danny Home 26 х 14 см. Размери според сайта: 26 × 14 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 26 × 14 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 59390,
     "name": "2 броя стъклена Чаша за вино Danny Home, 23.7 см, 550 мл",
     "url": "https://skladbg.net/produkt/2-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%87%d0%b0%d1%88%d0%b0-%d0%b7%d0%b0-%d0%b2%d0%b8%d0%bd%d0%be-danny-home-23-7-%d1%81%d0%bc-550-%d0%bc%d0%bb/",
@@ -16546,12 +17459,15 @@
     "source": "source_fields"
   },
   {
-    "id": 59522,
-    "name": "Водоустойчива шапка за баня, 20 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%b2%d0%be%d0%b4%d0%be%d1%83%d1%81%d1%82%d0%be%d0%b9%d1%87%d0%b8%d0%b2%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%b0%d0%bd%d1%8f-20-%d1%85-15-%d1%81%d0%bc/",
-    "description": "Водоустойчива шапка за баня, 20 х 15 см. Размери според сайта: 20 × 15 см.",
+    "id": 59436,
+    "name": "Kомплект от 3 правоъгълни стъклени контейнери Danny Home за съхранение на храна с херметични бели капаци, 400ml 14.5*10.5*4.7cm 630ml 17*12.5*5.25cm  1000ml 19.7*14.7*6cm",
+    "url": "https://skladbg.net/produkt/k%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-3-%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%8a%d0%b3%d1%8a%d0%bb%d0%bd%d0%b8-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b8-%d0%ba%d0%be%d0%bd%d1%82/",
+    "description": "Kомплект от 3 правоъгълни стъклени контейнери Danny Home за съхранение на храна с херметични бели капаци, 400ml 14.5*10.5*4.7cm 630ml 17*12.5*5.25cm 1000ml 19.7*14.7*6cm. Размери според сайта: 14.5 × 10.5 × 4.7 см. Посочен материал: Glass. Посочен капацитет: 400 ml. Комплект: 3 броя.",
     "bullets": [
-      "Размери според сайта: 20 × 15 см."
+      "Размери според сайта: 14.5 × 10.5 × 4.7 см.",
+      "Посочен материал: Glass.",
+      "Посочен капацитет: 400 ml.",
+      "Комплект: 3 броя."
     ],
     "visible_features": [],
     "color": null,
@@ -16633,19 +17549,6 @@
     "description": "Дамски гребен, 22 х 5 см. Размери според сайта: 22 × 5 см.",
     "bullets": [
       "Размери според сайта: 22 × 5 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 59611,
-    "name": "Мини LED прожектор с коледни фигури, 10 х 7 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b8%d0%bd%d0%b8-led-%d0%bf%d1%80%d0%be%d0%b6%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%b8-10-%d1%85-7-%d1%81%d0%bc/",
-    "description": "Мини LED прожектор с коледни фигури, 10 х 7 см. Размери според сайта: 10 × 7 см.",
-    "bullets": [
-      "Размери според сайта: 10 × 7 см."
     ],
     "visible_features": [],
     "color": null,
@@ -16879,8 +17782,9 @@
     "id": 59833,
     "name": "Чаши за текила Danny Home 4.3*7.0*3.4cm 48ml, 7 броя в кутия",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d1%88%d0%b8-%d0%b7%d0%b0-%d1%82%d0%b5%d0%ba%d0%b8%d0%bb%d0%b0-danny-home-4-37-03-4cm-48ml-7-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "description": "Чаша за сервиране на напитки. Модел: Чаши за текила Danny Home 4.3*7.0*3.4cm 48ml, 7 броя в кутия. Посочен капацитет: 48 ml.",
+    "description": "Чаша за сервиране на напитки. Модел: Чаши за текила Danny Home 4.3*7.0*3.4cm 48ml, 7 броя в кутия. Размери според сайта: 4.3 × 7 × 3.4 см. Посочен капацитет: 48 ml.",
     "bullets": [
+      "Размери според сайта: 4.3 × 7 × 3.4 см.",
       "Посочен капацитет: 48 ml."
     ],
     "visible_features": [],
@@ -16949,8 +17853,9 @@
     "id": 59883,
     "name": "Стъклено плато от три купички за сервиране Danny Home, поставена върху черна метална стойка 12 х 12*4.5 cm, 250 ml",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%be-%d0%bf%d0%bb%d0%b0%d1%82%d0%be-%d0%be%d1%82-%d1%82%d1%80%d0%b8-%d0%ba%d1%83%d0%bf%d0%b8%d1%87%d0%ba%d0%b8-%d0%b7%d0%b0-%d1%81%d0%b5%d1%80%d0%b2%d0%b8/",
-    "description": "Стъклено плато от три купички за сервиране Danny Home, поставена върху черна метална стойка 12 х 12*4.5 cm, 250 ml. Посочен материал: Glass, Metal. Посочен капацитет: 250 ml.",
+    "description": "Стъклено плато от три купички за сервиране Danny Home, поставена върху черна метална стойка 12 х 12*4.5 cm, 250 ml. Размери според сайта: 12 × 12 × 4.5 см. Посочен материал: Glass, Metal. Посочен капацитет: 250 ml.",
     "bullets": [
+      "Размери според сайта: 12 × 12 × 4.5 см.",
       "Посочен материал: Glass, Metal.",
       "Посочен капацитет: 250 ml."
     ],
@@ -17007,20 +17912,6 @@
     "description": "Покривало за диван Danny Home, 70 х 200 см. Размери според сайта: 70 × 200 см.",
     "bullets": [
       "Размери според сайта: 70 × 200 см."
-    ],
-    "visible_features": [],
-    "color": null,
-    "shape": null,
-    "source": "source_fields"
-  },
-  {
-    "id": 59941,
-    "name": "Порцеланова кутия за масло, Danny Home, 4 х 20.5 х 10.5cm 626g",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-4-%d1%85-20-5-%d1%85-10-5cm-626g/",
-    "description": "Порцеланова кутия за масло, Danny Home, 4 х 20.5 х 10.5cm 626g. Размери според сайта: 4 × 20.5 × 10.5 см. Посочен материал: Porcelain.",
-    "bullets": [
-      "Размери според сайта: 4 × 20.5 × 10.5 см.",
-      "Посочен материал: Porcelain."
     ],
     "visible_features": [],
     "color": null,
@@ -17120,6 +18011,20 @@
     "bullets": [
       "Размери според сайта: 28 × 8 см.",
       "Посочен материал: Aluminum."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 60003,
+    "name": "Метален сушилник за съдове, Danny Home, 42.4 х 24.4 х 14.4 cm 1.54kg",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-42-4-%d1%85-24-4-%d1%85-14-4-cm-1-54kg/",
+    "description": "Метален сушилник за съдове, Danny Home, 42.4 х 24.4 х 14.4 cm 1.54kg. Размери според сайта: 42.4 × 24.4 × 14.4 см. Посочен материал: Metal.",
+    "bullets": [
+      "Размери според сайта: 42.4 × 24.4 × 14.4 см.",
+      "Посочен материал: Metal."
     ],
     "visible_features": [],
     "color": null,
@@ -17630,6 +18535,34 @@
     "source": "source_fields"
   },
   {
+    "id": 60722,
+    "name": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4/",
+    "description": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см. Размери според сайта: 17 × 10 см. Посочен материал: Stainless Steel, Steel, Metal.",
+    "bullets": [
+      "Размери според сайта: 17 × 10 см.",
+      "Посочен материал: Stainless Steel, Steel, Metal."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 60726,
+    "name": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4-2/",
+    "description": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см. Размери според сайта: 17 × 10 см. Посочен материал: Stainless Steel, Steel, Metal.",
+    "bullets": [
+      "Размери според сайта: 17 × 10 см.",
+      "Посочен материал: Stainless Steel, Steel, Metal."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 60734,
     "name": "Порцеланова Чаша с лъжичка, 11 х 8 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d1%87%d0%b0%d1%88%d0%b0-%d1%81-%d0%bb%d1%8a%d0%b6%d0%b8%d1%87%d0%ba%d0%b0-11-%d1%85-8-%d1%85-10-%d1%81%d0%bc/",
@@ -17770,6 +18703,36 @@
     "source": "source_fields"
   },
   {
+    "id": 61222,
+    "name": "Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 9.8 х 12.4 х 13.1 cm, 340ml",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 9.8 х 12.4 х 13.1 cm, 340ml. Размери според сайта: 9.8 × 12.4 × 13.1 см. Посочен материал: Glass. Посочен капацитет: 340 ml.",
+    "bullets": [
+      "Размери според сайта: 9.8 × 12.4 × 13.1 см.",
+      "Посочен материал: Glass.",
+      "Посочен капацитет: 340 ml."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 61225,
+    "name": "Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 8.4 х 12.4 х 18.4 cm,1225ml",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8-2/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 8.4 х 12.4 х 18.4 cm,1225ml. Размери според сайта: 8.4 × 12.4 × 18.4 см. Посочен материал: Glass. Посочен капацитет: 1225 ml.",
+    "bullets": [
+      "Размери според сайта: 8.4 × 12.4 × 18.4 см.",
+      "Посочен материал: Glass.",
+      "Посочен капацитет: 1225 ml."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
     "id": 61235,
     "name": "Стъклена декоративна купа на столче, Danny Home, 14.8 х 10 х 13.1 cm",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-%d0%ba%d1%83%d0%bf%d0%b0-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d1%87%d0%b5-danny-ho/",
@@ -17790,6 +18753,20 @@
     "description": "Купа за сервиране на храна на масата. Модел: Стъклена декоративна купа на столче, Danny Home, 14.8 х 10 х 13.2 cm. Размери според сайта: 14.8 × 10 × 13.2 см. Посочен материал: Glass.",
     "bullets": [
       "Размери според сайта: 14.8 × 10 × 13.2 см.",
+      "Посочен материал: Glass."
+    ],
+    "visible_features": [],
+    "color": null,
+    "shape": null,
+    "source": "source_fields"
+  },
+  {
+    "id": 61241,
+    "name": "Стъклена бонбониера ,капак на столче, Danny Home, 8.9 х 36.4 х 12 cm",
+    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d1%87%d0%b5-danny-h/",
+    "description": "Купа за сервиране на храна на масата. Модел: Стъклена бонбониера ,капак на столче, Danny Home, 8.9 х 36.4 х 12 cm. Размери според сайта: 8.9 × 36.4 × 12 см. Посочен материал: Glass.",
+    "bullets": [
+      "Размери според сайта: 8.9 × 36.4 × 12 см.",
       "Посочен материал: Glass."
     ],
     "visible_features": [],

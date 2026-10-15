@@ -204,12 +204,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 4918,
-    "name": "ЧЕТКА ЗА МИВКА ТРИЪГЪЛНА",
-    "url": "https://skladbg.net/produkt/product-010607/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 4920,
     "name": "ПЛЮШЕНА ИГРАЧКА  ЕЛЕНЧЕ",
     "url": "https://skladbg.net/produkt/product-032601/",
@@ -567,7 +561,7 @@
     "id": 5391,
     "name": "Детска чанта паети",
     "url": "https://skladbg.net/produkt/product-010780/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 5395,
@@ -628,6 +622,12 @@
     "name": "РАМКА ЗА СНИМКИ 10*15",
     "url": "https://skladbg.net/produkt/product-031062/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 5475,
+    "name": "ЛЪЖИЦА МЕЛАМИН ЗА ЧЕРПАЦИ к-У 99/ 8169",
+    "url": "https://skladbg.net/produkt/product-010792/",
+    "reason": "spoon_type_not_in_template"
   },
   {
     "id": 5479,
@@ -730,12 +730,6 @@
     "name": "ОРЕХОМЕЛАЧКА",
     "url": "https://skladbg.net/produkt/product-090101/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 5698,
-    "name": "ГЪБА ЗА ПОЧИСТВАНЕ НА ХРОМИРАНИ ПОВЪРХ. 10*7",
-    "url": "https://skladbg.net/produkt/product-070326/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 5713,
@@ -1176,6 +1170,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 6359,
+    "name": "КЪРПИЧКИ ЦВЕТОУЛАВЯЩИ 12-ка",
+    "url": "https://skladbg.net/produkt/product-031237/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 6378,
     "name": "ЗАКАЧАЛКА ДЪРВЕНА ЗА КУХНЯ",
     "url": "https://skladbg.net/produkt/product-070390/",
@@ -1317,7 +1317,7 @@
     "id": 6597,
     "name": "ЧАНТА ХОГИ-ВАГИ  12бр.в стек Р 71 /7105",
     "url": "https://skladbg.net/produkt/product-031790/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 6603,
@@ -1368,6 +1368,12 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 6673,
+    "name": "Клечки за уши дървени в правоъгълна кутия.6 броя в комплект",
+    "url": "https://skladbg.net/produkt/product-060157/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 6688,
     "name": "Метален камион със звук у светлини",
     "url": "https://skladbg.net/produkt/product-070558/",
@@ -1413,7 +1419,7 @@
     "id": 6750,
     "name": "ЧАНТА ХАГИ ПОПИТ МАЛКА 12бр.стек",
     "url": "https://skladbg.net/produkt/product-100127/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 6783,
@@ -1659,7 +1665,7 @@
     "id": 7134,
     "name": "Клечки за уши дървени. Комплект 6 броя",
     "url": "https://skladbg.net/produkt/product-011521/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 7136,
@@ -2040,12 +2046,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 7744,
-    "name": "Комплект от 6 броя турски/ориенталски метални лъжички с декоративни дръжки и цветни камъчета",
-    "url": "https://skladbg.net/produkt/product-120287/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 7752,
     "name": "ОРГАНАЙЗЕР ТУРСКИ ЗА ХЛАДИЛНИК",
     "url": "https://skladbg.net/produkt/product-120297/",
@@ -2172,6 +2172,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 7987,
+    "name": "Лъжица-бъркалка за коктейли от инокс, 27.5 x 3 см",
+    "url": "https://skladbg.net/produkt/product-120604/",
+    "reason": "spoon_type_not_in_template"
+  },
+  {
     "id": 7995,
     "name": "ФЛУМАСТЕРИ С ПЕЧАТИ 6-ца",
     "url": "https://skladbg.net/produkt/product-120610/",
@@ -2247,12 +2253,6 @@
     "id": 8123,
     "name": "ПОДЛОЖКА ЗА ТОПЛО МЕТАЛНА КРЪГЛА 20см.",
     "url": "https://skladbg.net/produkt/product-120714/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 8134,
-    "name": "ЛЪЖИЧКИ ТУРСКИ ДЪРВЕНИ 6-ца ГОЛЕМИ",
-    "url": "https://skladbg.net/produkt/product-120733/",
     "reason": "no_supported_product_type"
   },
   {
@@ -2337,7 +2337,7 @@
     "id": 8209,
     "name": "Канче алпака, 13 х 7 х 25 см",
     "url": "https://skladbg.net/produkt/product-120820/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 8237,
@@ -2428,12 +2428,6 @@
     "name": "Универсален душ за чешма.",
     "url": "https://skladbg.net/produkt/product-120955/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 8359,
-    "name": "НОЖ ЗА БАЛАТУМ НА БЛИСТЕР ОБИКНОВЕН(12бр.к-кт) У 102/8149",
-    "url": "https://skladbg.net/produkt/product-120967/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 8368,
@@ -2742,6 +2736,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 8814,
+    "name": "КУТИЯ МУЗИКАЛНА КУФАРЧЕ",
+    "url": "https://skladbg.net/produkt/product-121435/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 8819,
     "name": "КУБЧЕ СПИНЕР",
     "url": "https://skladbg.net/produkt/product-121437/",
@@ -2856,12 +2856,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 8973,
-    "name": "ФРУКТИЕРА МЕТАЛНА ЗЛАТНА",
-    "url": "https://skladbg.net/produkt/product-121581/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 8975,
     "name": "КОЗИРКА ПЛАСМАСОВА",
     "url": "https://skladbg.net/produkt/product-121584/",
@@ -2884,6 +2878,12 @@
     "name": "КАНЧЕ ГРАНИТ 18см.",
     "url": "https://skladbg.net/produkt/product-121605/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 9009,
+    "name": "КУТИЯ ЗА МАСЛО СТЪКЛО",
+    "url": "https://skladbg.net/produkt/product-121616/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 9014,
@@ -3279,7 +3279,7 @@
     "id": 9711,
     "name": "ЛАМПА НАСТОЛНА USB TGX-L22",
     "url": "https://skladbg.net/produkt/product-122124/",
-    "reason": "no_supported_product_type"
+    "reason": "out_of_stock_or_not_purchasable"
   },
   {
     "id": 9718,
@@ -3453,7 +3453,7 @@
     "id": 10049,
     "name": "ЧАНТА ЗА ПЛАЖ ЛЪСКАВА",
     "url": "https://skladbg.net/produkt/product-122420/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 10068,
@@ -3651,7 +3651,7 @@
     "id": 10360,
     "name": "ЧАНТА ПЛЮШ ХАГИ СЪРЦЕ 10бр.стек Р 77 /7349",
     "url": "https://skladbg.net/produkt/product-122649/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 10371,
@@ -4107,13 +4107,13 @@
     "id": 11366,
     "name": "ЗАХАРНИЦА ТУРСКА С ДОЗАТОР",
     "url": "https://skladbg.net/produkt/%d0%b7%d0%b0%d1%85%d0%b0%d1%80%d0%bd%d0%b8%d1%86%d0%b0-%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b0-%d1%81-%d0%b4%d0%be%d0%b7%d0%b0%d1%82%d0%be%d1%80/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11370,
     "name": "ЗАХАРНИЦА ТУРСКА С ДОЗАТОР",
     "url": "https://skladbg.net/produkt/%d0%b7%d0%b0%d1%85%d0%b0%d1%80%d0%bd%d0%b8%d1%86%d0%b0-%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b0-%d1%81-%d0%b4%d0%be%d0%b7%d0%b0%d1%82%d0%be%d1%80-2/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11375,
@@ -4143,7 +4143,7 @@
     "id": 11392,
     "name": "КУТИЯ ТУРСКА ПВЦ ЗА КЛЕЧКИ И ТОМПОНИ АК 730",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b0-%d0%bf%d0%b2%d1%86-%d0%b7%d0%b0-%d0%ba%d0%bb%d0%b5%d1%87%d0%ba%d0%b8-%d0%b8-%d1%82%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b8-%d0%b0%d0%ba/",
-    "reason": "unsupported_main_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11431,
@@ -4233,7 +4233,7 @@
     "id": 11619,
     "name": "ЧАНТА ЗА ПЪТУВАНЕ",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bd%d0%b5/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11634,
@@ -4527,7 +4527,7 @@
     "id": 11807,
     "name": "ЧАНТА ХАГИ ПОПИТ ГОЛЯМА 12бр.стек к-Р 72/7149",
     "url": "https://skladbg.net/produkt/product-070119/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11808,
@@ -4635,7 +4635,7 @@
     "id": 11839,
     "name": "ЧАНТА ЗА ПЛАЖ",
     "url": "https://skladbg.net/produkt/product-031510/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11841,
@@ -4666,6 +4666,12 @@
     "name": "КОНЦИ 12брк-кт. ЧЕРНИ  К 48 / Р68 /5470-2",
     "url": "https://skladbg.net/produkt/product-070136/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 11847,
+    "name": "КОМПЛЕКТ ЗА ГРИВНИ КВАДРАТНА КУТИЯ У 103/8925",
+    "url": "https://skladbg.net/produkt/product-040335/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11848,
@@ -4725,7 +4731,7 @@
     "id": 11862,
     "name": "КАНЧЕ ТЕФЛОН 16см 8052-1",
     "url": "https://skladbg.net/produkt/product-020172/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11863,
@@ -4785,7 +4791,7 @@
     "id": 11905,
     "name": "ЧАНТА ХАГИ СИЛИКОН ПОПИТ",
     "url": "https://skladbg.net/produkt/product-010370/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 11908,
@@ -4936,18 +4942,6 @@
     "name": "Щипки за простиране многоцветни",
     "url": "https://skladbg.net/produkt/%d1%89%d0%b8%d0%bf%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 13365,
-    "name": "Комплект лопатка с четка",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 13372,
-    "name": "Комплект лопатка с четка",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0-2/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 13601,
@@ -5592,18 +5586,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 14334,
-    "name": "Контейнер ПВЦ 1.7 л",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-1-7-%d0%bb/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 14339,
-    "name": "Контейнер ПВЦ 1.2 л",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-1-2-%d0%bb/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 14341,
     "name": "Прозрачна кутия за хапчета",
     "url": "https://skladbg.net/produkt/%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%85%d0%b0%d0%bf%d1%87%d0%b5%d1%82%d0%b0/",
@@ -5752,6 +5734,18 @@
     "name": "Конци бели и черни, 6 броя в комплект",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%86%d0%b8-%d0%b1%d0%b5%d0%bb%d0%b8-%d0%b8-%d1%87%d0%b5%d1%80%d0%bd%d0%b8-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 14498,
+    "name": "Конци различни цветове в кръгла кутия",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%86%d0%b8-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d0%be%d0%b2%d0%b5-%d0%b2-%d0%ba%d1%80%d1%8a%d0%b3%d0%bb%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
+    "reason": "product_type_not_in_template"
+  },
+  {
+    "id": 14503,
+    "name": "Конци различни цветове в квадратна кутия",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%86%d0%b8-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d0%be%d0%b2%d0%b5-%d0%b2-%d0%ba%d0%b2%d0%b0%d0%b4%d1%80%d0%b0%d1%82%d0%bd%d0%b0-%d0%ba%d1%83/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 14508,
@@ -6066,21 +6060,9 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 14975,
-    "name": "Коледна украса Елхички, 4 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b8%d1%87%d0%ba%d0%b8-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
     "id": 14978,
     "name": "Коледна украса Чувалче",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%87%d1%83%d0%b2%d0%b0%d0%bb%d1%87%d0%b5/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 14994,
-    "name": "Музикален Дядо Коледа с камбанки и фенерче, 30 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-%d1%81-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b8-%d0%b8-%d1%84%d0%b5%d0%bd/",
     "reason": "no_supported_product_type"
   },
   {
@@ -6090,46 +6072,16 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15029,
-    "name": "Коледни стикери, 12 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d1%82%d0%b8%d0%ba%d0%b5%d1%80%d0%b8-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15035,
-    "name": "Коледни стикери, 12 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d1%82%d0%b8%d0%ba%d0%b5%d1%80%d0%b8-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-3/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15039,
     "name": "Коледни стикери, 12 броя в комплект",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d1%82%d0%b8%d0%ba%d0%b5%d1%80%d0%b8-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-4/",
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15044,
-    "name": "Светещ коледен надпис 41 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%bd%d0%b0%d0%b4%d0%bf%d0%b8%d1%81-41-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15052,
-    "name": "Коледна украса Бастун, 2 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b1%d0%b0%d1%81%d1%82%d1%83%d0%bd-2-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15056,
     "name": "Коледна украса топки 6 см , 6 броя в кутия, червени, сребро и златни",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-6-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d1%87/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15062,
-    "name": "Коледна украса Къщички 7.5 см, 3 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b8-7-5-%d1%81%d0%bc-3-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 15067,
@@ -6150,22 +6102,16 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15104,
-    "name": "Коледна украса Бастун 13 см, 4 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b1%d0%b0%d1%81%d1%82%d1%83%d0%bd-13-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb/",
-    "reason": "no_supported_product_type"
+    "id": 15097,
+    "name": "Коледна украса топки 3 см , 12 броя в кутия, червени, сребро, златни и розово",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-3-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
+    "reason": "out_of_stock_or_not_purchasable"
   },
   {
     "id": 15109,
     "name": "Коледен гирлянд 3 метра x 3mm, червен, розов, сребро, и златен цвят",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b3%d0%b8%d1%80%d0%bb%d1%8f%d0%bd%d0%b4-3-%d0%bc%d0%b5%d1%82%d1%80%d0%b0-x-3mm-%d1%87%d0%b5%d1%80%d0%b2%d0%b5%d0%bd-%d1%80%d0%be%d0%b7%d0%be%d0%b2/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15116,
-    "name": "Коледна украса Снежко",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 15124,
@@ -6216,22 +6162,10 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 15174,
-    "name": "Коледна украса Подаръче 6 см , 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%bf%d0%be%d0%b4%d0%b0%d1%80%d1%8a%d1%87%d0%b5-6-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15219,
     "name": "Връх за елха, Звезда 20 см",
     "url": "https://skladbg.net/produkt/%d0%b2%d1%80%d1%8a%d1%85-%d0%b7%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b0-20-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15229,
-    "name": "Коледна украса Снежко, 45 x 15 cm",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be-45-x-15-cm/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 15235,
@@ -6306,12 +6240,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 15289,
-    "name": "Декоративен коледен керамичен снежко, 13 х 8 см, 2 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15297,
     "name": "Коледна украса завеса от лампи с форма на Елхи, 4 метра дължина",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b7%d0%b0%d0%b2%d0%b5%d1%81%d0%b0-%d0%be%d1%82-%d0%bb%d0%b0%d0%bc%d0%bf%d0%b8-%d1%81-%d1%84%d0%be%d1%80%d0%bc%d0%b0-2/",
@@ -6336,88 +6264,16 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15314,
-    "name": "Светеща Коледна украса камбанки, 35 х 25 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b8-35-%d1%85-25-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15332,
-    "name": "Коледна украса камбанка, 12 х 8 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d0%b0%d0%bc%d0%b1%d0%b0%d0%bd%d0%ba%d0%b0-12-%d1%85-8-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15336,
     "name": "Коледна украса Елха 12 х 7 см, 3 броя в кутия",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-12-%d1%85-7-%d1%81%d0%bc-3-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
     "reason": "tree_shaped_ornament_is_not_christmas_tree"
   },
   {
-    "id": 15339,
-    "name": "Дървена коледна украса със звънче 12 см, 12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d1%8a%d1%81-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-12-%d1%81%d0%bc-12/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15343,
-    "name": "Дървена коледна украса 8 см, 6 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-8-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15346,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15349,
     "name": "Дървена коледна украса 10 см,12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-2/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15352,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-3/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15355,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-4/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15358,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-5/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15361,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-6/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15364,
-    "name": "Дървена коледна украса 10 см,12 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-7/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15367,
-    "name": "Дървена коледна украса 6 см,12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-6-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15370,
-    "name": "Дървена коледна украса 6 см,12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-6-%d1%81%d0%bc12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8-2/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 15374,
@@ -6438,12 +6294,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 15388,
-    "name": "Коледна украса метално звънче, 6.5 х 6 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%be-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-6-5-%d1%85-6-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15391,
     "name": "Метална коледна украса 9 х 5 см, 3 различни модела",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-9-%d1%85-5-%d1%81%d0%bc-3-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8/",
@@ -6453,12 +6303,6 @@
     "id": 15394,
     "name": "Коледна украса табелка 15 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%b0%d0%b1%d0%b5%d0%bb%d0%ba%d0%b0-15-%d1%85-10-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15397,
-    "name": "Дървена коледна украса Къщичка 5.5 х 3.5 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-5-5-%d1%85-3-5-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
   },
   {
@@ -6519,24 +6363,6 @@
     "id": 15465,
     "name": "Коледен калъф за бутилка, 30 х 14 см, 10 брой в стек",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b0%d0%bb%d1%8a%d1%84-%d0%b7%d0%b0-%d0%b1%d1%83%d1%82%d0%b8%d0%bb%d0%ba%d0%b0-30-%d1%85-14-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d0%b9-%d0%b2-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15471,
-    "name": "Коледен ботуш от плат, 25 х 18 см, 10 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-25-%d1%85-18-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15479,
-    "name": "Коледен ботуш от плат, 35 х 25 см, 10 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-25-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15481,
-    "name": "Коледен ботуш от плат, 42 х 30 см, 10 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b1%d0%be%d1%82%d1%83%d1%88-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-42-%d1%85-30-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
     "reason": "no_supported_product_type"
   },
   {
@@ -6624,52 +6450,10 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15618,
-    "name": "Светеща Дървена коледна украса снежко, 17 х 12 х 6 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 15627,
-    "name": "Дървена коледна украса шейна,13 х 6 х 3 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%88%d0%b5%d0%b9%d0%bd%d0%b013-%d1%85-6-%d1%85-3-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15631,
     "name": "Светеща Дървена коледна украса Къщичка 8 х 5 х 5 см, 24 броя в стек",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15635,
-    "name": "Дървена коледна украса елха с пухче  26 х 13 см, 6 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d1%81-%d0%bf%d1%83%d1%85%d1%87%d0%b5-26-%d1%85-13/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15638,
-    "name": "Дървена коледна украса елха с пухче  40 х 20 см, 6 броя в стек",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d1%81-%d0%bf%d1%83%d1%85%d1%87%d0%b5-40-%d1%85-20/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15648,
-    "name": "Дървена коледна украса Елха на звезди, 30 х 14 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bd%d0%b0-%d0%b7%d0%b2%d0%b5%d0%b7%d0%b4%d0%b8-3/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15652,
-    "name": "Дървена коледна украса светваща Елха, 15 х 17 х 5 см, 6 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%b2%d0%b5%d1%82%d0%b2%d0%b0%d1%89%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-15/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15656,
-    "name": "Дървена коледна украса светеща Елха, 32 х 23 х 5 см, 6 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%b2%d0%b5%d1%82%d0%b2%d0%b0%d1%89%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-32/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
   },
   {
     "id": 15662,
@@ -6696,12 +6480,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15691,
-    "name": "Светеща Дървена коледна украса, 10 х 10 х 2.5 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-10-%d1%85-10-%d1%85-2-5-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 15695,
     "name": "3 броя снежинки в плик, 23 см, 10 броя в стек",
     "url": "https://skladbg.net/produkt/3-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d0%bd%d0%b5%d0%b6%d0%b8%d0%bd%d0%ba%d0%b8-%d0%b2-%d0%bf%d0%bb%d0%b8%d0%ba-23-%d1%81%d0%bc-10-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
@@ -6714,82 +6492,16 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15712,
-    "name": "Изкуствена коледна елха лукс, 60 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-60-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15719,
-    "name": "Изкуствена коледна елха лукс, 90 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-90-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15721,
-    "name": "Изкуствена коледна елха лукс, 120 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-120-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15724,
-    "name": "Изкуствена коледна елха лукс,150 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81150-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15726,
-    "name": "Изкуствена коледна елха лукс със снежни върхове, 120 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
     "id": 15728,
     "name": "Изкуствена коледна елха лукс със снежни върхове,150 см",
     "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-2/",
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 15730,
-    "name": "Изкуствена коледна елха лукс със снежни върхове,60 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-3/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15733,
-    "name": "Изкуствена коледна елха лукс със снежни върхове,90 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-4/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15737,
-    "name": "Изкуствена коледна бяла елха, 60 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-60-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15741,
-    "name": "Изкуствена коледна бяла елха, 90 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-90-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 15743,
-    "name": "Изкуствена коледна бяла елха, 120 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b1%d1%8f%d0%bb%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-120-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
     "id": 15746,
     "name": "Изкуствена коледна елха, 60 см",
     "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-60-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 15749,
-    "name": "Изкуствена коледна елха, 90 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-90-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
   },
   {
     "id": 15759,
@@ -6808,6 +6520,24 @@
     "name": "Дървени коледни пръчки, 6 см базата, 19 см общо с пръчката, 12 брой в комплект",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d0%bf%d1%80%d1%8a%d1%87%d0%ba%d0%b8-6-%d1%81%d0%bc-%d0%b1%d0%b0%d0%b7%d0%b0%d1%82%d0%b0-19-%d1%81%d0%bc-%d0%be/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 15778,
+    "name": "Ароматни коледни свещи в метална кутия 6 х 4 см , 24 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8/",
+    "reason": "product_type_not_in_template"
+  },
+  {
+    "id": 15784,
+    "name": "Ароматни свещи в метална кутия, 24 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-2/",
+    "reason": "product_type_not_in_template"
+  },
+  {
+    "id": 15789,
+    "name": "Ароматни свещи в метална кутия, 24 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-3/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 15810,
@@ -6970,18 +6700,6 @@
     "name": "Коледна диадема с рога, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b4%d0%b8%d0%b0%d0%b4%d0%b5%d0%bc%d0%b0-%d1%81-%d1%80%d0%be%d0%b3%d0%b0-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 16076,
-    "name": "Дървена Елха коледна украса, 17 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-17-%d1%85-15-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 16080,
-    "name": "Дървена коледна украса, 8 х 7 см, 12  броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-8-%d1%85-7-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 16097,
@@ -7740,36 +7458,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 17131,
-    "name": "Koш за отпадъци с капак, Planet, 15 литра",
-    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-15-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17137,
-    "name": "Koш за отпадъци с капак, Planet, 25 литра",
-    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-25-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17140,
-    "name": "Koш за отпадъци с капак, Planet, 35 литра",
-    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-35-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17142,
-    "name": "Koш за отпадъци с капак, Planet, 50 литра",
-    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-50-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17145,
-    "name": "Koш за отпадъци с капак, Planet, 70 литра",
-    "url": "https://skladbg.net/produkt/ko%d1%88-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d0%b0%d0%b4%d1%8a%d1%86%d0%b8-%d1%81-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-planet-70-%d0%bb%d0%b8%d1%82%d1%80%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 17150,
     "name": "Комплект 12 броя шноли за коса, 9 х 4 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-12-%d0%b1%d1%80%d0%be%d1%8f-%d1%88%d0%bd%d0%be%d0%bb%d0%b8-%d0%b7%d0%b0-%d0%ba%d0%be%d1%81%d0%b0-9-%d1%85-4-%d1%85-5-%d1%81%d0%bc/",
@@ -7908,12 +7596,6 @@
     "reason": "unsupported_main_product_type"
   },
   {
-    "id": 17432,
-    "name": "Декоративна  саксия, лице с очила и изкуствено зелено растение, зелено 15 х 8 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-%d1%81%d0%b0%d0%ba%d1%81%d0%b8%d1%8f-%d0%bb%d0%b8%d1%86%d0%b5-%d1%81-%d0%be%d1%87%d0%b8%d0%bb%d0%b0-%d0%b8-%d0%b8%d0%b7%d0%ba%d1%83/",
-    "reason": "unsupported_main_product_type"
-  },
-  {
     "id": 17437,
     "name": "Декоративен кактус порцелан, 11 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%b0%d0%ba%d1%82%d1%83%d1%81-%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd-11-%d1%85-5-%d1%81%d0%bc/",
@@ -7984,36 +7666,6 @@
     "name": "Дървена закачалка за кухня с формата на чайник, 25 х 22 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%b7%d0%b0%d0%ba%d0%b0%d1%87%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%83%d1%85%d0%bd%d1%8f-%d1%81-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b0-%d0%bd/",
     "reason": "unsupported_accessory_or_product_type"
-  },
-  {
-    "id": 17555,
-    "name": "Дървена къщичка за ключове  Sweet Home,  24 х 6 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-sweet-home-24-%d1%85-6-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17560,
-    "name": "Дървена къщичка за ключове Home,  28 х 20 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-home-28-%d1%85-20-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17564,
-    "name": "Дървена къщичка за ключове Home,  25 х 17 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b5-home-25-%d1%85-17-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17570,
-    "name": "Бамбукова бижутерка 6 х 6 х 9, см  12 броя в комплект",
-    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b8%d0%b6%d1%83%d1%82%d0%b5%d1%80%d0%ba%d0%b0-6-%d1%85-6-%d1%85-9-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 17578,
-    "name": "Комплект от 4 части, Бамбукова бижутерка ,  1- 12 х 7 х 15 см  2- 13 х 10 х 7 см  3-10 х 6 х 8 см  4- 8 х 6 х 6 см ",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-4-%d1%87%d0%b0%d1%81%d1%82%d0%b8-%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2%d0%b0-%d0%b1%d0%b8%d0%b6%d1%83%d1%82%d0%b5%d1%80%d0%ba/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 17593,
@@ -8304,12 +7956,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 18014,
-    "name": "Силиконова подложка за месене, точене, 40 х 50 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bc%d0%b5%d1%81%d0%b5%d0%bd%d0%b5-%d1%82%d0%be%d1%87%d0%b5%d0%bd%d0%b5-4/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 18019,
     "name": "Пистолет с топчета 6мм, Дължина 14 см, Черен",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%b8%d1%81%d1%82%d0%be%d0%bb%d0%b5%d1%82-%d1%81-%d1%82%d0%be%d0%bf%d0%ba%d0%b0-6%d0%bc%d0%bc-%d0%b4%d1%8a%d0%bb%d0%b6%d0%b8%d0%bd%d0%b0-14-%d1%81%d0%bc-%d1%87%d0%b5%d1%80%d0%b5%d0%bd/",
@@ -8517,7 +8163,7 @@
     "id": 18453,
     "name": "Ренде с дръжка за настъргване, 25 х 6 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d0%bd%d0%b4%d0%b5-%d1%81-%d0%b4%d1%80%d1%8a%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bd%d0%b0%d1%81%d1%82%d1%8a%d1%80%d0%b3%d0%b2%d0%b0%d0%bd%d0%b5-25-%d1%85-6-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 18463,
@@ -8598,12 +8244,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 18594,
-    "name": "Силиконова щипка за сладкиши, 25 х 5 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-25-%d1%85-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 18600,
     "name": "Щипка за лед, 16 х 2 см",
     "url": "https://skladbg.net/produkt/%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bb%d0%b5%d0%b4-16-%d1%85-2-%d1%81%d0%bc/",
@@ -8632,12 +8272,6 @@
     "name": "Кухненска ръкавица за топли съдове, 27 х 15 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d1%82%d0%be%d0%bf%d0%bb%d0%b8-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-27-%d1%85-15/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 18632,
-    "name": "Силиконова ръкавица за горещо с 5 пръста, 2 броя,  33 х 15 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%be-%d1%81-5-%d0%bf%d1%80%d1%8a%d1%81%d1%82/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 18647,
@@ -8889,12 +8523,6 @@
     "id": 19070,
     "name": "Ръкавели, 4 различни цвята",
     "url": "https://skladbg.net/produkt/%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b5%d0%bb%d0%b8-4-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 19076,
-    "name": "Дамска барета( ангора)",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%b1%d0%b0%d1%80%d0%b5%d1%82%d0%b0-%d0%b0%d0%bd%d0%b3%d0%be%d1%80%d0%b0/",
     "reason": "no_supported_product_type"
   },
   {
@@ -10212,12 +9840,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 21196,
-    "name": "12 броя, сгъваем нож различни цвята, 10 х 1 см отворен",
-    "url": "https://skladbg.net/produkt/12-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bd%d0%be%d0%b6-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b4%d1%8a%d1%80%d0%b6%d0%b0%d1%82%d0%b5%d0%bb-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 21222,
     "name": "Табакера с машинка за свиване на цигари",
     "url": "https://skladbg.net/produkt/%d1%82%d0%b0%d0%b1%d0%b0%d0%ba%d0%b5%d1%80%d0%b0-%d1%81-%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%b2%d0%b8%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%86%d0%b8%d0%b3%d0%b0%d1%80/",
@@ -10264,12 +9886,6 @@
     "name": "Сгъваем нож, 20 х 1.5 см отворен",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bd%d0%be%d0%b6-20-%d1%85-1-5-%d1%81%d0%bc-%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 21294,
-    "name": "Сгъваем нож, 20 х 1.5 см отворен",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b3%d1%8a%d0%b2%d0%b0%d0%b5%d0%bc-%d0%bd%d0%be%d0%b6-20-%d1%85-1-5-%d1%81%d0%bc-%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd-2/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 21304,
@@ -10593,7 +10209,7 @@
     "id": 21716,
     "name": "Ренде за сирене, с две различни приставки, 17 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d0%bd%d0%b4%d0%b5-%d0%b7%d0%b0-%d1%81%d0%b8%d1%80%d0%b5%d0%bd%d0%b5-%d1%81-%d0%b4%d0%b2%d0%b5-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d0%bf%d0%be%d0%b4%d1%81%d1%82%d0%b0%d0%b2/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 21724,
@@ -10702,12 +10318,6 @@
     "name": "Силиконова форма за бомбони и други сладки или солени изделия, 20 х 10 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%be%d0%bd%d0%b8-%d0%b8-%d0%b4%d1%80%d1%83%d0%b3%d0%b8-%d1%81%d0%bb-3/",
     "reason": "cake_pop_molds_do_not_include_cookie_cutters"
-  },
-  {
-    "id": 21849,
-    "name": "Сушилник за прибори алпака на Дървена поставка, 31 х 9 х 13 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%b0%d0%bb%d0%bf%d0%b0%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 21855,
@@ -11043,61 +10653,61 @@
     "id": 22561,
     "name": "Чанта през рамо, 26 х 13 х 5 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-26-%d1%85-13-%d1%85-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22583,
     "name": "Чанта през рамо, 24 х 24 х 4 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-24-%d1%85-24-%d1%85-4-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22589,
     "name": "Чанта през рамо  черна, 28 х 25 х 5 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-%d1%87%d0%b5%d1%80%d0%bd%d0%b0-28-%d1%85-25-%d1%85-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22606,
     "name": "Чанта за кръст, 34 х 15 х 8 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-34-%d1%85-15-%d1%85-8-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22613,
     "name": "Чанта за кръст от плат, 33 х 13 х 4 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-33-%d1%85-13-%d1%85-4-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22618,
     "name": "Чанта за кръст, 29 х 15 х 9 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-29-%d1%85-15-%d1%85-9-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22630,
     "name": "Чанта за кръст кожа, 35 х 15 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%ba%d0%be%d0%b6%d0%b0-35-%d1%85-15-%d1%85-7-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22634,
     "name": "Чанта за кръст, 29 х 13 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%ba%d0%be%d0%b6%d0%b0-29-%d1%85-13-%d1%85-7-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22640,
     "name": "Чанта за кръст от плат, 32 х 14 х 7 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-32-%d1%85-14-%d1%85-7-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22645,
     "name": "Чанта за кръст от плат, 36 х 16 х 12 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d1%8a%d1%81%d1%82-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-36-%d1%85-16-%d1%85-12-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 22733,
@@ -12036,6 +11646,18 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 24475,
+    "name": "Бамбуков органайзер, 32 х 25 х 4",
+    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-32-%d1%85-25-%d1%85-4/",
+    "reason": "organizer_is_not_utility_rack"
+  },
+  {
+    "id": 24479,
+    "name": "Бамбуков органайзер, 33 х 25 х 5",
+    "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d0%bc%d0%b1%d1%83%d0%ba%d0%be%d0%b2-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-33-%d1%85-25-%d1%85-5/",
+    "reason": "organizer_is_not_utility_rack"
+  },
+  {
     "id": 24488,
     "name": "Метално ренде, 18 х 8 х 6",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%be-%d1%80%d0%b5%d0%bd%d0%b4%d0%b5-18-%d1%85-8-%d1%85-6/",
@@ -12648,16 +12270,10 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 26382,
-    "name": "Силиконова щипка за сладкиши, 21 х 4 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-21-%d1%85-4-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 26387,
-    "name": "Силиконова щипка за сладкиши, 28 х 4 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%89%d0%b8%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d1%88%d0%b8-28-%d1%85-4-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "id": 26392,
+    "name": "Домакинска лъжица ( канче) за вода, 28 х 17 х 9 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-28-%d1%85-17-%d1%85-9-%d1%81/",
+    "reason": "spoon_type_not_in_template"
   },
   {
     "id": 26398,
@@ -14793,7 +14409,7 @@
     "id": 29688,
     "name": "Черна боя за обувки, 55мл, 12 броя в кутия",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b5%d1%80%d0%bd%d0%b0-%d0%b1%d0%be%d1%8f-%d0%b7%d0%b0-%d0%be%d0%b1%d1%83%d0%b2%d0%ba%d0%b8-55%d0%bc%d0%bb-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "reason": "no_supported_product_type"
+    "reason": "out_of_stock_or_not_purchasable"
   },
   {
     "id": 29693,
@@ -15060,16 +14676,52 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 30146,
+    "name": "Дамска Капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-4/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 30162,
+    "name": "Дамска шапка тип идиотка",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d1%82%d0%b8%d0%bf-%d0%b8%d0%b4%d0%b8%d0%be%d1%82%d0%ba%d0%b0-2/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 30174,
     "name": "Сламена мъжка шапка България",
     "url": "https://skladbg.net/produkt/%d1%81%d0%bb%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f/",
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 30178,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-5/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 30181,
     "name": "Дамска Капела",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-6/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 30184,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-7/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 30190,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-9/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 30193,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-10/",
+    "reason": "ordinary_hat_is_not_costume_hat"
   },
   {
     "id": 30230,
@@ -16200,18 +15852,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 31763,
-    "name": "Вакуумен плик за съхранение на дрехи, 80 х 60 см",
-    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-80/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 31767,
-    "name": "Вакуумен плик за съхранение на дрехи, 130 х 80 см",
-    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-110/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 31771,
     "name": "Соларна лампа W779B, 60 х 18 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%be%d0%bb%d0%b0%d1%80%d0%bd%d0%b0-%d0%bb%d0%b0%d0%bc%d0%bf%d0%b0-w779b-60-%d1%85-18-%d1%81%d0%bc/",
@@ -16228,12 +15868,6 @@
     "name": "Кухненски нож, 30 х 4 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%bd%d0%be%d0%b6-30-%d1%85-4-%d1%81%d0%bc-2/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 31787,
-    "name": "Джобен нож, 16 х 2 см, 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-18-%d1%85-3-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 31795,
@@ -17748,6 +17382,12 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 34004,
+    "name": "Ароматни коледни свещи в метална кутия 7 х 5 см , 24 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d0%bd%d0%b8-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%81%d0%b2%d0%b5%d1%89%d0%b8-%d0%b2-%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d0%ba%d1%83%d1%82%d0%b8-4/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 34011,
     "name": "Комплект 3 броя, пвц закачалка за дрехи, 43 х 22 х 1 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-3-%d0%b1%d1%80%d0%be%d1%8f-%d0%bf%d0%b2%d1%86-%d0%b7%d0%b0%d0%ba%d0%b0%d1%87%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-43/",
@@ -17814,22 +17454,10 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 34191,
-    "name": "Коледна украса снежко 9 х 5 см, 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%81%d0%bd%d0%b5%d0%b6%d0%ba%d0%be-9-%d1%85-5-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 34195,
     "name": "Коледна украса топки 6 см,16 броя в кутия",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d1%82%d0%be%d0%bf%d0%ba%d0%b8-6-%d1%81%d0%bc16-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 34220,
-    "name": "Коледна украса звънче 7 х 9 х 5 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d1%83%d0%ba%d1%80%d0%b0%d1%81%d0%b0-%d0%b7%d0%b2%d1%8a%d0%bd%d1%87%d0%b5-7-%d1%85-9-%d1%85-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 34225,
@@ -18276,42 +17904,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 34691,
-    "name": "Изкуствена коледна елха лукс, 180 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-180-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 34695,
-    "name": "Изкуствена коледна елха лукс, 210 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-210-%d1%81%d0%bc/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 34699,
-    "name": "Изкуствена коледна елха лукс със снежни върхове, 180 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-5/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 34704,
-    "name": "Изкуствена коледна елха лукс със снежни върхове, 210 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-6/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 34706,
-    "name": "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (560 клонки )150 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-7/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
-    "id": 34713,
-    "name": "Изкуствена коледна елха лукс със снежни върхове, шишарки и червен плод, (950 клонки )180 см",
-    "url": "https://skladbg.net/produkt/%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%b5%d0%bb%d1%85%d0%b0-%d0%bb%d1%83%d0%ba%d1%81-%d1%81%d1%8a%d1%81-%d1%81%d0%bd%d0%b5%d0%b6-8/",
-    "reason": "tree_shaped_ornament_is_not_christmas_tree"
-  },
-  {
     "id": 34741,
     "name": "Коледна опаковъчна хартия, 2 метра х 70 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b0-%d0%be%d0%bf%d0%b0%d0%ba%d0%be%d0%b2%d1%8a%d1%87%d0%bd%d0%b0-%d1%85%d0%b0%d1%80%d1%82%d0%b8%d1%8f-2-%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d1%85-70-%d1%81%d0%bc/",
@@ -18322,6 +17914,12 @@
     "name": "Опаковъчна хартия, 2 метра х 70 см",
     "url": "https://skladbg.net/produkt/%d0%be%d0%bf%d0%b0%d0%ba%d0%be%d0%b2%d1%8a%d1%87%d0%bd%d0%b0-%d1%85%d0%b0%d1%80%d1%82%d0%b8%d1%8f-2-%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d1%85-70-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 34751,
+    "name": "Декоративен коледен керамичен магнит Дядо коледа, 6 х 4 см,12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-2/",
+    "reason": "decorative_accessory_type_not_in_template"
   },
   {
     "id": 34755,
@@ -18336,46 +17934,28 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 34763,
+    "name": "Декоративен коледен керамичен магнит Дядо коледа, 8 х 6 см,12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-5/",
+    "reason": "decorative_accessory_type_not_in_template"
+  },
+  {
+    "id": 34767,
+    "name": "Декоративен коледен керамичен магнит Дядо коледа, 10 х 6 см,12 броя в кутия",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%bc%d0%b0%d0%b3%d0%bd%d0%b8-6/",
+    "reason": "decorative_accessory_type_not_in_template"
+  },
+  {
     "id": 34771,
     "name": "Зелена гирлянда, 11 см широка, 2 метра дълга, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b3%d0%b8%d1%80%d0%bb%d1%8f%d0%bd%d0%b4%d0%b0-11-%d1%81%d0%bc-%d1%88%d0%b8%d1%80%d0%be%d0%ba%d0%b0-2-%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d0%b4%d1%8a%d0%bb%d0%b3/",
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 34800,
-    "name": "Порцеланова бонбониера, 14 х 14 х 10",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-14-%d1%85-14-%d1%85-10/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34808,
-    "name": "Порцеланова бонбониера, 14 х 13 х 10 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-14-%d1%85-13-%d1%85-10-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 34820,
     "name": "Светещ керамичен коледен сувенир, къща 17 х 11 х 17 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80-%d0%ba%d1%8a%d1%89/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 34831,
-    "name": "Порцеланова бонбониера, 24 х 17 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-24-%d1%85-17-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34838,
-    "name": "Порцеланова бонбониера, 15 х 11 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-15-%d1%85-11-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34845,
-    "name": "Порцеланова бонбониера, 24 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-24-%d1%85-15-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 34866,
@@ -18387,24 +17967,6 @@
     "id": 34874,
     "name": "Порцеланова свещ дядо коледа, 4 броя в кутия 8 х 8 х 5 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d1%81%d0%b2%d0%b5%d1%89-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34879,
-    "name": "Музикален Дядо Коледа, 37 х 12 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-37-%d1%85-12-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34884,
-    "name": "Музикален Дядо Коледа, 36 х 12 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-36-%d1%85-12-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 34890,
-    "name": "Музикален Дядо Коледа, 23 х 10 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d1%83%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b5%d0%bd-%d0%b4%d1%8f%d0%b4%d0%be-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b0-23-%d1%85-10-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
   },
   {
@@ -18448,6 +18010,12 @@
     "name": "Декоративен LED фенер, 34 х 13 х 13 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%b5%d0%bd-led-%d1%84%d0%b5%d0%bd%d0%b5%d1%80-34-%d1%85-13-%d1%85-13-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 34944,
+    "name": "Мини LED прожектор с коледни фигури, 14 х 9 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b8%d0%bd%d0%b8-led-%d0%bf%d1%80%d0%be%d0%b6%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%b8-14-%d1%85-9-%d1%81%d0%bc/",
+    "reason": "decorative_accessory_type_not_in_template"
   },
   {
     "id": 34950,
@@ -18501,7 +18069,7 @@
     "id": 35043,
     "name": "Декоративна LED камина, имитиращ огън, 28 х 11 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-led-%d0%ba%d0%b0%d0%bc%d0%b8%d0%bd%d0%b0-%d0%b8%d0%bc%d0%b8%d1%82%d0%b8%d1%80%d0%b0%d1%89-%d0%be%d0%b3%d1%8a%d0%bd-28-%d1%85-11/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 35050,
@@ -18912,12 +18480,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 35707,
-    "name": "Силиконова ръкавица за горещо с 5 пръста, 2 броя, 26 х 17 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%be-%d1%81-5-%d0%bf%d1%80%d1%8a%d1%81-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 35713,
     "name": "Силиконова форма за бонбони и други сладки или солени изделия, 27 х 16 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8-%d0%b8-%d0%b4%d1%80%d1%83%d0%b3%d0%b8-%d1%81%d0%bb/",
@@ -19192,6 +18754,12 @@
     "name": "Стъклена бутилка, за зехтин, олио или оцет 630 мл, 19 х 9 см",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d1%83%d1%82%d0%b8%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%b7%d0%b5%d1%85%d1%82%d0%b8%d0%bd-%d0%be%d0%bb%d0%b8%d0%be-%d0%b8%d0%bb%d0%b8-%d0%be%d1%86/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 36069,
+    "name": "Органайзер за козметика, пвц, 14 х 13 см",
+    "url": "https://skladbg.net/produkt/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-%d0%b7%d0%b0-%d0%ba%d0%be%d0%b7%d0%bc%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d0%bf%d0%b2%d1%86-14-%d1%85-13-%d1%81%d0%bc/",
+    "reason": "organizer_is_not_utility_rack"
   },
   {
     "id": 36075,
@@ -20064,24 +19632,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 37348,
-    "name": "Универсална бърсалка за под, 180 гр",
-    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-180-%d0%b3%d1%80/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 37354,
-    "name": "Универсална бърсалка за под, 220 гр",
-    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-220-%d0%b3%d1%80/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 37358,
-    "name": "Универсална бърсалка за под, 250 гр",
-    "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-250-%d0%b3%d1%80/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 37362,
     "name": "Универсална бърсалка за под, 300 гр",
     "url": "https://skladbg.net/produkt/%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d0%bd%d0%b0-%d0%b1%d1%8a%d1%80%d1%81%d0%b0%d0%bb%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4-300-%d0%b3%d1%80/",
@@ -20934,6 +20484,18 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 38808,
+    "name": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 20 х 5 х 3 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%87%d0%b5%d1%82%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%b7-2/",
+    "reason": "product_type_not_in_template"
+  },
+  {
+    "id": 38812,
+    "name": "Кутия за път, за прибиране на четки за зъби, паста за зъби и др, 21 х 3 см",
+    "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%87%d0%b5%d1%82%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%b7-3/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 38817,
     "name": "Многоцветни щипки за пране 7 х 2 см, 24 брой комплект",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b8-%d1%89%d0%b8%d0%bf%d0%ba%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b0%d0%bd%d0%b5-7-%d1%85-2-%d1%81%d0%bc-24-%d0%b1%d1%80%d0%be%d0%b9/",
@@ -20992,12 +20554,6 @@
     "name": "Кутия за торта, Violet , 26 х 12 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%82%d0%be%d1%80%d1%82%d0%b0-violet-26-%d1%85-12-%d1%81%d0%bc/",
     "reason": "unsupported_main_product_type"
-  },
-  {
-    "id": 38936,
-    "name": "Комплект лопатка с четка, 100 х 29 х 20 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0-100-%d1%85-29-%d1%85-20-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 38941,
@@ -21693,13 +21249,13 @@
     "id": 39669,
     "name": "Батерия Кодак, CR14, 2 броя комплект",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d1%8f-%d0%ba%d0%be%d0%b4%d0%b0%d0%ba-%d1%86%d0%b8%d0%bd%d0%ba%d0%be%d0%b2%d0%b0-cr14-2-%d0%b1%d1%80%d0%be%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 39674,
     "name": "Батерия Кодак, CR20, 2 броя комплект",
     "url": "https://skladbg.net/produkt/%d1%86/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 39679,
@@ -21729,7 +21285,7 @@
     "id": 39698,
     "name": "Батерия Кодак, R3, 4 броя комплект",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d1%8f-%d0%ba%d0%be%d0%b4%d0%b0%d0%ba-r3-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 39702,
@@ -21747,7 +21303,7 @@
     "id": 39719,
     "name": "Батерия Кодак, К23А, 12V",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d1%8f-%d0%ba%d0%be%d0%b4%d0%b0%d0%ba-%d0%ba23%d0%b0-12v/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 39723,
@@ -21759,7 +21315,7 @@
     "id": 39727,
     "name": "Батерия Кодак, R6, 4 броя комплект",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d1%8f-%d0%ba%d0%be%d0%b4%d0%b0%d0%ba-r6-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82/",
-    "reason": "out_of_stock_or_not_purchasable"
+    "reason": "no_supported_product_type"
   },
   {
     "id": 39731,
@@ -22134,18 +21690,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 40119,
-    "name": "Вакуумен плик за съхранение на дрехи, 100 х 70 см",
-    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-100/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 40123,
-    "name": "Вакуумен плик за съхранение на дрехи, 60 х 50 см",
-    "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc%d0%b5%d0%bd-%d0%bf%d0%bb%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%b4%d1%80%d0%b5%d1%85%d0%b8-60/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 40127,
     "name": "Мрежа за пране лукс, 60 х 50 см",
     "url": "https://skladbg.net/produkt/%d0%bc%d1%80%d0%b5%d0%b6%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b0%d0%bd%d0%b5-%d0%bb%d1%83%d0%ba%d1%81-60-%d1%85-50-%d1%81%d0%bc/",
@@ -22198,12 +21742,6 @@
     "name": "Шапка с мърдащи уши спайдермен",
     "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d1%81-%d0%bc%d1%8a%d1%80%d0%b4%d0%b0%d1%89%d0%b8-%d1%83%d1%88%d0%b8-%d1%81%d0%bf%d0%b0%d0%b9%d0%b4%d0%b5%d1%80%d0%bc%d0%b5%d0%bd/",
     "reason": "party_toy_or_christmas_hat"
-  },
-  {
-    "id": 40189,
-    "name": "Светеща изкуствена роза, 23 х 7 см, 6 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89%d0%b0-%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b0-%d1%80%d0%be%d0%b7%d0%b0-23-%d1%85-7-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 40202,
@@ -22791,6 +22329,12 @@
     "id": 40920,
     "name": "Букет дребни цвечета, 31 х 7 см, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%b1%d1%83%d0%ba%d0%b5%d1%82-%d0%b4%d1%80%d0%b5%d0%b1%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%87%d0%b5%d1%82%d0%b0-31-%d1%85-7-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
+    "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 40936,
+    "name": "Букет от изкуствени цветя Момина сълза, 40 х 12 см, 12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b1%d1%83%d0%ba%d0%b5%d1%82-%d0%be%d1%82-%d0%b8%d0%b7%d0%ba%d1%83%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%b8-%d1%86%d0%b2%d0%b5%d1%82%d1%8f-%d0%bc%d0%be%d0%bc%d0%b8%d0%bd%d0%b0-%d1%81%d1%8a%d0%bb%d0%b7-2/",
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
@@ -24159,7 +23703,7 @@
     "id": 42584,
     "name": "Чанта ( паласка) шушляк 27 х 16 см, 6 броя в стек",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d1%88%d1%83%d1%88%d0%bb%d1%8f%d0%ba-27-%d1%85-16-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 42590,
@@ -24432,12 +23976,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 42874,
-    "name": "Контейнер Пвц за съхранение 17 х 17 х 8 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-%d0%bf%d0%b2%d1%86-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-17-%d1%85-17-%d1%85-8-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 42880,
     "name": "Канцеларска ножица, 19 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%bd%d1%86%d0%b5%d0%bb%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d0%bd%d0%be%d0%b6%d0%b8%d1%86%d0%b0-19-%d1%81%d0%bc/",
@@ -24447,7 +23985,7 @@
     "id": 42888,
     "name": "Чанта (несесер ) за пътуване, 26 х 22 х 8 см, 5 броя в стек",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bd%d0%b5%d1%81%d0%b5%d1%81%d0%b5%d1%80-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-26-%d1%85-22-%d1%85-8-%d1%81%d0%bc-5-%d0%b1%d1%80%d0%be/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 42896,
@@ -24460,12 +23998,6 @@
     "name": "Цветна ученическа ножица, 13 х 6 см, 24 броя в кутия",
     "url": "https://skladbg.net/produkt/%d1%86%d0%b2%d0%b5%d1%82%d0%bd%d0%b0-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0-%d0%bd%d0%be%d0%b6%d0%b8%d1%86%d0%b0-13-%d1%85-6-%d1%81%d0%bc-24-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 42910,
-    "name": "Сушилник за прибори, с опция за самозаслепяване, 20 х 15 х 10 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d1%81-%d0%be%d0%bf%d1%86%d0%b8%d1%8f-%d0%b7%d0%b0-%d1%81%d0%b0%d0%bc%d0%be%d0%b7%d0%b0%d1%81/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 42920,
@@ -24534,24 +24066,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 43094,
-    "name": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-25-%d1%85-90-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-54-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 43099,
-    "name": "Комплект лопатка 26 х 28 х 86 см с четка,100 х 26 х 12 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-28-%d1%85-86-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-12-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 43105,
-    "name": "Комплект лопатка 26 х 25 х 90 см с четка,100 х 26 х 15 см",
-    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-25-%d1%85-90-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-15-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 43109,
     "name": "Комплект лопатка 26 х 28 х 86 см с четка,100 х 26 х 12 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-26-%d1%85-28-%d1%85-86-%d1%81%d0%bc-%d1%81-%d1%87%d0%b5%d1%82%d0%ba%d0%b0100-%d1%85-26-%d1%85-12-%d1%81-2/",
@@ -24567,7 +24081,7 @@
     "id": 43148,
     "name": "Чанта за плаж, Summer, 40 х 33 х 15 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%b0%d0%b6-summer-40-%d1%85-33-%d1%85-15-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43156,
@@ -24825,7 +24339,7 @@
     "id": 43541,
     "name": "Чанта през рамо с изход за USB зареждане, 34 х 18 х 8 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-%d1%81-%d0%b8%d0%b7%d1%85%d0%be%d0%b4-%d0%b7%d0%b0-usb-%d0%b7%d0%b0%d1%80%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-34/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43546,
@@ -24843,7 +24357,7 @@
     "id": 43556,
     "name": "Чанта за рамо и ръка, 26 х 20 х 9 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d1%80%d0%b0%d0%bc%d0%be-%d0%b8-%d1%80%d1%8a%d0%ba%d0%b0-26-%d1%85-20-%d1%85-9-%d1%81%d0%bc-2/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43561,
@@ -24873,7 +24387,7 @@
     "id": 43582,
     "name": "Чанта за рамо и ръка, 26 х 20 х 9 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%b7%d0%b0-%d1%80%d0%b0%d0%bc%d0%be-%d0%b8-%d1%80%d1%8a%d0%ba%d0%b0-26-%d1%85-20-%d1%85-9-%d1%81%d0%bc-7/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43587,
@@ -24897,25 +24411,25 @@
     "id": 43601,
     "name": "Чанта ( паласка) 35 х 15 х 9 см, 3 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-30-%d1%85-17-%d1%85-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43606,
     "name": "Чанта ( паласка) плат 32 х 17 х 8 см, 2 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82-32-%d1%85-17-%d1%85-8-%d1%81%d0%bc-2-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43611,
     "name": "Чанта ( паласка) шушляк 35 х 15 х 9 см, 3 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-15-%d1%85-9-%d1%81%d0%bc-3-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43617,
     "name": "Чанта ( паласка) шушляк 35 х 15 х 9 см, 2 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-15-%d1%85-9-%d1%81%d0%bc-2-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43628,
@@ -24933,13 +24447,13 @@
     "id": 43642,
     "name": "Чанта ( паласка)  35 х 15 х 9 см, 3 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-15-%d1%85-9-%d1%81%d0%bc-3-%d1%86%d0%b2%d1%8f%d1%82%d0%b0-2/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43653,
     "name": "Чанта ( паласка)  35 х 15 х 9 см, 3 цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d0%b0%d0%bb%d0%b0%d1%81%d0%ba%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82-35-%d1%85-15-%d1%85-9-%d1%81%d0%bc-3-%d1%86%d0%b2%d1%8f%d1%82%d0%b0-3/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43673,
@@ -24969,19 +24483,19 @@
     "id": 43705,
     "name": "Чанта (сак ) за пътуване, 55 х 34 х 25 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%81%d0%b0%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-55-%d1%85-34-%d1%85-25-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43710,
     "name": "Чанта (сак ) за пътуване, 45 х 35 х 25 см, 6 различни цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%81%d0%b0%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-45-%d1%85-35-%d1%85-25-%d1%81%d0%bc-6-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43719,
     "name": "Чанта (сак ) за пътуване, 45 х 35 х 25 см, 6 различни цвята",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%81%d0%b0%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%8a%d1%82%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-45-%d1%85-35-%d1%85-25-%d1%81%d0%bc-6-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd-2/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43783,
@@ -25036,6 +24550,12 @@
     "name": "Кабели за стартов ток, 1000 AMP",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%b1%d0%b5%d0%bb%d0%b8-%d0%b7%d0%b0-%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%be%d0%b2-%d1%82%d0%be%d0%ba-1200-amp/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 43837,
+    "name": "Чанта ( раница ) за пренасяне на домашни любимци, 36 х 31 х 24 см",
+    "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%80%d0%b0%d0%bd%d0%b8%d1%86%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%bd%d0%b0%d1%81%d1%8f%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%be%d0%bc%d0%b0%d1%88%d0%bd%d0%b8/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 43845,
@@ -25158,18 +24678,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 43984,
-    "name": "Джобен нож, 16 х 2 см, 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-16-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 43989,
-    "name": "Автоматичен Джобен нож, 20 х 2 см, 12 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-20-%d1%85-2-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 43997,
     "name": "Водна Пушка помпа, 41 х 19 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%b2%d0%be%d0%b4%d0%bd%d0%b0-%d0%bf%d1%83%d1%88%d0%ba%d0%b0-%d0%bf%d0%be%d0%bc%d0%bf%d0%b0-41-%d1%85-19-%d1%85-6-%d1%81%d0%bc/",
@@ -25224,12 +24732,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 44055,
-    "name": "Джобен нож, 20 х 2 см",
-    "url": "https://skladbg.net/produkt/%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-20-%d1%85-2-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 44059,
     "name": "Чадър сенник, 115 х 60 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%b4%d1%8a%d1%80-%d1%81%d0%b5%d0%bd%d0%bd%d0%b8%d0%ba-115-%d1%85-60-%d1%81%d0%bc/",
@@ -25272,10 +24774,34 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 44139,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44150,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-8/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 44175,
     "name": "Дамска капела",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-12/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 44178,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-14/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44182,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-13/",
+    "reason": "ordinary_hat_is_not_costume_hat"
   },
   {
     "id": 44195,
@@ -25288,6 +24814,30 @@
     "name": "Дамска капела",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-16/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 44206,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-17/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44217,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-18/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44227,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-19/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44238,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-20/",
+    "reason": "ordinary_hat_is_not_costume_hat"
   },
   {
     "id": 44247,
@@ -25308,10 +24858,28 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 44274,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-23/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 44285,
     "name": "Дамска капела",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-24/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 44294,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-25/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
+    "id": 44307,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-26/",
+    "reason": "ordinary_hat_is_not_costume_hat"
   },
   {
     "id": 44327,
@@ -26859,13 +26427,13 @@
     "id": 45983,
     "name": "Дамска чанта с дървена дръжка, 20 х 17 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%81-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%b4%d1%80%d1%8a%d0%b6%d0%ba%d0%b0-20-%d1%85-17-%d1%85-10-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 45990,
     "name": "Дамска чанта с дървена дръжка, 30 х 22 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d1%81-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b0-%d0%b4%d1%80%d1%8a%d0%b6%d0%ba%d0%b0-30-%d1%85-22-%d1%85-10-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 45996,
@@ -27058,6 +26626,12 @@
     "name": "Външен пепелник с кош алпака, 59 х 17 см ( пепелника не е син цвят, амбалажа е син цвят, пепелника е инокс)",
     "url": "https://skladbg.net/produkt/%d0%b2%d1%8a%d0%bd%d1%88%d0%b5%d0%bd-%d0%bf%d0%b5%d0%bf%d0%b5%d0%bb%d0%bd%d0%b8%d0%ba-%d1%81-%d0%ba%d0%be%d1%88-%d0%b0%d0%bb%d0%bf%d0%b0%d0%ba%d0%b0-59-%d1%85-17-%d1%81%d0%bc-%d0%bf%d0%b5%d0%bf/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 46295,
+    "name": "Домакинска лъжица ( канче) за вода, 20 х 10 х 7 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-20-%d1%85-10-%d1%85-7-%d1%81/",
+    "reason": "spoon_type_not_in_template"
   },
   {
     "id": 46300,
@@ -27804,6 +27378,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 47300,
+    "name": "Шапка за плуване силикон, 19 х 21 см",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d1%83%d0%b2%d0%b0%d0%bd%d0%b5-%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd-19-%d1%85-21-%d1%81%d0%bc/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
     "id": 47305,
     "name": "Творчески комплект за деца, мъниста за гривни Стич, 13 х 10 х 2 см размер опаковка, 12 броя в кутия",
     "url": "https://skladbg.net/produkt/%d1%82%d0%b2%d0%be%d1%80%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b7%d0%b0-%d0%b4%d0%b5%d1%86%d0%b0-%d0%bc%d1%8a%d0%bd%d0%b8%d1%81%d1%82%d0%b0-%d0%b7%d0%b0-11/",
@@ -28428,6 +28008,12 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 48143,
+    "name": "Комплект, детска Капела с чантичка, Капела 22 х 11, чантичка 15 х 16 см, 6 различни цвята",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf-4/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 48153,
     "name": "Комплект, детска Капела с чантичка, Капела 28 х 13, чантичка 14 х 13 см, 6 различни цвята",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf-5/",
@@ -28446,10 +28032,22 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 48184,
+    "name": "Комплект, детска Козирка с чантичка, Капела 18 х 12, чантичка 14 х 13 см, 6 различни цвята",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%be%d0%b7%d0%b8%d1%80%d0%ba%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 48192,
     "name": "Комплект, детска Капела с чантичка, Капела 28 х 13, чантичка 14 х 13 см, 6 различни цвята",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-%d1%81-%d1%87%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf-8/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 48200,
+    "name": "Детска  Капела 30 х 10 см  6 различни цвята",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-30-%d1%85-10-%d1%81%d0%bc-6-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%86%d0%b2%d1%8f%d1%82%d0%b0/",
+    "reason": "ordinary_hat_is_not_costume_hat"
   },
   {
     "id": 48211,
@@ -28636,6 +28234,78 @@
     "name": "Гумен ключодържател, Брейнрот (Brain rot), 21 х 5 х 3 см, 12 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%b3%d1%83%d0%bc%d0%b5%d0%bd-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b4%d1%8a%d1%80%d0%b6%d0%b0%d1%82%d0%b5%d0%bb-%d0%b1%d1%80%d0%b5%d0%b9%d0%bd%d1%80%d0%be%d1%82-brain-rot-21-%d1%85-5-%d1%85-3-%d1%81/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 48547,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48553,
+    "name": "Детска, Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48560,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-2/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48564,
+    "name": "Детска, Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-2/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48568,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-3/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48573,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-4/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48578,
+    "name": "Детска, Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-3/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48582,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-5/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48587,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-6/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48596,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-7/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48601,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-8/",
+    "reason": "hat_type_not_in_template"
+  },
+  {
+    "id": 48606,
+    "name": "Шапка Бомбе",
+    "url": "https://skladbg.net/produkt/%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b1%d0%be%d0%bc%d0%b1%d0%b5-9/",
+    "reason": "hat_type_not_in_template"
   },
   {
     "id": 48611,
@@ -28935,13 +28605,13 @@
     "id": 49017,
     "name": "Канче с мраморно покритие, 12 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d1%81-%d0%bc%d1%80%d0%b0%d0%bc%d0%be%d1%80%d0%bd%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b5-12-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 49025,
     "name": "Канче с мраморно покритие,14 х 12 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d1%81-%d0%bc%d1%80%d0%b0%d0%bc%d0%be%d1%80%d0%bd%d0%be-%d0%bf%d0%be%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%b514-%d1%85-12-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 49028,
@@ -29400,6 +29070,12 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 49585,
+    "name": "Гъби за баня, 10 х 6 см, 12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b3%d1%8a%d0%b1%d0%b8-%d0%b7%d0%b0-%d0%b1%d0%b0%d0%bd%d1%8f-13-%d1%85-11-%d1%81%d0%bc/",
+    "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
     "id": 49590,
     "name": "Гъба за баня, 30 х 8 см",
     "url": "https://skladbg.net/produkt/%d0%b3%d1%8a%d0%b1%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%b0%d0%bd%d1%8f-30-%d1%85-8-%d1%81%d0%bc/",
@@ -29835,7 +29511,7 @@
     "id": 50132,
     "name": "Ренде с пвц контейнер, Danny Home, 11 х 14 х 22 см",
     "url": "https://skladbg.net/produkt/%d1%80%d0%b5%d0%bd%d0%b4%d0%b5-%d1%81-%d0%bf%d0%b2%d1%86-%d0%ba%d0%be%d0%bd%d1%82%d0%b5%d0%b9%d0%bd%d0%b5%d1%80-11-%d1%85-14-%d1%85-22-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 50140,
@@ -29896,12 +29572,6 @@
     "name": "Комплект метличка и лопатка, Danny Home, 16.5 х 20 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bc%d0%b5%d1%82%d0%bb%d0%b8%d1%87%d0%ba%d0%b0-%d0%b8-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-danny-home-16-5-%d1%85-20-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 50242,
-    "name": "Стъклена бонбониера, Danny Home, 12.5 х 21.1 х 13 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-12-5-%d1%85-21-1-%d1%85-13-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 50245,
@@ -30534,12 +30204,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 51270,
-    "name": "Сушилник за съдове, Danny Home, 46 х 20 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-46-%d1%85-20-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 51273,
     "name": "Комплект метла и лопатка за почистване Danny Home, 29 х 17 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bc%d0%b5%d1%82%d0%bb%d0%b0-%d0%b8-%d0%bb%d0%be%d0%bf%d0%b0%d1%82%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%be%d1%87%d0%b8%d1%81%d1%82%d0%b2%d0%b0%d0%bd-2/",
@@ -30630,6 +30294,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 51408,
+    "name": "Комплект от 4 мерителни лъжици, Danny Home",
+    "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-4-%d0%bc%d0%b5%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%b8-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b8-danny-home/",
+    "reason": "spoon_type_not_in_template"
+  },
+  {
     "id": 51411,
     "name": "Щейкър  поръсване за подправки, Danny Home  7 х 9 см",
     "url": "https://skladbg.net/produkt/%d1%89%d0%b5%d0%b9%d0%ba%d1%8a%d1%80-%d0%bf%d0%be%d1%80%d1%8a%d1%81%d0%b2%d0%b0%d0%bd%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be%d0%b4%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b8-danny-home-7-%d1%85-9-%d1%81%d0%bc/",
@@ -30687,12 +30357,6 @@
     "id": 51456,
     "name": "Силиконова кухненска шпатула за сервиране, разбъркване и обръщане на хранителни продукти Danny Home, 26.5 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b0-%d1%88%d0%bf%d0%b0%d1%82%d1%83%d0%bb%d0%b0-%d0%b7%d0%b0-%d1%81%d0%b5%d1%80%d0%b2-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 51459,
-    "name": "2 броя Готварска ръкавица Danny Home 19 х 14 см",
-    "url": "https://skladbg.net/produkt/%d0%b3%d0%be%d1%82%d0%b2%d0%b0%d1%80%d1%81%d0%ba%d0%b0-%d1%80%d1%8a%d0%ba%d0%b0%d0%b2%d0%b8%d1%86%d0%b0-danny-home-19-%d1%85-14-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
   },
   {
@@ -30772,30 +30436,6 @@
     "name": "Кубче на Рубик, 6 см, 6 броя в кутия",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d0%b1%d1%87%d0%b5-%d0%bd%d0%b0-%d1%80%d1%83%d0%b1%d0%b8%d0%ba-6-%d1%81%d0%bc-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-4/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 51574,
-    "name": "Порцеланова бонбониера с форма на ботуш, 24 х 16 х 10 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d1%81-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%be%d1%82/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 51580,
-    "name": "Светещ керамичен коледен сувенир, къща  18 х 10 х 8 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b2%d0%b5%d1%82%d0%b5%d1%89-%d0%ba%d0%b5%d1%80%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d0%bd-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd-%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80-%d0%ba%d1%8a%d1%89-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 51587,
-    "name": "Порцеланова бонбониера, 12 х 10 х 8 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-12-%d1%85-10-%d1%85-8-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 51593,
-    "name": "Порцеланова бонбониера, 23  х 11 см",
-    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-23-%d1%85-11-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 51599,
@@ -30934,6 +30574,12 @@
     "name": "Вакуум за отпушване на канал, 20 х 13 см",
     "url": "https://skladbg.net/produkt/%d0%b2%d0%b0%d0%ba%d1%83%d1%83%d0%bc-%d0%b7%d0%b0-%d0%be%d1%82%d0%bf%d1%83%d1%88%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%b0%d0%bd%d0%b0%d0%bb-20-%d1%85-13-%d1%81%d0%bc-2/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 51874,
+    "name": "Домакинска лъжица ( канче) за вода, 14 х 14 х 12 см",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%be%d0%bc%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0-%d0%bb%d1%8a%d0%b6%d0%b8%d1%86%d0%b0-%d0%ba%d0%b0%d0%bd%d1%87%d0%b5-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b4%d0%b0-14-%d1%85-14-%d1%85-12-%d1%81/",
+    "reason": "spoon_type_not_in_template"
   },
   {
     "id": 51880,
@@ -31530,6 +31176,12 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
+    "id": 52996,
+    "name": "Порцеланова кутия за масло Danny Home, 16 х 14 х 8 см",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-16-%d1%85-14-%d1%85-8-%d1%81%d0%bc/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 53020,
     "name": "Порцеланов сервизен комплект на две нива Danny Home, 12 х 12 х 6 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d0%b7%d0%b5%d0%bd-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%bd%d0%b0-%d0%b4%d0%b2%d0%b5-%d0%bd/",
@@ -31744,18 +31396,6 @@
     "name": "Метален сушилник за съдове, Danny Home, 36 х 31 х 13.4 см",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-36-%d1%85-31-%d1%85-13-4-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
-  },
-  {
-    "id": 53345,
-    "name": "Метален сушилник за съдове, Danny Home, 39 х 28 х 12.5 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-39-%d1%85-28-%d1%85-12-5-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 53348,
-    "name": "Метален сушилник за съдове, Danny Home, 42.7 х 31 х 14 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-42-7-%d1%85-31-%d1%85-14-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 53358,
@@ -33378,6 +33018,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 54997,
+    "name": "Дамска капела",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b5%d0%bb%d0%b0-27/",
+    "reason": "ordinary_hat_is_not_costume_hat"
+  },
+  {
     "id": 55009,
     "name": "Дамски чехли МК, 36-40 номер, 12 броя в комплект",
     "url": "https://skladbg.net/produkt/%d0%b4%d0%b0%d0%bc%d1%81%d0%ba%d0%b8-%d1%87%d0%b5%d1%85%d0%bb%d0%b8-%d0%bc%d0%ba-36-40-%d0%bd%d0%be%d0%bc%d0%b5%d1%80-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba-5/",
@@ -33687,12 +33333,6 @@
     "id": 55339,
     "name": "Kръгла силиконова подложка за горещи съдове, Danny Home, 20 см",
     "url": "https://skladbg.net/produkt/k%d1%80%d1%8a%d0%b3%d0%bb%d0%b0-%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%b3%d0%be%d1%80%d0%b5%d1%89%d0%b8-%d1%81/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 55343,
-    "name": "Силиконова подложка за месене, точене Danny Home 70 х 50 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bc%d0%b5%d1%81%d0%b5%d0%bd%d0%b5-%d1%82%d0%be%d1%87%d0%b5%d0%bd%d0%b5-da/",
     "reason": "no_supported_product_type"
   },
   {
@@ -34491,7 +34131,7 @@
     "id": 56155,
     "name": "Комплект 12 броя ластици за коса, 6 х 1 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%bb%d0%b0%d1%81%d1%82%d0%b8%d1%86%d0%b8-%d0%b7%d0%b0-%d0%ba%d0%be%d1%81%d0%b0-6-%d1%85-1-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "out_of_stock_or_not_purchasable"
   },
   {
     "id": 56160,
@@ -34522,6 +34162,18 @@
     "name": "Меко одеяло Danny Home, 150 х 200 см",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d0%ba%d0%be-%d0%be%d0%b4%d0%b5%d1%8f%d0%bb%d0%be-danny-home-150-%d1%85-200-%d1%81%d0%bc/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 56209,
+    "name": "Меко одеяло Danny Home, 150 х 200 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d0%ba%d0%be-%d0%be%d0%b4%d0%b5%d1%8f%d0%bb%d0%be-danny-home-150-%d1%85-200-%d1%81%d0%bc-2/",
+    "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 56212,
+    "name": "Порцеланова кутия за масло, Danny Home, 16.5 х 13 х 7.8 cm 677g",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-16-5-%d1%85-13-%d1%85-7-8-cm-677g/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 56215,
@@ -34557,7 +34209,7 @@
     "id": 56246,
     "name": "Чанта през рамо еко кожа, Danny Home, 13 x 18.5 cm",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%bf%d1%80%d0%b5%d0%b7-%d1%80%d0%b0%d0%bc%d0%be-%d0%b5%d0%ba%d0%be-%d0%ba%d0%be%d0%b6%d0%b0-danny-home-13-x-18-5-cm/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 56249,
@@ -34576,6 +34228,12 @@
     "name": "360° въртящ се кухненски органайзер (сушилник) за прибори с функция за оттичане, Danny Home, 16 х 16 х 20.3 cm 527g",
     "url": "https://skladbg.net/produkt/360-%d0%b2%d1%8a%d1%80%d1%82%d1%8f%d1%89-%d1%81%d0%b5-%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-%d1%81%d1%83%d1%88/",
     "reason": "out_of_stock_or_not_purchasable"
+  },
+  {
+    "id": 56277,
+    "name": "Oрганайзер за кухненска мивка с вграден дозатор за сапун, 18 х 11 х 18.8 cm 420g",
+    "url": "https://skladbg.net/produkt/o%d1%80%d0%b3%d0%b0%d0%bd%d0%b0%d0%b9%d0%b7%d0%b5%d1%80-%d0%b7%d0%b0-%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b0-%d0%bc%d0%b8%d0%b2%d0%ba%d0%b0-%d1%81-%d0%b2%d0%b3%d1%80%d0%b0%d0%b4%d0%b5/",
+    "reason": "organizer_is_not_utility_rack"
   },
   {
     "id": 56280,
@@ -34635,7 +34293,7 @@
     "id": 56335,
     "name": "Конструктор Май ворлд, 556 части, 39 х 36 х 6 см, размер опаковка",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d0%be%d1%80-%d0%bc%d0%b0%d0%b9-%d0%b2%d0%be%d1%80%d0%bb%d0%b4-556-%d1%87%d0%b0%d1%81%d1%82%d0%b8-39-%d1%85-36-%d1%85-6-%d1%81%d0%bc-%d1%80/",
-    "reason": "no_supported_product_type"
+    "reason": "out_of_stock_or_not_purchasable"
   },
   {
     "id": 56339,
@@ -34725,12 +34383,6 @@
     "id": 56420,
     "name": "Четка за масаж на скалпа, 17 х 7 х 4 см",
     "url": "https://skladbg.net/produkt/%d1%87%d0%b5%d1%82%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%b0%d0%b6-%d0%bd%d0%b0-%d1%81%d0%ba%d0%b0%d0%bb%d0%bf%d0%b0-17-%d1%85-7-%d1%85-4-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 56424,
-    "name": "Малък джобен нож, 13 х 2 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b0%d0%bb%d1%8a%d0%ba-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-13-%d1%85-2-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
   },
   {
@@ -34857,12 +34509,6 @@
     "id": 56527,
     "name": "Кухненска престилка от плат, 73 х 68 см, 12 броя в комплект",
     "url": "https://skladbg.net/produkt/%d0%ba%d1%83%d1%85%d0%bd%d0%b5%d0%bd%d1%81%d0%ba%d0%b0-%d0%bf%d1%80%d0%b5%d1%81%d1%82%d0%b8%d0%bb%d0%ba%d0%b0-%d0%be%d1%82-%d0%bf%d0%bb%d0%b0%d1%82-73-%d1%85-68-%d1%81%d0%bc-12-%d0%b1%d1%80%d0%be-5/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 56534,
-    "name": "Mетална фруктиера, Danny Home",
-    "url": "https://skladbg.net/produkt/m%d0%b5%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-danny-home/",
     "reason": "no_supported_product_type"
   },
   {
@@ -35070,24 +34716,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 56903,
-    "name": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-15-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 56908,
-    "name": "Автоматичен Джобен нож, 15 х 2 см, 4 броя в кутия",
-    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-15-%d1%85-2-%d1%81%d0%bc-4-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 56912,
-    "name": "Автоматичен Джобен нож, 24 х 3 см",
-    "url": "https://skladbg.net/produkt/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d0%b4%d0%b6%d0%be%d0%b1%d0%b5%d0%bd-%d0%bd%d0%be%d0%b6-24-%d1%85-3-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 56916,
     "name": "Преса за чесън, 15 х 5 х 3 см",
     "url": "https://skladbg.net/produkt/%d0%bf%d1%80%d0%b5%d1%81%d0%b0-%d0%b7%d0%b0-%d1%87%d0%b5%d1%81%d1%8a%d0%bd-15-%d1%85-5-%d1%85-3-%d1%81%d0%bc/",
@@ -35098,6 +34726,18 @@
     "name": "Белачка за плодове и зеленчуци, 16 х 3 см",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b5%d0%bb%d0%b0%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%b8-%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%87%d1%83%d1%86%d0%b8-16-%d1%85-3-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 56933,
+    "name": "Мъжка чанта от кожа, която може да се носи на колан или през рамо, 20 х 13 х 5 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%be%d1%82-%d0%ba%d0%be%d0%b6%d0%b0-%d0%ba%d0%be%d1%8f%d1%82%d0%be-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%bd%d0%be/",
+    "reason": "product_type_not_in_template"
+  },
+  {
+    "id": 56937,
+    "name": "Мъжка чанта, която може да се носи на колан или през рамо, 20 х 13 х 5 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d1%8a%d0%b6%d0%ba%d0%b0-%d1%87%d0%b0%d0%bd%d1%82%d0%b0-%d0%ba%d0%be%d1%8f%d1%82%d0%be-%d0%bc%d0%be%d0%b6%d0%b5-%d0%b4%d0%b0-%d1%81%d0%b5-%d0%bd%d0%be%d1%81%d0%b8-%d0%bd%d0%b0-%d0%ba%d0%be/",
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 56942,
@@ -35394,24 +35034,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 57487,
-    "name": "Стъклена бонбониера, Danny Home, 9 х 9 х 14 см, 425мл",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-9-%d1%85-9-%d1%85-14-%d1%81%d0%bc-425%d0%bc%d0%bb/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 57490,
-    "name": "Стъклена бонбониера, Danny Home, 13 х 13 х 18 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-13-%d1%85-13-%d1%85-18-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 57493,
-    "name": "Стъклена бонбониера, Danny Home, 12 х 12 х 23 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-12-%d1%85-12-%d1%85-23-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 57496,
     "name": "Стъкленa бутика (шише), Danny Home, 1000 мл, 12 броя в кутия",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bda-%d0%b1%d1%83%d1%82%d0%b8%d0%ba%d0%b0-%d1%88%d0%b8%d1%88%d0%b5-danny-home-1000-%d0%bc%d0%bb-12-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d0%ba%d1%83%d1%82%d0%b8-10/",
@@ -35586,12 +35208,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 57689,
-    "name": "Стъклена бонбониера, Danny Home, 9.1 х 9.1 х 24 cm",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-9-1-%d1%85-9-1-%d1%85-24-cm/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 57692,
     "name": "Стъклена бонбониера, Danny Home, 18.7 х 18.7 х 18 cm 1200ml",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-danny-home-18-7-%d1%85-18-7-%d1%85-18-cm-1200ml/",
@@ -35608,6 +35224,12 @@
     "name": "Силиконова подложка за сушене на съдове Danny Home, 15 х 42.8 см",
     "url": "https://skladbg.net/produkt/%d1%81%d0%b8%d0%bb%d0%b8%d0%ba%d0%be%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%be%d0%b4%d0%bb%d0%be%d0%b6%d0%ba%d0%b0-%d0%b7%d0%b0-%d1%81%d1%83%d1%88%d0%b5%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%81%d1%8a%d0%b4%d0%be/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 57754,
+    "name": "Детска шапка тип идиотка, различни шарки и цветове, 18 х 13 см, 12 броя в стек",
+    "url": "https://skladbg.net/produkt/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d1%82%d0%b8%d0%bf-%d0%b8%d0%b4%d0%b8%d0%be%d1%82%d0%ba%d0%b0-%d1%80%d0%b0%d0%b7%d0%bb%d0%b8%d1%87%d0%bd%d0%b8-%d1%88%d0%b0%d1%80/",
+    "reason": "hat_type_not_in_template"
   },
   {
     "id": 57780,
@@ -36462,24 +36084,6 @@
     "reason": "out_of_stock_or_not_purchasable"
   },
   {
-    "id": 59381,
-    "name": "Стъклена фруктиера за плодове на столче, Danny Home 25 х 8 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 59384,
-    "name": "Стъклена фруктиера за плодове на столче, Danny Home 26 х 11 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 59387,
-    "name": "Стъклена фруктиера за плодове на столче, Danny Home 26 х 14 см",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%bb%d0%be%d0%b4%d0%be%d0%b2%d0%b5-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb-3/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 59410,
     "name": "3 броя Стъклена тава за печене Йенско стъкло, Danny Home, 25.8*17.9*6cm /1.6L 30.3*21.3*6.5cm /2.4L 35*24.2*6.5cm /3L",
     "url": "https://skladbg.net/produkt/3-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%82%d0%b0%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b5-%d0%b9%d0%b5%d0%bd%d1%81%d0%ba%d0%be-%d1%81-2/",
@@ -36489,12 +36093,6 @@
     "id": 59433,
     "name": "2 броя Стъклена тава за печене Йенско стъкло, Danny Home, 1.6L 26*17.5*6cm 3.0L 35*24*6.5cm",
     "url": "https://skladbg.net/produkt/2-%d0%b1%d1%80%d0%be%d1%8f-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d1%82%d0%b0%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b5-%d0%b9%d0%b5%d0%bd%d1%81%d0%ba%d0%be-%d1%81%d1%82/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 59436,
-    "name": "Kомплект от 3 правоъгълни стъклени контейнери Danny Home за съхранение на храна с херметични бели капаци, 400ml 14.5*10.5*4.7cm 630ml 17*12.5*5.25cm  1000ml 19.7*14.7*6cm",
-    "url": "https://skladbg.net/produkt/k%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-3-%d0%bf%d1%80%d0%b0%d0%b2%d0%be%d1%8a%d0%b3%d1%8a%d0%bb%d0%bd%d0%b8-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b8-%d0%ba%d0%be%d0%bd%d1%82/",
     "reason": "no_supported_product_type"
   },
   {
@@ -36526,6 +36124,12 @@
     "name": "Мрежеста торба за пране, 30 х 40 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%bc%d1%80%d0%b5%d0%b6%d0%b5%d1%81%d1%82%d0%b0-%d1%82%d0%be%d1%80%d0%b1%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b0%d0%bd%d0%b5-30-%d1%85-40-%d1%85-10-%d1%81%d0%bc/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 59522,
+    "name": "Водоустойчива шапка за баня, 20 х 15 см",
+    "url": "https://skladbg.net/produkt/%d0%b2%d0%be%d0%b4%d0%be%d1%83%d1%81%d1%82%d0%be%d0%b9%d1%87%d0%b8%d0%b2%d0%b0-%d1%88%d0%b0%d0%bf%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%b0%d0%bd%d1%8f-20-%d1%85-15-%d1%81%d0%bc/",
+    "reason": "hat_type_not_in_template"
   },
   {
     "id": 59527,
@@ -36591,7 +36195,7 @@
     "id": 59597,
     "name": "Клечки за уши дървени, 6 броя в стек 10 х 8 см",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%bb%d0%b5%d1%87%d0%ba%d0%b8-%d0%b7%d0%b0-%d1%83%d1%88%d0%b8-%d0%b4%d1%8a%d1%80%d0%b2%d0%b5%d0%bd%d0%b8-6-%d0%b1%d1%80%d0%be%d1%8f-%d0%b2-%d1%81%d1%82%d0%b5%d0%ba-10-%d1%85-8-%d1%81%d0%bc/",
-    "reason": "no_supported_product_type"
+    "reason": "product_type_not_in_template"
   },
   {
     "id": 59602,
@@ -36604,6 +36208,12 @@
     "name": "Виж детайли Декоративна кристална LED лампа, 26 х 10 х 10 см",
     "url": "https://skladbg.net/produkt/%d0%b2%d0%b8%d0%b6-%d0%b4%d0%b5%d1%82%d0%b0%d0%b9%d0%bb%d0%b8-%d0%b4%d0%b5%d0%ba%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0-%d0%ba%d1%80%d0%b8%d1%81%d1%82%d0%b0%d0%bb%d0%bd%d0%b0-led-%d0%bb%d0%b0/",
     "reason": "no_supported_product_type"
+  },
+  {
+    "id": 59611,
+    "name": "Мини LED прожектор с коледни фигури, 10 х 7 см",
+    "url": "https://skladbg.net/produkt/%d0%bc%d0%b8%d0%bd%d0%b8-led-%d0%bf%d1%80%d0%be%d0%b6%d0%b5%d0%ba%d1%82%d0%be%d1%80-%d1%81-%d0%ba%d0%be%d0%bb%d0%b5%d0%b4%d0%bd%d0%b8-%d1%84%d0%b8%d0%b3%d1%83%d1%80%d0%b8-10-%d1%85-7-%d1%81%d0%bc/",
+    "reason": "decorative_accessory_type_not_in_template"
   },
   {
     "id": 59617,
@@ -36858,6 +36468,12 @@
     "reason": "no_supported_product_type"
   },
   {
+    "id": 59941,
+    "name": "Порцеланова кутия за масло, Danny Home, 4 х 20.5 х 10.5cm 626g",
+    "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b0-%d0%ba%d1%83%d1%82%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%be-danny-home-4-%d1%85-20-5-%d1%85-10-5cm-626g/",
+    "reason": "product_type_not_in_template"
+  },
+  {
     "id": 59944,
     "name": "Порцеланови Купичка за крем брюле/ карамел и др Danny Home. 9.2 х 5cm, 230ml, 166g, 24 броя в стек",
     "url": "https://skladbg.net/produkt/%d0%bf%d0%be%d1%80%d1%86%d0%b5%d0%bb%d0%b0%d0%bd%d0%be%d0%b2%d0%b8-%d0%ba%d1%83%d0%bf%d0%b8%d1%87%d0%ba%d0%b0-%d0%b7%d0%b0-%d0%ba%d1%80%d0%b5%d0%bc-%d0%b1%d1%80%d1%8e%d0%bb%d0%b5-%d0%ba%d0%b0%d1%80-2/",
@@ -36879,12 +36495,6 @@
     "id": 59999,
     "name": "Метален предпазен капак (мрежа) за храна, Danny Home, 35 cm",
     "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d0%bf%d1%80%d0%b5%d0%b4%d0%bf%d0%b0%d0%b7%d0%b5%d0%bd-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-%d0%bc%d1%80%d0%b5%d0%b6%d0%b0-%d0%b7%d0%b0-%d1%85%d1%80%d0%b0%d0%bd/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 60003,
-    "name": "Метален сушилник за съдове, Danny Home, 42.4 х 24.4 х 14.4 cm 1.54kg",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d1%81%d1%8a%d0%b4%d0%be%d0%b2%d0%b5-danny-home-42-4-%d1%85-24-4-%d1%85-14-4-cm-1-54kg/",
     "reason": "no_supported_product_type"
   },
   {
@@ -37102,18 +36712,6 @@
     "name": "Безжичен автомобилен компресор (електрическа въздушна помпа) с цифров LCD дисплей, маркуч за надуване, приставки и кабел за зареждане (включително адаптер за запалка",
     "url": "https://skladbg.net/produkt/%d0%b1%d0%b5%d0%b7%d0%b6%d0%b8%d1%87%d0%b5%d0%bd-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d0%b5%d0%bd-%d0%ba%d0%be%d0%bc%d0%bf%d1%80%d0%b5%d1%81%d0%be%d1%80-%d0%b5%d0%bb%d0%b5%d0%ba/",
     "reason": "unsupported_main_product_type"
-  },
-  {
-    "id": 60722,
-    "name": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 60726,
-    "name": "Метален сушилник за прибори от неръждаема стомана, 17 х 10 см",
-    "url": "https://skladbg.net/produkt/%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%b5%d0%bd-%d1%81%d1%83%d1%88%d0%b8%d0%bb%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%b8-%d0%be%d1%82-%d0%bd%d0%b5%d1%80%d1%8a%d0%b6%d0%b4-2/",
-    "reason": "no_supported_product_type"
   },
   {
     "id": 60730,
@@ -37380,18 +36978,6 @@
     "reason": "no_supported_product_type"
   },
   {
-    "id": 61222,
-    "name": "Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 9.8 х 12.4 х 13.1 cm, 340ml",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 61225,
-    "name": "Стъклен буркан (бонбониера) за бонбони и сладкиши Danny Home, 8.4 х 12.4 х 18.4 cm,1225ml",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%b7%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8-2/",
-    "reason": "no_supported_product_type"
-  },
-  {
     "id": 61228,
     "name": "Комплект от 3 стъклени бурканчета за чай, захар и кафе с прозрачни стъклени капаци, 8.8 х 10.5 х 14 cm, 1100ml",
     "url": "https://skladbg.net/produkt/%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82-%d0%be%d1%82-3-%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b8-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd%d1%87%d0%b5%d1%82%d0%b0-%d0%b7%d0%b0-%d1%87%d0%b0/",
@@ -37401,12 +36987,6 @@
     "id": 61232,
     "name": "Стъклен буркан за съхранение Danny Home, 9.9 х 15.7 х 23.7 cm",
     "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd-%d0%b1%d1%83%d1%80%d0%ba%d0%b0%d0%bd-%d0%b7%d0%b0-%d1%81%d1%8a%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-danny-home-9-9-%d1%85-15-7-%d1%85-23-7-cm/",
-    "reason": "no_supported_product_type"
-  },
-  {
-    "id": 61241,
-    "name": "Стъклена бонбониера ,капак на столче, Danny Home, 8.9 х 36.4 х 12 cm",
-    "url": "https://skladbg.net/produkt/%d1%81%d1%82%d1%8a%d0%ba%d0%bb%d0%b5%d0%bd%d0%b0-%d0%b1%d0%be%d0%bd%d0%b1%d0%be%d0%bd%d0%b8%d0%b5%d1%80%d0%b0-%d0%ba%d0%b0%d0%bf%d0%b0%d0%ba-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d1%87%d0%b5-danny-h/",
     "reason": "no_supported_product_type"
   },
   {

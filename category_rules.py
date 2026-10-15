@@ -37,7 +37,7 @@ def normalize(text):
  s=re.sub(r'(?<![a-zа-я])([a-z])(?=[а-я])',lambda m:{'a':'а','k':'к','m':'м','o':'о','p':'р','t':'т','x':'х'}.get(m[1],m[1]),s)
  return s.replace('aлбум','албум')
 def classify(product,allowed,overrides=None):
- if overrides and str(product['id']) in overrides:
+ if overrides and overrides.get(str(product['id']),{}).get('category_id') is not None:
   cat=int(overrides[str(product['id'])]['category_id']);return (cat,'override') if cat in allowed else (None,'override_category_not_in_template')
  s=normalize(product.get('name',''))
  # Display carton text can mention unrelated objects; it is not the product type.

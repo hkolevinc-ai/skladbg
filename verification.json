@@ -1,18 +1,38 @@
 {
   "date": "2026-10-14",
+  "version": 2,
   "source_catalog_records": 7612,
-  "in_stock_records": 5078,
-  "exported_records": 1335,
-  "temu_categories_exported": 109,
+  "api_pages": 77,
+  "in_stock_records": 5076,
+  "exported_records": 1405,
+  "temu_categories_exported": 118,
   "template_allowlist": 359,
-  "tests_passed": 15,
-  "metadata_preserved": "All ZIP members except xl/worksheets/sheet10.xml are byte-identical to the original template. Reserved rows 1-4 and validation rules verified.",
+  "tests_passed": 25,
+  "mandatory_fields_complete": true,
+  "rows_with_missing_required_or_invalid_fields": 0,
+  "allowed_blank_required_fields": [
+    "Manufacturer",
+    "EU Responsible person"
+  ],
+  "estimated_cells": 9005,
+  "supplier_information_missing_cells": 1405,
+  "province_marker": "Not provided by supplier; user-approved when supplier information is absent",
+  "metadata_preserved": "All ZIP members except xl/worksheets/sheet10.xml are byte-identical to the original template; reserved rows 1-4 and category formula preserved. ZIP CRCs checked.",
+  "category_formula_check": "1405 category results recalculated with the bounded VLOOKUP equivalent in Artifact Tool; original Excel formula retained in the delivered file. Native Excel/Temu import was not executed.",
+  "all_current_rule_matches_exported": true,
+  "unique_contribution_skus": 1405,
   "description_sources": {
-    "source_fields": 1321,
+    "source_fields": 1391,
     "reviewed_images": 14
   },
   "vision_api_test": "Mocked HTTP response verifies actual input_image requests and cache reuse. No paid live OpenAI call was made.",
-  "public_source_api_test": "Live HttpClient request returned product ID 4610 and X-WP-Total 7612. Full real catalog downloaded with pagination and unique-ID verification.",
+  "public_source_api_test": "Full live public catalog fetched in this session; pagination and unique-ID counts verified.",
+  "template_sha256": "3b0e4b30699c808d63e99896381ef33cfd1aa66b1d6f4506175dd194040eba40",
+  "output_sha256": "d7ffbfb619b76a1ca757efce925216bbd8a164147b15f6db905a120038c15eea",
   "upload_ready": false,
-  "template_sha256": "3b0e4b30699c808d63e99896381ef33cfd1aa66b1d6f4506175dd194040eba40"
+  "category_corrections_vs_uploaded_result": {
+    "included": 144,
+    "removed": 70,
+    "category_corrected": 39
+  }
 }

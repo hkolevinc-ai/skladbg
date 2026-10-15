@@ -23,8 +23,8 @@ class HttpClient:
   first,headers=self.json(self.products_url(1,**params))
   if not isinstance(first,list):raise ValueError('API did not return a product list')
   headers={k.lower():v for k,v in headers.items()}
+  if 'x-wp-total' not in headers or 'x-wp-totalpages' not in headers:raise ValueError('Pagination headers missing; refusing an incomplete export')
   total=int(headers.get('x-wp-total',len(first)));pages=int(headers.get('x-wp-totalpages',1))
-  if total>100 and 'x-wp-totalpages' not in headers:raise ValueError('Pagination headers missing; refusing an incomplete export')
   products=list(first)
   with concurrent.futures.ThreadPoolExecutor(max_workers=self.workers) as pool:
    def get(n):return n,self.json(self.products_url(n,**params))[0]
